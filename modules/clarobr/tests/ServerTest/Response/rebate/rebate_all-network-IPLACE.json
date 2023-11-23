@@ -1,0 +1,2734 @@
+{
+  "type": "success",
+  "message": "",
+  "data": {
+    "rebate": {
+      "_id": "5cd5bdaf8a8d0726316a8e41",
+      "model": "Iphone 8 PL 64GB",
+      "gamma": "Smartphone Premium",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_8_pl_64gb",
+      "mobile_operators": [
+        {
+          "name": "Claro",
+          "regionals": [
+            {
+              "name": "SPI",
+              "bases": [
+                {
+                  "name": "portabilidade",
+                  "plans": [
+                    {
+                      "sanitized": "pre_pago",
+                      "name": "Pre-Pago",
+                      "value": "4599",
+                      "_id": {
+                        "$oid": "5cd5bdaf8a8d0726316a8e34"
+                      }
+                    },
+                    {
+                      "sanitized": "dependente",
+                      "name": "Dependente",
+                      "value": "3459",
+                      "_id": {
+                        "$oid": "5cd5bdaf8a8d0726316a8e35"
+                      }
+                    },
+                    {
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "value": "3459",
+                      "_id": {
+                        "$oid": "5cd5bdaf8a8d0726316a8e36"
+                      }
+                    },
+                    {
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "value": "3449",
+                      "_id": {
+                        "$oid": "5cd5bdaf8a8d0726316a8e37"
+                      }
+                    },
+                    {
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "value": "3439",
+                      "_id": {
+                        "$oid": "5cd5bdaf8a8d0726316a8e38"
+                      }
+                    },
+                    {
+                      "sanitized": "claro_pos_7gb_2018",
+                      "name": "Claro Pos 7GB 2018",
+                      "value": "3399",
+                      "_id": {
+                        "$oid": "5cd5bdaf8a8d0726316a8e39"
+                      }
+                    },
+                    {
+                      "sanitized": "claro_pos_10gb_2018",
+                      "name": "Claro Pos 10GB 2018",
+                      "value": "3349",
+                      "_id": {
+                        "$oid": "5cd5bdaf8a8d0726316a8e3a"
+                      }
+                    },
+                    {
+                      "sanitized": "claro_pos_15gb_2018",
+                      "name": "Claro Pos 15GB 2018",
+                      "value": "3299",
+                      "_id": {
+                        "$oid": "5cd5bdaf8a8d0726316a8e3b"
+                      }
+                    },
+                    {
+                      "sanitized": "claro_pos_30gb_2018",
+                      "name": "Claro Pos 30GB 2018",
+                      "value": "3229",
+                      "_id": {
+                        "$oid": "5cd5bdaf8a8d0726316a8e3c"
+                      }
+                    },
+                    {
+                      "sanitized": "claro_pos_60gb_2018",
+                      "name": "Claro Pos 60GB 2018",
+                      "value": "3099",
+                      "_id": {
+                        "$oid": "5cd5bdaf8a8d0726316a8e3d"
+                      }
+                    }
+                  ],
+                  "_id": {
+                    "$oid": "5cd5bdaf8a8d0726316a8e3e"
+                  }
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5bdf68a8d07357d4b05b1"
+                  },
+                  "name": "consumo",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf68a8d07357d4b05a7"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf68a8d07357d4b05a8"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf68a8d07357d4b05a9"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf68a8d07357d4b05aa"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf68a8d07357d4b05ab"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf68a8d07357d4b05ac"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf68a8d07357d4b05ad"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf68a8d07357d4b05ae"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf68a8d07357d4b05af"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf68a8d07357d4b05b0"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5beaf8a8d075909369b51"
+                  },
+                  "name": "cliente-base",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5beaf8a8d075909369b47"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beaf8a8d075909369b48"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beaf8a8d075909369b49"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beaf8a8d075909369b4a"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beaf8a8d075909369b4b"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beaf8a8d075909369b4c"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beaf8a8d075909369b4d"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beaf8a8d075909369b4e"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beaf8a8d075909369b4f"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beaf8a8d075909369b50"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                }
+              ],
+              "_id": "5cd5bdaf8a8d0726316a8e3f",
+              "updated_at": "2019-05-10 15:10:55"
+            },
+            {
+              "_id": "5cd5bdb78a8d0727b601d541",
+              "bases": [
+                {
+                  "_id": {
+                    "$oid": "5cd5bdb78a8d0727b601d540"
+                  },
+                  "name": "portabilidade",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdb78a8d0727b601d536"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdb78a8d0727b601d537"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdb78a8d0727b601d538"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdb78a8d0727b601d539"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdb78a8d0727b601d53a"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdb78a8d0727b601d53b"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdb78a8d0727b601d53c"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdb78a8d0727b601d53d"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdb78a8d0727b601d53e"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdb78a8d0727b601d53f"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5bdfc8a8d0736a62b7191"
+                  },
+                  "name": "consumo",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdfc8a8d0736a62b7187"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdfc8a8d0736a62b7188"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdfc8a8d0736a62b7189"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdfc8a8d0736a62b718a"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdfc8a8d0736a62b718b"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdfc8a8d0736a62b718c"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdfc8a8d0736a62b718d"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdfc8a8d0736a62b718e"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdfc8a8d0736a62b718f"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdfc8a8d0736a62b7190"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5bea68a8d075761642571"
+                  },
+                  "name": "cliente-base",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bea68a8d075761642567"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bea68a8d075761642568"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bea68a8d075761642569"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bea68a8d07576164256a"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bea68a8d07576164256b"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bea68a8d07576164256c"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bea68a8d07576164256d"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bea68a8d07576164256e"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bea68a8d07576164256f"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bea68a8d075761642570"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                }
+              ],
+              "name": "SPC",
+              "updated_at": "2019-05-10 15:10:46"
+            },
+            {
+              "_id": "5cd5bdbf8a8d07297371da51",
+              "bases": [
+                {
+                  "_id": {
+                    "$oid": "5cd5bdbf8a8d07297371da50"
+                  },
+                  "name": "portabilidade",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdbf8a8d07297371da46"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdbf8a8d07297371da47"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdbf8a8d07297371da48"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdbf8a8d07297371da49"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdbf8a8d07297371da4a"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdbf8a8d07297371da4b"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdbf8a8d07297371da4c"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdbf8a8d07297371da4d"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdbf8a8d07297371da4e"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdbf8a8d07297371da4f"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5be088a8d07393b362561"
+                  },
+                  "name": "consumo",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5be088a8d07393b362557"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be088a8d07393b362558"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be088a8d07393b362559"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be088a8d07393b36255a"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be088a8d07393b36255b"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be088a8d07393b36255c"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be088a8d07393b36255d"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be088a8d07393b36255e"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be088a8d07393b36255f"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be088a8d07393b362560"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5be9d8a8d0755c222a501"
+                  },
+                  "name": "cliente-base",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5be9d8a8d0755c222a4f7"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be9d8a8d0755c222a4f8"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be9d8a8d0755c222a4f9"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be9d8a8d0755c222a4fa"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be9d8a8d0755c222a4fb"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be9d8a8d0755c222a4fc"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be9d8a8d0755c222a4fd"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be9d8a8d0755c222a4fe"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be9d8a8d0755c222a4ff"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be9d8a8d0755c222a500"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                }
+              ],
+              "name": "RS",
+              "updated_at": "2019-05-10 15:10:37"
+            },
+            {
+              "_id": "5cd5bdc68a8d072b5d52a201",
+              "bases": [
+                {
+                  "_id": {
+                    "$oid": "5cd5bdc68a8d072b5d52a200"
+                  },
+                  "name": "portabilidade",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdc68a8d072b5d52a1f6"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdc68a8d072b5d52a1f7"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdc68a8d072b5d52a1f8"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdc68a8d072b5d52a1f9"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdc68a8d072b5d52a1fa"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdc68a8d072b5d52a1fb"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdc68a8d072b5d52a1fc"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdc68a8d072b5d52a1fd"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdc68a8d072b5d52a1fe"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdc68a8d072b5d52a1ff"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5be0f8a8d073aa648b871"
+                  },
+                  "name": "consumo",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0f8a8d073aa648b867"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0f8a8d073aa648b868"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0f8a8d073aa648b869"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0f8a8d073aa648b86a"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0f8a8d073aa648b86b"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0f8a8d073aa648b86c"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0f8a8d073aa648b86d"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0f8a8d073aa648b86e"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0f8a8d073aa648b86f"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0f8a8d073aa648b870"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5be868a8d0751055831b1"
+                  },
+                  "name": "cliente-base",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5be868a8d0751055831a7"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be868a8d0751055831a8"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be868a8d0751055831a9"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be868a8d0751055831aa"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be868a8d0751055831ab"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be868a8d0751055831ac"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be868a8d0751055831ad"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be868a8d0751055831ae"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be868a8d0751055831af"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be868a8d0751055831b0"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                }
+              ],
+              "name": "RJ\/ES",
+              "updated_at": "2019-05-10 15:10:14"
+            },
+            {
+              "_id": "5cd5bdcd8a8d072cf14e8b31",
+              "bases": [
+                {
+                  "_id": {
+                    "$oid": "5cd5bdcd8a8d072cf14e8b30"
+                  },
+                  "name": "portabilidade",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdcd8a8d072cf14e8b26"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdcd8a8d072cf14e8b27"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdcd8a8d072cf14e8b28"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdcd8a8d072cf14e8b29"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdcd8a8d072cf14e8b2a"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdcd8a8d072cf14e8b2b"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdcd8a8d072cf14e8b2c"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdcd8a8d072cf14e8b2d"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdcd8a8d072cf14e8b2e"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdcd8a8d072cf14e8b2f"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5be1b8a8d073dce37a3c1"
+                  },
+                  "name": "consumo",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5be1b8a8d073dce37a3b7"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be1b8a8d073dce37a3b8"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be1b8a8d073dce37a3b9"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be1b8a8d073dce37a3ba"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be1b8a8d073dce37a3bb"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be1b8a8d073dce37a3bc"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be1b8a8d073dce37a3bd"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be1b8a8d073dce37a3be"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be1b8a8d073dce37a3bf"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be1b8a8d073dce37a3c0"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5be748a8d074d9219a981"
+                  },
+                  "name": "cliente-base",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5be748a8d074d9219a977"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be748a8d074d9219a978"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be748a8d074d9219a979"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be748a8d074d9219a97a"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be748a8d074d9219a97b"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be748a8d074d9219a97c"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be748a8d074d9219a97d"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be748a8d074d9219a97e"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be748a8d074d9219a97f"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be748a8d074d9219a980"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                }
+              ],
+              "name": "PR\/SC",
+              "updated_at": "2019-05-10 15:09:56"
+            },
+            {
+              "_id": "5cd5bdd58a8d072eac5e6501",
+              "bases": [
+                {
+                  "_id": {
+                    "$oid": "5cd5bdd58a8d072eac5e6500"
+                  },
+                  "name": "portabilidade",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdd58a8d072eac5e64f6"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdd58a8d072eac5e64f7"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdd58a8d072eac5e64f8"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdd58a8d072eac5e64f9"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdd58a8d072eac5e64fa"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdd58a8d072eac5e64fb"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdd58a8d072eac5e64fc"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdd58a8d072eac5e64fd"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdd58a8d072eac5e64fe"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdd58a8d072eac5e64ff"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5be688a8d074bd12fa911"
+                  },
+                  "name": "cliente-base",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5be688a8d074bd12fa907"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be688a8d074bd12fa908"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be688a8d074bd12fa909"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be688a8d074bd12fa90a"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be688a8d074bd12fa90b"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be688a8d074bd12fa90c"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be688a8d074bd12fa90d"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be688a8d074bd12fa90e"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be688a8d074bd12fa90f"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be688a8d074bd12fa910"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5bedb8a8d07610b6e08a1"
+                  },
+                  "name": "consumo",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bedb8a8d07610b6e0897"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bedb8a8d07610b6e0898"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bedb8a8d07610b6e0899"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bedb8a8d07610b6e089a"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bedb8a8d07610b6e089b"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bedb8a8d07610b6e089c"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bedb8a8d07610b6e089d"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bedb8a8d07610b6e089e"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bedb8a8d07610b6e089f"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bedb8a8d07610b6e08a0"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                }
+              ],
+              "name": "NO",
+              "updated_at": "2019-05-10 15:11:39"
+            },
+            {
+              "_id": "5cd5bddb8a8d072ffd0ebe61",
+              "bases": [
+                {
+                  "_id": {
+                    "$oid": "5cd5bddb8a8d072ffd0ebe60"
+                  },
+                  "name": "portabilidade",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bddb8a8d072ffd0ebe56"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bddb8a8d072ffd0ebe57"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bddb8a8d072ffd0ebe58"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bddb8a8d072ffd0ebe59"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bddb8a8d072ffd0ebe5a"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bddb8a8d072ffd0ebe5b"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bddb8a8d072ffd0ebe5c"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bddb8a8d072ffd0ebe5d"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bddb8a8d072ffd0ebe5e"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bddb8a8d072ffd0ebe5f"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5be0e8a8d073a6f570fa1"
+                  },
+                  "name": "cliente-base",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0e8a8d073a6f570f97"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0e8a8d073a6f570f98"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0e8a8d073a6f570f99"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0e8a8d073a6f570f9a"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0e8a8d073a6f570f9b"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0e8a8d073a6f570f9c"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0e8a8d073a6f570f9d"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0e8a8d073a6f570f9e"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0e8a8d073a6f570f9f"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be0e8a8d073a6f570fa0"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5becd8a8d075f1d657141"
+                  },
+                  "name": "consumo",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5becd8a8d075f1d657137"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5becd8a8d075f1d657138"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5becd8a8d075f1d657139"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5becd8a8d075f1d65713a"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5becd8a8d075f1d65713b"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5becd8a8d075f1d65713c"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5becd8a8d075f1d65713d"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5becd8a8d075f1d65713e"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5becd8a8d075f1d65713f"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5becd8a8d075f1d657140"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                }
+              ],
+              "name": "NE",
+              "updated_at": "2019-05-10 15:11:25"
+            },
+            {
+              "_id": "5cd5bde18a8d07315e13b441",
+              "bases": [
+                {
+                  "_id": {
+                    "$oid": "5cd5bde18a8d07315e13b440"
+                  },
+                  "name": "portabilidade",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde18a8d07315e13b436"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde18a8d07315e13b437"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde18a8d07315e13b438"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde18a8d07315e13b439"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde18a8d07315e13b43a"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde18a8d07315e13b43b"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde18a8d07315e13b43c"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde18a8d07315e13b43d"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde18a8d07315e13b43e"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde18a8d07315e13b43f"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5be048a8d073858497ef1"
+                  },
+                  "name": "cliente-base",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5be048a8d073858497ee7"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be048a8d073858497ee8"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be048a8d073858497ee9"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be048a8d073858497eea"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be048a8d073858497eeb"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be048a8d073858497eec"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be048a8d073858497eed"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be048a8d073858497eee"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be048a8d073858497eef"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5be048a8d073858497ef0"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5bec58a8d075dd82627c1"
+                  },
+                  "name": "consumo",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bec58a8d075dd82627b7"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bec58a8d075dd82627b8"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bec58a8d075dd82627b9"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bec58a8d075dd82627ba"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bec58a8d075dd82627bb"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bec58a8d075dd82627bc"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bec58a8d075dd82627bd"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bec58a8d075dd82627be"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bec58a8d075dd82627bf"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bec58a8d075dd82627c0"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                }
+              ],
+              "name": "MG",
+              "updated_at": "2019-05-10 15:11:17"
+            },
+            {
+              "_id": "5cd5bde28a8d0731ad43c4c1",
+              "bases": [
+                {
+                  "_id": {
+                    "$oid": "5cd5bde28a8d0731ad43c4c0"
+                  },
+                  "name": "cliente-base",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde28a8d0731ad43c4b6"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde28a8d0731ad43c4b7"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde28a8d0731ad43c4b8"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde28a8d0731ad43c4b9"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde28a8d0731ad43c4ba"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde28a8d0731ad43c4bb"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde28a8d0731ad43c4bc"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde28a8d0731ad43c4bd"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde28a8d0731ad43c4be"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde28a8d0731ad43c4bf"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5bdf08a8d07344d3b5a51"
+                  },
+                  "name": "portabilidade",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf08a8d07344d3b5a47"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf08a8d07344d3b5a48"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf08a8d07344d3b5a49"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf08a8d07344d3b5a4a"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf08a8d07344d3b5a4b"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf08a8d07344d3b5a4c"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf08a8d07344d3b5a4d"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf08a8d07344d3b5a4e"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf08a8d07344d3b5a4f"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf08a8d07344d3b5a50"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5beb78a8d075a7976a671"
+                  },
+                  "name": "consumo",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5beb78a8d075a7976a667"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beb78a8d075a7976a668"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beb78a8d075a7976a669"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beb78a8d075a7976a66a"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beb78a8d075a7976a66b"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beb78a8d075a7976a66c"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beb78a8d075a7976a66d"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beb78a8d075a7976a66e"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beb78a8d075a7976a66f"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5beb78a8d075a7976a670"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                }
+              ],
+              "name": "BA\/SE",
+              "updated_at": "2019-05-10 15:11:03"
+            },
+            {
+              "_id": "5cd5bde98a8d0733152867d1",
+              "bases": [
+                {
+                  "_id": {
+                    "$oid": "5cd5bde98a8d0733152867d0"
+                  },
+                  "name": "portabilidade",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde98a8d0733152867c6"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde98a8d0733152867c7"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde98a8d0733152867c8"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde98a8d0733152867c9"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde98a8d0733152867ca"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde98a8d0733152867cb"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde98a8d0733152867cc"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde98a8d0733152867cd"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde98a8d0733152867ce"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bde98a8d0733152867cf"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5bdf28a8d0734ee487801"
+                  },
+                  "name": "cliente-base",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf28a8d0734ee4877f7"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf28a8d0734ee4877f8"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf28a8d0734ee4877f9"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf28a8d0734ee4877fa"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf28a8d0734ee4877fb"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf28a8d0734ee4877fc"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf28a8d0734ee4877fd"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf28a8d0734ee4877fe"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf28a8d0734ee4877ff"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bdf28a8d0734ee487800"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                },
+                {
+                  "_id": {
+                    "$oid": "5cd5bebe8a8d075bf1336d91"
+                  },
+                  "name": "consumo",
+                  "plans": [
+                    {
+                      "_id": {
+                        "$oid": "5cd5bebe8a8d075bf1336d87"
+                      },
+                      "name": "Pre-Pago",
+                      "sanitized": "pre_pago",
+                      "value": "4599"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bebe8a8d075bf1336d88"
+                      },
+                      "name": "Dependente",
+                      "sanitized": "dependente",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bebe8a8d075bf1336d89"
+                      },
+                      "name": "Claro Controle Plus 3GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_3gb_minutos_ilimitados",
+                      "value": "3459"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bebe8a8d075bf1336d8a"
+                      },
+                      "name": "Claro Controle Plus 4GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_4gb_minutos_ilimitados",
+                      "value": "3449"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bebe8a8d075bf1336d8b"
+                      },
+                      "name": "Claro Controle Plus 5GB + Minutos Ilimitados",
+                      "sanitized": "claro_controle_plus_5gb_minutos_ilimitados",
+                      "value": "3439"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bebe8a8d075bf1336d8c"
+                      },
+                      "name": "Claro Pos 7GB 2018",
+                      "sanitized": "claro_pos_7gb_2018",
+                      "value": "3399"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bebe8a8d075bf1336d8d"
+                      },
+                      "name": "Claro Pos 10GB 2018",
+                      "sanitized": "claro_pos_10gb_2018",
+                      "value": "3349"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bebe8a8d075bf1336d8e"
+                      },
+                      "name": "Claro Pos 15GB 2018",
+                      "sanitized": "claro_pos_15gb_2018",
+                      "value": "3299"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bebe8a8d075bf1336d8f"
+                      },
+                      "name": "Claro Pos 30GB 2018",
+                      "sanitized": "claro_pos_30gb_2018",
+                      "value": "3229"
+                    },
+                    {
+                      "_id": {
+                        "$oid": "5cd5bebe8a8d075bf1336d90"
+                      },
+                      "name": "Claro Pos 60GB 2018",
+                      "sanitized": "claro_pos_60gb_2018",
+                      "value": "3099"
+                    }
+                  ]
+                }
+              ],
+              "name": "CO",
+              "updated_at": "2019-05-10 15:11:10"
+            }
+          ],
+          "_id": "5cd5bdaf8a8d0726316a8e40",
+          "updated_at": "2019-05-10 15:11:39"
+        }
+      ],
+      "updated_at": "2019-05-10 15:06:39",
+      "created_at": "2019-05-10 15:06:39"
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "internalCode":"0",
+  "eligibilityToken":"282dba59-72a6-489f-ad8c-31df4bb230a8",
+  "customer":{
+    "crivoOff":"ON",
+    "flgPaymentSlip":false
+  },
+  "approval":[
+    {
+      "reasonCode":"0",
+      "description":"CPF não validado no CRIVO"
+    }
+  ],
+  "internalValue":"nqoHyzJBAmg=",
+  "products":[
+    {
+      "plan":{
+        "segment":"POS_PAGO",
+        "name":"TIM Black A 3 0",
+        "id":"1-15YAXIP",
+        "description":"15GB, Ligações e SMS ilimitados, Audiobook By Ubook Premium, Bancah Premium + Jornais, TIM Segurança Digital Premium, TIM Music by Deezer, Reforça e Apps de Redes Sociais.",
+        "requiresApproval":true,
+        "benefits":[
+          {
+            "benefitType":"benefits",
+            "description":"Portabilidade",
+            "quantity":"5GB"
+          },
+          {
+            "benefitType":"benefits",
+            "description":"Pagar no boleto com C6 Bank",
+            "quantity":"5GB"
+          },
+          {
+            "benefitType":"minutes",
+            "description":"Locais e DDD com 41 para qualquer operadora",
+            "quantity":"Ilimitado"
+          },
+          {
+            "benefitType":"internet",
+            "description":"Franquia de Internet",
+            "quantity":"15GB"
+          }
+        ],
+        "price":{
+          "amount":"154.99",
+          "recurrence":"30"
+        },
+        "requiredProduct":"false",
+        "specialOffer":"N"
+      },
+      "packageGroups":{
+        "groups":[
+          {
+            "minCardinality":"0",
+            "maxCardinality":"99",
+            "name":"Pacotes Apps",
+            "packages":[
+              {
+                "id":"1-1JUNUD6",
+                "name":"Plugin 5G PLUS",
+                "description":"Plugin recorrente 5G Full + 50GB de internet (nos celulares compatíveis) +Twitch sem descontar da franquia de dados.",
+                "requiresApproval":true,
+                "price":{
+                  "amount":"20.00"
+                },
+                "specialOffer":"N"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "plan":{
+        "segment":"POS_PAGO",
+        "name":"TIM Black B 3 0",
+        "id":"1-15YAXJW",
+        "description":"20GB, Ligações e SMS ilimitados, Audiobook By Ubook Premium, Bancah Premium + Jornais, TIM Segurança Digital Premium, TIM Music by Deezer, Reforça, Tim Nuvem 500GB e Apps de Redes Sociais.",
+        "requiresApproval":true,
+        "benefits":[
+          {
+            "benefitType":"minutes",
+            "description":"Locais e DDD com 41 para qualquer operadora",
+            "quantity":"Ilimitado"
+          },
+          {
+            "benefitType":"internet",
+            "description":"Franquia de Internet",
+            "quantity":"25GB"
+          }
+        ],
+        "price":{
+          "amount":"169.99",
+          "recurrence":"30"
+        },
+        "requiredProduct":"false",
+        "specialOffer":"N"
+      },
+      "packageGroups":{
+        "groups":[
+          {
+            "minCardinality":"0",
+            "maxCardinality":"99",
+            "name":"Pacotes Apps",
+            "packages":[
+              {
+                "id":"1-1JUNUD6",
+                "name":"Plugin 5G PLUS",
+                "description":"Plugin recorrente 5G Full + 50GB de internet (nos celulares compatíveis) +Twitch sem descontar da franquia de dados.",
+                "requiresApproval":true,
+                "price":{
+                  "amount":"20.00"
+                },
+                "specialOffer":"N"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "plan":{
+        "segment":"POS_PAGO",
+        "name":"TIM Black C Ultra",
+        "id":"1-1JRS5ZW",
+        "description":"25GB, Ligações e SMS ilimitados, Apple TV+, Audiobook By Ubook Premium, Bancah Premium + Jornais, Babbel 3, TIM Segurança Digital, TIM Gestão Digital, Chefs Club e Apps de Redes Sociais.",
+        "requiresApproval":true,
+        "benefits":[
+          {
+            "benefitType":"minutes",
+            "description":"Locais e DDD com 41 para qualquer operadora",
+            "quantity":"Ilimitado"
+          },
+          {
+            "benefitType":"internet",
+            "description":"Franquia de Internet",
+            "quantity":"25GB"
+          }
+        ],
+        "price":{
+          "amount":"199.99",
+          "recurrence":"30"
+        },
+        "requiredProduct":"false",
+        "specialOffer":"N"
+      },
+      "packageGroups":{
+        "groups":[
+          {
+            "minCardinality":"0",
+            "maxCardinality":"99",
+            "name":"Pacotes Apps",
+            "packages":[
+              {
+                "id":"1-1JUNUD6",
+                "name":"Plugin 5G PLUS",
+                "description":"Plugin recorrente 5G Full + 50GB de internet (nos celulares compatíveis) +Twitch sem descontar da franquia de dados.",
+                "requiresApproval":true,
+                "price":{
+                  "amount":"20.00"
+                },
+                "specialOffer":"N"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

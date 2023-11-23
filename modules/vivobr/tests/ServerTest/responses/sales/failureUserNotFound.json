@@ -1,0 +1,7 @@
+{
+  "codigo": 20001,
+  "mensagem": "Um dos parâmetros utilizados na consulta está incorreto. Verificar atributos mensagem para conhecer o motivo",
+  "detalhes": [
+    "Vendedor não cadastrado no sistema SUN."
+  ]
+}

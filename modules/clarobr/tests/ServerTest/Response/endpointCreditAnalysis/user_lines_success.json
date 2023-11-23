@@ -1,0 +1,29 @@
+{
+  "type": "success",
+  "message": "Analise de Crédito realizado com sucesso",
+  "data": {
+    "credit": 0,
+    "products": [
+      {
+        "phone": "11966118304",
+        "type": "PRE_PAGO",
+        "status": "ATIVO",
+        "plan": "TODA HORA",
+        "value": 0,
+        "start": null,
+        "end": null,
+        "penalty": null
+      },
+      {
+        "phone": "11976233759",
+        "type": "PRE_PAGO",
+        "status": "ATIVO",
+        "plan": "TODA HORA",
+        "value": 0,
+        "start": null,
+        "end": null,
+        "penalty": null
+      }
+    ]
+  }
+}

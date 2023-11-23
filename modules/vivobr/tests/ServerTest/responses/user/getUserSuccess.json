@@ -1,0 +1,23 @@
+{
+  "codigo": 0,
+  "usuario": {
+    "identificacao": "01772223018",
+    "funcao": "VENDEDOR",
+    "nome": "Igor Mendes Ayusso",
+    "cpf": "01772223018",
+    "dataNascimento": "1998-11-12",
+    "logradouro": "",
+    "bairro": "",
+    "cep": "",
+    "numero": "",
+    "complemento": "",
+    "email": "",
+    "telefone": "",
+    "cnpj": [
+      "45242914012022"
+    ],
+    "adabas": [
+      "12002"
+    ]
+  }
+}

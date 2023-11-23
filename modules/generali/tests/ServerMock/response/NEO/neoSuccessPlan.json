@@ -1,0 +1,15 @@
+[
+  {
+    "produto_parceiro_plano_id": "204",
+    "produto_parceiro_id": "132",
+    "nome": "GARANTIA ESTENDIDA - TRADE-UP",
+    "slug_plano": "ge_tradeup",
+    "descricao": "GARANTIA ESTENDIDA - TRADE-UP",
+    "codigo_operadora": "95110",
+    "limite_vigencia": "24",
+    "possui_limite_tempo": "0",
+    "limite_tempo": "0",
+    "unidade_limite_tempo": "",
+    "limite_vigencia_unidade": "MES"
+  }
+]

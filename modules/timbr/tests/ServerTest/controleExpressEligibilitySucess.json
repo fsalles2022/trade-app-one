@@ -1,0 +1,94 @@
+{
+  "eligibilityToken": "20180814T1239637253782665018954073",
+  "products": [
+    {
+      "plan": {
+        "segment": "EXPRESS",
+        "id": "1-5FOY6",
+        "name": "TIM Controle Light plus",
+        "description": "Infinity 200",
+        "offerPriority": "9",
+        "price": {
+          "amount": "100.12"
+        },
+        "benefits": [
+          {
+            "benefitType": "minutos",
+            "description": "Minutos de ligações para qualquer operadora e qualquer lugar do Brasil com o 41",
+            "quantity": "1000 min"
+          },
+          {
+            "benefitType": "minutos",
+            "description": "Minutos de ligações para país usando o 0041",
+            "quantity": "50 min"
+          },
+          {
+            "benefitType": "internet",
+            "description": "Chamadas de dados",
+            "quantity": "6 GB"
+          },
+          {
+            "benefitType": "internet",
+            "description": "Compartilhe promocionalmente grátis sua internet",
+            "quantity": "até 4 aparelhos"
+          },
+          {
+            "benefitType": "beneficios",
+            "description": "Minutos em ligações em outro estado e sem descontar dos minutos",
+            "quantity": "Ilimitado"
+          },
+          {
+            "benefitType": "beneficios",
+            "description": "SMS para qualquer operadora do Brasil",
+            "quantity": "Ilimitado"
+          }
+        ]
+      }
+    },
+    {
+      "plan": {
+        "segment": "EXPRESS",
+        "id": "1-3QHE7",
+        "name": "TIM Controle Light plus",
+        "description": "Infinity 200",
+        "offerPriority": "9",
+        "specialOffer": "Y",
+        "price": {
+          "amount": "100.12"
+        },
+        "benefits": [
+          {
+            "benefitType": "minutos",
+            "description": "Minutos de ligações para qualquer operadora e qualquer lugar do Brasil com o 41",
+            "quantity": "1000 min"
+          },
+          {
+            "benefitType": "minutos",
+            "description": "Minutos de ligações para país usando o 0041",
+            "quantity": "50 min"
+          },
+          {
+            "benefitType": "internet",
+            "description": "Chamadas de dados",
+            "quantity": "6 GB"
+          },
+          {
+            "benefitType": "internet",
+            "description": "Compartilhe promocionalmente grátis sua internet",
+            "quantity": "até 4 aparelhos"
+          },
+          {
+            "benefitType": "beneficios",
+            "description": "Minutos em ligações em outro estado e sem descontar dos minutos",
+            "quantity": "Ilimitado"
+          },
+          {
+            "benefitType": "beneficios",
+            "description": "SMS para qualquer operadora do Brasil",
+            "quantity": "Ilimitado"
+          }
+        ]
+      }
+    }
+  ]
+}

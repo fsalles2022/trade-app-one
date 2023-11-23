@@ -1,0 +1,226 @@
+{
+    "data": [
+        {
+            "id": 747,
+            "nome": "claro_box_hd_com_a_la_carte_globoplay_combinado",
+            "label": "CLARO BOX HD COM A LA CARTE GLOBOPLAY COMBINADO",
+            "codigo_operadora": "0",
+            "plano_tipo_id": 15,
+            "ativo": 1,
+            "descricao": "CLARO BOX HD COM A LA CARTE GLOBOPLAY COMBINADO",
+            "created_at": "2021-10-06 15:05:59",
+            "updated_at": "2021-10-06 15:05:59",
+            "pontuacao": 0,
+            "faturas": {
+                "EMAIL": "Email",
+                "VIA_POSTAL": "Via Postal",
+                "DEBITO_AUTOMATICO": "Débito Automático"
+            },
+            "numero_dependentes": null,
+            "is_5mega": null,
+            "gb": null,
+            "agenda_ativacao": null,
+            "plan_type": {
+                "id": 15,
+                "label": "Televisao NET",
+                "nome": "TELEVISAO_NET",
+                "ativo": 1,
+                "operadora_id": 1,
+                "created_at": "2019-07-17 18:50:39",
+                "updated_at": "2019-07-17 18:50:39"
+            },
+            "residencial_plan_properties": {
+                "id": 168,
+                "plan_id": 747,
+                "enable_approved_viability": 0,
+                "enable_approved_credit_analysis": 0,
+                "is_national": 0,
+                "active": 1,
+                "created_at": "2021-10-06 12:08:05",
+                "updated_at": "2021-10-06 12:08:05",
+                "deleted_at": null,
+                "residencial_city_plan": {
+                    "id": 66001,
+                    "residencial_cities_id": 546,
+                    "residencial_plans_id": 168,
+                    "price": 52.9,
+                    "created_at": "2021-10-06 12:39:01",
+                    "updated_at": "2021-10-06 12:39:01",
+                    "deleted_at": null,
+                    "residencial_cities_plans_promotions": [
+                        {
+                            "id": 82371,
+                            "promotion_id": 301,
+                            "residencial_city_plan_id": 66001,
+                            "created_at": "2021-10-06 12:39:01",
+                            "updated_at": "2021-10-06 12:56:43",
+                            "deleted_at": null,
+                            "promotion": {
+                                "id": 301,
+                                "nome": "NET TELEVISAO SEM PROMOÇÃO",
+                                "codigo_operadora": "1",
+                                "ativo": 1,
+                                "valor": "0.00",
+                                "created_at": "2019-07-17 19:02:14",
+                                "updated_at": "2019-07-17 19:02:14",
+                                "categoria": "ATIVACAO",
+                                "plano_tipo_id": 15,
+                                "requer_aparelho": 0,
+                                "fidelidade": 12,
+                                "multa": "0.00"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 748,
+            "nome": "claro_box_hd_com_a_la_carte_globoplay_single",
+            "label": "CLARO BOX HD COM A LA CARTE GLOBOPLAY SINGLE",
+            "codigo_operadora": "0",
+            "plano_tipo_id": 15,
+            "ativo": 1,
+            "descricao": "CLARO BOX HD COM A LA CARTE GLOBOPLAY SINGLE",
+            "created_at": "2021-10-06 15:06:00",
+            "updated_at": "2021-10-06 15:06:00",
+            "pontuacao": 0,
+            "faturas": {
+                "EMAIL": "Email",
+                "VIA_POSTAL": "Via Postal",
+                "DEBITO_AUTOMATICO": "Débito Automático"
+            },
+            "numero_dependentes": null,
+            "is_5mega": null,
+            "gb": null,
+            "agenda_ativacao": null,
+            "plan_type": {
+                "id": 15,
+                "label": "Televisao NET",
+                "nome": "TELEVISAO_NET",
+                "ativo": 1,
+                "operadora_id": 1,
+                "created_at": "2019-07-17 18:50:39",
+                "updated_at": "2019-07-17 18:50:39"
+            },
+            "residencial_plan_properties": {
+                "id": 169,
+                "plan_id": 748,
+                "enable_approved_viability": 0,
+                "enable_approved_credit_analysis": 0,
+                "is_national": 0,
+                "active": 1,
+                "created_at": "2021-10-06 12:42:25",
+                "updated_at": "2021-10-06 12:42:25",
+                "deleted_at": null,
+                "residencial_city_plan": {
+                    "id": 67795,
+                    "residencial_cities_id": 546,
+                    "residencial_plans_id": 169,
+                    "price": 52.9,
+                    "created_at": "2021-10-06 12:42:40",
+                    "updated_at": "2021-10-06 12:42:40",
+                    "deleted_at": null,
+                    "residencial_cities_plans_promotions": [
+                        {
+                            "id": 84165,
+                            "promotion_id": 301,
+                            "residencial_city_plan_id": 67795,
+                            "created_at": "2021-10-06 12:42:40",
+                            "updated_at": "2021-10-06 12:57:45",
+                            "deleted_at": null,
+                            "promotion": {
+                                "id": 301,
+                                "nome": "NET TELEVISAO SEM PROMOÇÃO",
+                                "codigo_operadora": "1",
+                                "ativo": 1,
+                                "valor": "0.00",
+                                "created_at": "2019-07-17 19:02:14",
+                                "updated_at": "2019-07-17 19:02:14",
+                                "categoria": "ATIVACAO",
+                                "plano_tipo_id": 15,
+                                "requer_aparelho": 0,
+                                "fidelidade": 12,
+                                "multa": "0.00"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 749,
+            "nome": "claro_box_hd_hbo_combinado",
+            "label": "CLARO BOX HD HBO COMBINADO",
+            "codigo_operadora": "0",
+            "plano_tipo_id": 15,
+            "ativo": 1,
+            "descricao": "CLARO BOX HD HBO COMBINADO",
+            "created_at": "2021-10-06 15:06:00",
+            "updated_at": "2021-10-06 15:06:00",
+            "pontuacao": 0,
+            "faturas": {
+                "EMAIL": "Email",
+                "VIA_POSTAL": "Via Postal",
+                "DEBITO_AUTOMATICO": "Débito Automático"
+            },
+            "numero_dependentes": null,
+            "is_5mega": null,
+            "gb": null,
+            "agenda_ativacao": null,
+            "plan_type": {
+                "id": 15,
+                "label": "Televisao NET",
+                "nome": "TELEVISAO_NET",
+                "ativo": 1,
+                "operadora_id": 1,
+                "created_at": "2019-07-17 18:50:39",
+                "updated_at": "2019-07-17 18:50:39"
+            },
+            "residencial_plan_properties": {
+                "id": 170,
+                "plan_id": 749,
+                "enable_approved_viability": 0,
+                "enable_approved_credit_analysis": 0,
+                "is_national": 0,
+                "active": 1,
+                "created_at": "2021-10-06 12:43:26",
+                "updated_at": "2021-10-06 12:43:26",
+                "deleted_at": null,
+                "residencial_city_plan": {
+                    "id": 69589,
+                    "residencial_cities_id": 546,
+                    "residencial_plans_id": 170,
+                    "price": 44.9,
+                    "created_at": "2021-10-06 12:43:41",
+                    "updated_at": "2021-10-06 12:43:41",
+                    "deleted_at": null,
+                    "residencial_cities_plans_promotions": [
+                        {
+                            "id": 85959,
+                            "promotion_id": 301,
+                            "residencial_city_plan_id": 69589,
+                            "created_at": "2021-10-06 12:43:41",
+                            "updated_at": "2021-10-06 12:58:46",
+                            "deleted_at": null,
+                            "promotion": {
+                                "id": 301,
+                                "nome": "NET TELEVISAO SEM PROMOÇÃO",
+                                "codigo_operadora": "1",
+                                "ativo": 1,
+                                "valor": "0.00",
+                                "created_at": "2019-07-17 19:02:14",
+                                "updated_at": "2019-07-17 19:02:14",
+                                "categoria": "ATIVACAO",
+                                "plano_tipo_id": 15,
+                                "requer_aparelho": 0,
+                                "fidelidade": 12,
+                                "multa": "0.00"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

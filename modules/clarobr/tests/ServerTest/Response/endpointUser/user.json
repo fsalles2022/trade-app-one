@@ -1,0 +1,32 @@
+{
+  "type": "success",
+  "message": "",
+  "data": {
+    "id": 18,
+    "funcao_id": 2,
+    "nome": "Rafael Sandim",
+    "cpf": "01296802140",
+    "email": "rjsandim@gmail.com",
+    "password": "$2y$10$h8oq7E1zfZTSyjKAU4A0eeP/RsIbCLZidee/U0U2.F4eHJWu6/FMu",
+    "data_nascimento": "1991-12-24",
+    "logradouro": "Rua Umburanas",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "bairro": "Alto de Pinheiros",
+    "cep": "05464000",
+    "numero": "123",
+    "complemento": "",
+    "telefone": "+5511992144884",
+    "ativo": 1,
+    "ultimo_acesso": "2018-12-10",
+    "tentativas_login": 0,
+    "remember_token": null,
+    "created_at": "2017-04-25 12:11:43",
+    "updated_at": "2018-12-10 20:25:26",
+    "session_id": null,
+    "matricula": null,
+    "sob_suspeita": 0,
+    "deleted_at": null,
+    "usuario_bloqueou": null
+  }
+}

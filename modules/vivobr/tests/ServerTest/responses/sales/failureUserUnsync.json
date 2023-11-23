@@ -1,0 +1,7 @@
+{
+  "codigo": 20001,
+  "mensagem": "Um dos parâmetros utilizados na consulta está incorreto. Verificar atributos mensagem para conhecer o motivo",
+  "detalhes": [
+    "Vendedor encontrado no sistema SUN, porém, não está relacionado à loja (pdv) na qual a venda foi efetivada."
+  ]
+}

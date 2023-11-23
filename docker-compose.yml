@@ -1,0 +1,67 @@
+version: "2"
+services:
+  nginx: 
+    image: smebberson/alpine-nginx
+    container_name: trade-app-one-nginx
+    ports:
+      - "8080:80"
+    volumes:
+      - ./docker/nginx-conf:/etc/nginx/conf.d
+
+  php:
+    build:
+      context: docker/php
+      dockerfile: Dockerfile
+    container_name: trade-app-one-php
+    environment:
+      - COMPOSER_MEMORY_LIMIT=-1
+    volumes:
+      - ./:/trade-app-one-backend:cached
+
+  mysql:
+    image: mysql:5.7
+    container_name: trade-app-one-mysql
+    ports:
+      - "3307:3306"
+    volumes:
+      - database:/var/lib/mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: "root"
+      MYSQL_DATABASE: "trade-app-one-local"
+      
+  mongo:
+    image: mongo:3.6
+    container_name: trade-app-one-mongo
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_DATABASE: "test"
+
+  redis:
+    image: redis:3.2
+    container_name: trade-app-one-redis
+    ports:
+      - "6379:6379"
+    restart: always
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:6.4.2 
+    container_name: trade-app-one-elasticsearch
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    environment:
+      discovery.type: "single-node"
+    
+  kibana:
+    image: docker.elastic.co/kibana/kibana:6.4.2
+    container_name: trade-app-one-kibana
+    ports:
+      - "5601:5601"
+    environment:
+      SERVER_NAME: kibana
+      ELASTICSEARCH_URL: http://trade-app-one-elasticsearch:9200
+
+volumes:
+  database:

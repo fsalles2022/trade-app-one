@@ -1,0 +1,69 @@
+{
+  "operator": "CLARO",
+  "operation": "CONTROLE_BOLETO",
+  "product": 251,
+  "dueDate": 21,
+  "iccid": "89550437592836582698",
+  "areaCode": "11",
+  "invoiceType": "VIA_POSTAL",
+  "promotion": {
+    "label": "Controle Conectado 6GB - S/Fidel - 89504",
+    "price": 0.0,
+    "product": 614
+  },
+  "mode": "ACTIVATION",
+  "imei": "525304203773405",
+  "discount": {
+    "id": 537,
+    "title": "Shark Summer",
+    "discount": 200.0
+  },
+  "device": {
+    "id": 1,
+    "sku": "525304203773405",
+    "model": "MOTOROLA DO SHARKINHO",
+    "label": "MOTOROLA DO SHARKINHO",
+    "brand": "MOTOROLA",
+    "color": "PRETO",
+    "storage": "16GB",
+    "networkId": 19,
+    "createdAt": "2019-07-26 18:10:02",
+    "updatedAt": "2020-08-05 12:03:50",
+    "priceWithout": 399.0,
+    "priceWith": 199.0,
+    "discount": 200.0
+  },
+  "isPreSale": false,
+  "hasRecommendation": false,
+  "recommendation": {
+    "registration": null,
+    "name": null
+  },
+  "customer": {
+    "cpf": "97230531527",
+    "firstName": "Robert",
+    "lastName": "Doe",
+    "email": "email@mail.com",
+    "gender": "F",
+    "birthday": "2000-05-01",
+    "filiation": "Kinberly Doe",
+    "mainPhone": "+5511870979079",
+    "secondaryPhone": "+5511926436284",
+    "rg": "23678368881",
+    "rgLocal": "SSP",
+    "rgState": "SP",
+    "zipCode": "79060630",
+    "localId": 110,
+    "local": "Rua Lurdes Coelho Costa",
+    "state": "MS",
+    "city": "Campo Grande",
+    "neighborhood": "Vila Santo Eugênio",
+    "number": "7647",
+    "complement": null
+  },
+  "sector": "TELECOMMUNICATION",
+  "status": "PENDING_SUBMISSION",
+  "label": "Claro Controle 6GB - Conectado",
+  "price": 49.99,
+  "serviceTransaction": "202103221945160178-0"
+}

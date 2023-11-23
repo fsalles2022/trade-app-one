@@ -1,0 +1,45 @@
+<?php
+
+use Illuminate\Support\Facades\Schema;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Database\Migrations\Migration;
+
+class AddPointsOfSaleIdToPasswordResetsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::drop('passwordResets');
+        Schema::create('passwordResets', function (Blueprint $table) {
+            $table->increments('id');
+            $table->string('status')->nullable(false)->default('WAITING');
+
+            $table->timestamp('createdAt')->default(now());
+            $table->timestamp('updatedAt')->default(now());
+
+            $table->softDeletes('deletedAt');
+
+            $table->unsignedInteger('userId');
+            $table->foreign('userId')->references('id')->on('users')->onDelete('cascade');
+            
+            $table->unsignedInteger('pointsOfSaleId');
+            $table->foreign('pointsOfSaleId')->references('id')->on('pointsOfSale');
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        DB::statement('SET FOREIGN_KEY_CHECKS    = 0');
+        Schema::drop('passwordResets');
+        DB::statement('SET FOREIGN_KEY_CHECKS = 1');
+    }
+}

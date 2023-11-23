@@ -1,0 +1,11 @@
+{
+  "codigo": 0,
+  "mensagem": null,
+  "dados": {
+    "cliente": {
+      "status": true,
+      "nome": "ANA MARIA SERAFIM NASCIMENTO",
+      "result": "CLIENTE POSSUI SERVICO FIXA ATIVO"
+    }
+  }
+}

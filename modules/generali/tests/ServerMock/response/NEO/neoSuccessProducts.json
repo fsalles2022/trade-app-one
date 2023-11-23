@@ -1,0 +1,41 @@
+[
+  {
+      "produto_parceiro_id": "132",
+      "parceiro_id": "32",
+      "produto_id": "35",
+      "nome_prod_parc": "GARANTIA ESTENDIDA - TRADE-UP",
+      "slug": "equipamento",
+      "nome": "GARANTIA ESTENDIDA",
+      "parceiro_nome": "GENERALI BRASIL SEGUROS S/A",
+      "parceiro_nome_fantasia": "GENERALI SEGUROS",
+      "venda_carrinho_compras": "1",
+      "venda_multiplo_cartao": "0",
+      "slug_produto": "ge_tradeup"
+  },
+  {
+      "produto_parceiro_id": "130",
+      "parceiro_id": "32",
+      "produto_id": "34",
+      "nome_prod_parc": "ROUBO E FURTO + QUEBRA - TRADE-UP",
+      "slug": "equipamento",
+      "nome": "ROUBO E FURTO",
+      "parceiro_nome": "GENERALI BRASIL SEGUROS S/A",
+      "parceiro_nome_fantasia": "GENERALI SEGUROS",
+      "venda_carrinho_compras": "1",
+      "venda_multiplo_cartao": "0",
+      "slug_produto": "rf_qa_tradeup"
+  },
+  {
+      "produto_parceiro_id": "131",
+      "parceiro_id": "32",
+      "produto_id": "34",
+      "nome_prod_parc": "ROUBO E FURTO - TRADE-UP",
+      "slug": "equipamento",
+      "nome": "ROUBO E FURTO",
+      "parceiro_nome": "GENERALI BRASIL SEGUROS S/A",
+      "parceiro_nome_fantasia": "GENERALI SEGUROS",
+      "venda_carrinho_compras": "1",
+      "venda_multiplo_cartao": "0",
+      "slug_produto": "rf_tradeup"
+  }
+]

@@ -1,0 +1,1764 @@
+{
+  "domains": [
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ACAMPAMENTO",
+      "label": "ACAMPAMENTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ACESSO",
+      "label": "ACESSO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ACESSO LOCAL",
+      "label": "ACESSO LOCAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ADRO",
+      "label": "ADRO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "AEROPORTO",
+      "label": "AEROPORTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ALAMEDA",
+      "label": "ALAMEDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ALTO",
+      "label": "ALTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ANEL VIARIO",
+      "label": "ANEL VIARIO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ANTIGA ESTACAO",
+      "label": "ANTIGA ESTACAO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ANTIGA ESTRADA",
+      "label": "ANTIGA ESTRADA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "AREA",
+      "label": "AREA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "AREA ESPECIAL",
+      "label": "AREA ESPECIAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "AREA VERDE",
+      "label": "AREA VERDE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ARTERIA",
+      "label": "ARTERIA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ATALHO",
+      "label": "ATALHO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "AVENIDA",
+      "label": "AVENIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "AVENIDA CONTORNO",
+      "label": "AVENIDA CONTORNO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "AVENIDA MARGINAL",
+      "label": "AVENIDA MARGINAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "AVENIDA MARGINAL DIREITA",
+      "label": "AVENIDA MARGINAL DIREITA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "AVENIDA MARGINAL ESQUERDA",
+      "label": "AVENIDA MARGINAL ESQUERDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "AVENIDA MARGINAL NORTE",
+      "label": "AVENIDA MARGINAL NORTE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "AVENIDA PERIMETRAL",
+      "label": "AVENIDA PERIMETRAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "AVENIDA VELHA",
+      "label": "AVENIDA VELHA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "BAIXA",
+      "label": "BAIXA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "BALAO",
+      "label": "BALAO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "BALNEARIO",
+      "label": "BALNEARIO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "BECO",
+      "label": "BECO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "BELVEDERE",
+      "label": "BELVEDERE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "BLOCO",
+      "label": "BLOCO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "BLOCOS",
+      "label": "BLOCOS"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "BOSQUE",
+      "label": "BOSQUE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "BOULEVARD",
+      "label": "BOULEVARD"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "BULEVAR",
+      "label": "BULEVAR"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "BURACO",
+      "label": "BURACO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CAIS",
+      "label": "CAIS"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CALCADA",
+      "label": "CALCADA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CALCADAO",
+      "label": "CALCADAO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CAMINHO",
+      "label": "CAMINHO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CAMINHO DE SERVIDAO",
+      "label": "CAMINHO DE SERVIDAO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CAMPO",
+      "label": "CAMPO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CAMPUS",
+      "label": "CAMPUS"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CANAL",
+      "label": "CANAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CHACARA",
+      "label": "CHACARA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CHAPADAO",
+      "label": "CHAPADAO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CICLOVIA",
+      "label": "CICLOVIA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CIRCULAR",
+      "label": "CIRCULAR"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "COLONIA",
+      "label": "COLONIA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "COMPLEXO VIARIO",
+      "label": "COMPLEXO VIARIO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "COMUNIDADE",
+      "label": "COMUNIDADE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CONDOMINIO",
+      "label": "CONDOMINIO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CONDOMINIO RESIDENCIAL",
+      "label": "CONDOMINIO RESIDENCIAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CONJUNTO",
+      "label": "CONJUNTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CONJUNTO HABITACIONAL",
+      "label": "CONJUNTO HABITACIONAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CONJUNTO MUTIRAO",
+      "label": "CONJUNTO MUTIRAO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CONJUNTO RESIDENCIAL",
+      "label": "CONJUNTO RESIDENCIAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CONTORNO",
+      "label": "CONTORNO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CORREDOR",
+      "label": "CORREDOR"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "CORREGO",
+      "label": "CORREGO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "DESCIDA",
+      "label": "DESCIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "DESVIO",
+      "label": "DESVIO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "DISTRITO",
+      "label": "DISTRITO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "EIXO",
+      "label": "EIXO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "EIXO INDUSTRIAL",
+      "label": "EIXO INDUSTRIAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "EIXO PRINCIPAL",
+      "label": "EIXO PRINCIPAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ELEVADA",
+      "label": "ELEVADA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ENSEADA",
+      "label": "ENSEADA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ENTRADA PARTICULAR",
+      "label": "ENTRADA PARTICULAR"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ENTRE BLOCO",
+      "label": "ENTRE BLOCO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ENTRE QUADRA",
+      "label": "ENTRE QUADRA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESCADA",
+      "label": "ESCADA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESCADARIA",
+      "label": "ESCADARIA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESPLANADA",
+      "label": "ESPLANADA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTACAO",
+      "label": "ESTACAO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTACIONAMENTO",
+      "label": "ESTACIONAMENTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTADIO",
+      "label": "ESTADIO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTANCIA",
+      "label": "ESTANCIA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTRADA",
+      "label": "ESTRADA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTRADA ANTIGA",
+      "label": "ESTRADA ANTIGA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTRADA DE FERRO",
+      "label": "ESTRADA DE FERRO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTRADA DE LIGACAO",
+      "label": "ESTRADA DE LIGACAO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTRADA DE SERVIDAO",
+      "label": "ESTRADA DE SERVIDAO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTRADA ESTADUAL",
+      "label": "ESTRADA ESTADUAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTRADA INTERMUNICIPAL",
+      "label": "ESTRADA INTERMUNICIPAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTRADA MUNICIPAL",
+      "label": "ESTRADA MUNICIPAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTRADA NOVA",
+      "label": "ESTRADA NOVA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTRADA PARTICULAR",
+      "label": "ESTRADA PARTICULAR"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTRADA VELHA",
+      "label": "ESTRADA VELHA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ESTRADA VICINAL",
+      "label": "ESTRADA VICINAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "EVANGELICA",
+      "label": "EVANGELICA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "FAVELA",
+      "label": "FAVELA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "FAZENDA",
+      "label": "FAZENDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "FEIRA",
+      "label": "FEIRA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "FERROVIA",
+      "label": "FERROVIA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "FONTE",
+      "label": "FONTE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "FORTE",
+      "label": "FORTE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "GALERIA",
+      "label": "GALERIA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "GRANJA",
+      "label": "GRANJA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ILHA",
+      "label": "ILHA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ILHOTA",
+      "label": "ILHOTA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "JARDIM",
+      "label": "JARDIM"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "JARDIM RESIDENCIAL",
+      "label": "JARDIM RESIDENCIAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "JARDINETE",
+      "label": "JARDINETE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "LADEIRA",
+      "label": "LADEIRA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "LAGO",
+      "label": "LAGO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "LAGOA",
+      "label": "LAGOA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "LARGO",
+      "label": "LARGO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "LOTEAMENTO",
+      "label": "LOTEAMENTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "MARGEM",
+      "label": "MARGEM"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "MARINA",
+      "label": "MARINA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "MERCADO",
+      "label": "MERCADO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "MODULO",
+      "label": "MODULO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "MODULO COMERCIAL",
+      "label": "MODULO COMERCIAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "MONTE",
+      "label": "MONTE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "MORRO",
+      "label": "MORRO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "N/A",
+      "label": "N/A"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "N/D",
+      "label": "N/D"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "NUCLEO",
+      "label": "NUCLEO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "NUCLEO HABITACIONAL",
+      "label": "NUCLEO HABITACIONAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "NUCLEO RURAL",
+      "label": "NUCLEO RURAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "OUTEIRO",
+      "label": "OUTEIRO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PARADA",
+      "label": "PARADA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PARADOURO",
+      "label": "PARADOURO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PARALELA",
+      "label": "PARALELA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PARQUE",
+      "label": "PARQUE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PARQUE MUNICIPAL",
+      "label": "PARQUE MUNICIPAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PARQUE RESIDENCIAL",
+      "label": "PARQUE RESIDENCIAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PASSAGEM",
+      "label": "PASSAGEM"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PASSAGEM DE PEDESTRES",
+      "label": "PASSAGEM DE PEDESTRES"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PASSAGEM SUBTERRANEA",
+      "label": "PASSAGEM SUBTERRANEA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PASSARELA",
+      "label": "PASSARELA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PASSEIO",
+      "label": "PASSEIO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PASSEIO PUBLICO",
+      "label": "PASSEIO PUBLICO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PATIO",
+      "label": "PATIO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PONTA",
+      "label": "PONTA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PONTE",
+      "label": "PONTE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PORTO",
+      "label": "PORTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "POVOADO",
+      "label": "POVOADO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PRACA",
+      "label": "PRACA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PRACA DE ESPORTES",
+      "label": "PRACA DE ESPORTES"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PRAIA",
+      "label": "PRAIA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PRIMEIRA LADEIRA",
+      "label": "PRIMEIRA LADEIRA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PROJECAO",
+      "label": "PROJECAO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "PROLONGAMENTO",
+      "label": "PROLONGAMENTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "QUADRA",
+      "label": "QUADRA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "QUARTA LADEIRA",
+      "label": "QUARTA LADEIRA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "QUINTA",
+      "label": "QUINTA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "QUINTA LADEIRA",
+      "label": "QUINTA LADEIRA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "QUINTAS",
+      "label": "QUINTAS"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RAMAL",
+      "label": "RAMAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RAMPA",
+      "label": "RAMPA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RECANTO",
+      "label": "RECANTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RECREIO",
+      "label": "RECREIO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RESIDENCIAL",
+      "label": "RESIDENCIAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RETA",
+      "label": "RETA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RETIRO",
+      "label": "RETIRO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RETORNO",
+      "label": "RETORNO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RODO ANEL",
+      "label": "RODO ANEL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RODOVIA",
+      "label": "RODOVIA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ROTATORIA",
+      "label": "ROTATORIA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ROTULA",
+      "label": "ROTULA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RUA",
+      "label": "RUA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RUA DE LIGACAO",
+      "label": "RUA DE LIGACAO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RUA DE PEDESTRE",
+      "label": "RUA DE PEDESTRE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RUA INTEGRACAO",
+      "label": "RUA INTEGRACAO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RUA PARTICULAR",
+      "label": "RUA PARTICULAR"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RUA PRINCIPAL",
+      "label": "RUA PRINCIPAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RUA PROJETADA",
+      "label": "RUA PROJETADA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RUA VELHA",
+      "label": "RUA VELHA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "RUELA",
+      "label": "RUELA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "SEGUNDA AVENIDA",
+      "label": "SEGUNDA AVENIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "SERVIDAO",
+      "label": "SERVIDAO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "SERVIDAO DE PASSAGEM",
+      "label": "SERVIDAO DE PASSAGEM"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "SETOR",
+      "label": "SETOR"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "SITIO",
+      "label": "SITIO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "SUBIDA",
+      "label": "SUBIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "TERCEIRA AVENIDA",
+      "label": "TERCEIRA AVENIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "TERMINAL",
+      "label": "TERMINAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "TRAVESSA",
+      "label": "TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "TRAVESSA PARTICULAR",
+      "label": "TRAVESSA PARTICULAR"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "TRAVESSA VELHA",
+      "label": "TRAVESSA VELHA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "TRECHO",
+      "label": "TRECHO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "TREVO",
+      "label": "TREVO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "TRINCHEIRA",
+      "label": "TRINCHEIRA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "TUNEL",
+      "label": "TUNEL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "UNIDADE",
+      "label": "UNIDADE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VALA",
+      "label": "VALA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VALE",
+      "label": "VALE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VARIANTE",
+      "label": "VARIANTE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VARIANTE DA ESTRADA",
+      "label": "VARIANTE DA ESTRADA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VEREDA",
+      "label": "VEREDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIA",
+      "label": "VIA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIA COLETORA",
+      "label": "VIA COLETORA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIA COSTEIRA",
+      "label": "VIA COSTEIRA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIA DE ACESSO",
+      "label": "VIA DE ACESSO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIA DE PEDESTRE",
+      "label": "VIA DE PEDESTRE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIA DE PEDESTRES",
+      "label": "VIA DE PEDESTRES"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIA ELEVADO",
+      "label": "VIA ELEVADO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIA EXPRESSA",
+      "label": "VIA EXPRESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIA LATERAL",
+      "label": "VIA LATERAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIA LITORANEA",
+      "label": "VIA LITORANEA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIA LOCAL",
+      "label": "VIA LOCAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIA MARGINAL",
+      "label": "VIA MARGINAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIA PEDESTRE",
+      "label": "VIA PEDESTRE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIA PRINCIPAL",
+      "label": "VIA PRINCIPAL"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIADUTO",
+      "label": "VIADUTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VIELA",
+      "label": "VIELA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "VILA",
+      "label": "VILA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "ZIGUE-ZAGUE",
+      "label": "ZIGUE-ZAGUE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "1A AVENIDA",
+      "label": "1A AVENIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "1A PARALELA",
+      "label": "1A PARALELA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "1A RUA",
+      "label": "1A RUA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "1A SUBIDA",
+      "label": "1A SUBIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "1A TRAVESSA",
+      "label": "1A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "1A TRAVESSA DA RODOVIA",
+      "label": "1A TRAVESSA DA RODOVIA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "1A VILA",
+      "label": "1A VILA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "1O ALTO",
+      "label": "1O ALTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "1O BECO",
+      "label": "1O BECO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "1O PARQUE",
+      "label": "1O PARQUE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "10A RUA",
+      "label": "10A RUA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "10A TRAVESSA",
+      "label": "10A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "11A RUA",
+      "label": "11A RUA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "11A TRAVESSA",
+      "label": "11A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "12A RUA",
+      "label": "12A RUA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "12A TRAVESSA",
+      "label": "12A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "13A TRAVESSA",
+      "label": "13A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "14A TRAVESSA",
+      "label": "14A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "15A TRAVESSA",
+      "label": "15A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "16A TRAVESSA",
+      "label": "16A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "17A TRAVESSA",
+      "label": "17A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "18A TRAVESSA",
+      "label": "18A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "19A TRAVESSA",
+      "label": "19A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "2A ALAMEDA",
+      "label": "2A ALAMEDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "2A AVENIDA",
+      "label": "2A AVENIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "2A LADEIRA",
+      "label": "2A LADEIRA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "2A PARALELA",
+      "label": "2A PARALELA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "2A RUA",
+      "label": "2A RUA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "2A SUBIDA",
+      "label": "2A SUBIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "2A TRAVESSA",
+      "label": "2A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "2A TRAVESSA DA RODOVIA",
+      "label": "2A TRAVESSA DA RODOVIA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "2A VILA",
+      "label": "2A VILA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "2O ALTO",
+      "label": "2O ALTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "2O BECO",
+      "label": "2O BECO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "2O PARQUE",
+      "label": "2O PARQUE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "20A TRAVESSA",
+      "label": "20A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "21A TRAVESSA",
+      "label": "21A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "22A TRAVESSA",
+      "label": "22A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "3A AVENIDA",
+      "label": "3A AVENIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "3A LADEIRA",
+      "label": "3A LADEIRA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "3A PARALELA",
+      "label": "3A PARALELA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "3A RUA",
+      "label": "3A RUA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "3A SUBIDA",
+      "label": "3A SUBIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "3A TRAVESSA",
+      "label": "3A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "3A VILA",
+      "label": "3A VILA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "3O ALTO",
+      "label": "3O ALTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "3O BECO",
+      "label": "3O BECO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "3O PARQUE",
+      "label": "3O PARQUE"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "4A AVENIDA",
+      "label": "4A AVENIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "4A PARALELA",
+      "label": "4A PARALELA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "4A RUA",
+      "label": "4A RUA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "4A SUBIDA",
+      "label": "4A SUBIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "4A TRAVESSA",
+      "label": "4A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "4A VILA",
+      "label": "4A VILA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "4O ALTO",
+      "label": "4O ALTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "4O BECO",
+      "label": "4O BECO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "5A AVENIDA",
+      "label": "5A AVENIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "5A PARALELA",
+      "label": "5A PARALELA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "5A RUA",
+      "label": "5A RUA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "5A SUBIDA",
+      "label": "5A SUBIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "5A TRAVESSA",
+      "label": "5A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "5A VILA",
+      "label": "5A VILA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "5O ALTO",
+      "label": "5O ALTO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "5O BECO",
+      "label": "5O BECO"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "6A AVENIDA",
+      "label": "6A AVENIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "6A RUA",
+      "label": "6A RUA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "6A SUBIDA",
+      "label": "6A SUBIDA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "6A TRAVESSA",
+      "label": "6A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "7A RUA",
+      "label": "7A RUA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "7A TRAVESSA",
+      "label": "7A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "8A RUA",
+      "label": "8A RUA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "8A TRAVESSA",
+      "label": "8A TRAVESSA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "9A RUA",
+      "label": "9A RUA"
+    },
+    {
+      "type": "AMS_LOV_ADDR_IND",
+      "value": "9A TRAVESSA",
+      "label": "9A TRAVESSA"
+    },
+    {
+      "type": "BLOCKMESSAGE",
+      "value": "Mensagem MKT",
+      "label": "Mensagem MKT"
+    },
+    {
+      "type": "GENDER",
+      "value": "F",
+      "label": "Female"
+    },
+    {
+      "type": "GENDER",
+      "value": "M",
+      "label": "Male"
+    },
+    {
+      "type": "OPTION",
+      "value": "NAO",
+      "label": "NAO"
+    },
+    {
+      "type": "OPTION",
+      "value": "SIM",
+      "label": "SIM"
+    },
+    {
+      "type": "PRINTTYPE",
+      "value": "braile",
+      "label": "braile"
+    },
+    {
+      "type": "PRINTTYPE",
+      "value": "normal",
+      "label": "normal"
+    },
+    {
+      "type": "PRODUCT_TYPE",
+      "value": "ACESSO_COMPARTILHADO",
+      "label": "ACESSO_COMPARTILHADO"
+    },
+    {
+      "type": "PRODUCT_TYPE",
+      "value": "BANDA_LARGA",
+      "label": "BANDA_LARGA"
+    },
+    {
+      "type": "PRODUCT_TYPE",
+      "value": "CONTROLE",
+      "label": "CONTROLE"
+    },
+    {
+      "type": "PRODUCT_TYPE",
+      "value": "DIGITAL",
+      "label": "DIGITAL"
+    },
+    {
+      "type": "PRODUCT_TYPE",
+      "value": "EXPRESS",
+      "label": "EXPRESS"
+    },
+    {
+      "type": "PRODUCT_TYPE",
+      "value": "MODEM",
+      "label": "MODEM"
+    },
+    {
+      "type": "PRODUCT_TYPE",
+      "value": "PORTABILIDADE",
+      "label": "PORTABILIDADE"
+    },
+    {
+      "type": "PRODUCT_TYPE",
+      "value": "POS_EXPRESS",
+      "label": "POS_EXPRESS"
+    },
+    {
+      "type": "PRODUCT_TYPE",
+      "value": "POS_PAGO",
+      "label": "POS_PAGO"
+    },
+    {
+      "type": "PRODUCT_TYPE",
+      "value": "PRE_PAGO",
+      "label": "PRE_PAGO"
+    },
+    {
+      "type": "PRODUCT_TYPE",
+      "value": "SMB",
+      "label": "SMB"
+    },
+    {
+      "type": "PRODUCT_TYPE",
+      "value": "TIM_FIBER",
+      "label": "TIM_FIBER"
+    },
+    {
+      "type": "PRODUCT_TYPE",
+      "value": "VOZ_FIXO_VOIP",
+      "label": "VOZ_FIXO_VOIP"
+    },
+    {
+      "type": "SHIPPINGTYPE",
+      "value": "email",
+      "label": "email"
+    },
+    {
+      "type": "SHIPPINGTYPE",
+      "value": "mail",
+      "label": "mail"
+    },
+    {
+      "type": "TCOM_LOV_BANCOS",
+      "value": "001",
+      "label": "BANCO DO BRASIL"
+    },
+    {
+      "type": "TCOM_LOV_BANCOS",
+      "value": "033",
+      "label": "SANTANDER"
+    },
+    {
+      "type": "TCOM_LOV_BANCOS",
+      "value": "037",
+      "label": "BANPARÁ"
+    },
+    {
+      "type": "TCOM_LOV_BANCOS",
+      "value": "237",
+      "label": "BRADESCO"
+    },
+    {
+      "type": "TCOM_LOV_BANCOS",
+      "value": "341",
+      "label": "ITAÚ"
+    },
+    {
+      "type": "TCOM_LOV_BANCOS",
+      "value": "422",
+      "label": "SAFRA"
+    },
+    {
+      "type": "TCOM_LOV_BANCOS",
+      "value": "756",
+      "label": "BANCOOB"
+    },
+    {
+      "type": "TCOM_LOV_DATAVENCIMENTO",
+      "value": "1",
+      "label": "1"
+    },
+    {
+      "type": "TCOM_LOV_DATAVENCIMENTO",
+      "value": "10",
+      "label": "10"
+    },
+    {
+      "type": "TCOM_LOV_DATAVENCIMENTO",
+      "value": "12",
+      "label": "12"
+    },
+    {
+      "type": "TCOM_LOV_DATAVENCIMENTO",
+      "value": "15",
+      "label": "15"
+    },
+    {
+      "type": "TCOM_LOV_DATAVENCIMENTO",
+      "value": "20",
+      "label": "20"
+    },
+    {
+      "type": "TCOM_LOV_DATAVENCIMENTO",
+      "value": "7",
+      "label": "7"
+    },
+    {
+      "type": "TCOM_LOV_MEIO_PAGAMENTO",
+      "value": "Boleto",
+      "label": "Boleto"
+    },
+    {
+      "type": "TCOM_LOV_MEIO_PAGAMENTO",
+      "value": "Cartão de Crédito",
+      "label": "Cartao de Credito"
+    },
+    {
+      "type": "TCOM_LOV_MEIO_PAGAMENTO",
+      "value": "Débito Automático",
+      "label": "Debito Automatico"
+    },
+    {
+      "type": "TCOM_LOV_MEIO_PAGAMENTO",
+      "value": "Fatura",
+      "label": "Fatura"
+    },
+    {
+      "type": "TCOM_LOV_TIPOFATURA",
+      "value": "Braile",
+      "label": "Braile"
+    },
+    {
+      "type": "TCOM_LOV_TIPOFATURA",
+      "value": "Conta Online",
+      "label": "Fatura Eletronica"
+    },
+    {
+      "type": "TCOM_LOV_TIPOFATURA",
+      "value": "Detalhada",
+      "label": "Detalhada"
+    },
+    {
+      "type": "TCOM_LOV_TIPOFATURA",
+      "value": "Resumida",
+      "label": "Resumida"
+    },
+    {
+      "type": "TCOM_TIPO_ENDERECO",
+      "value": "Caixa_Postal",
+      "label": "Caixa Postal"
+    },
+    {
+      "type": "TCOM_TIPO_ENDERECO",
+      "value": "Genérico",
+      "label": "Genérico"
+    },
+    {
+      "type": "TCOM_TIPO_ENDERECO",
+      "value": "Grande_Cliente",
+      "label": "Grande Cliente"
+    },
+    {
+      "type": "TCOM_TIPO_ENDERECO",
+      "value": "Logradouro",
+      "label": "Logradouro"
+    },
+    {
+      "type": "TCOM_TIPO_ENDERECO",
+      "value": "Unidade_Correio",
+      "label": "Unidade Operacional"
+    },
+    {
+      "type": "TIM_TIPO_DEFICIENCIA",
+      "value": "AUD",
+      "label": "Deficiencia auditiva"
+    },
+    {
+      "type": "TIM_TIPO_DEFICIENCIA",
+      "value": "COG",
+      "label": "Deficiencia cognitiva"
+    },
+    {
+      "type": "TIM_TIPO_DEFICIENCIA",
+      "value": "MOT",
+      "label": "Deficiencia motora"
+    },
+    {
+      "type": "TIM_TIPO_DEFICIENCIA",
+      "value": "OUT",
+      "label": "Outros"
+    },
+    {
+      "type": "TIM_TIPO_DEFICIENCIA",
+      "value": "VIS",
+      "label": "Deficiencia visual"
+    },
+    {
+      "type": "TIPO_ACEITE",
+      "value": "CAPTURA",
+      "label": "CAPTURA"
+    },
+    {
+      "type": "TIPO_ACEITE",
+      "value": "VOZ",
+      "label": "VOZ"
+    },
+    {
+      "type": "TOM_TIPO_CLIENTE",
+      "value": "PF",
+      "label": "CPF"
+    },
+    {
+      "type": "TOM_TIPO_CLIENTE",
+      "value": "PJ",
+      "label": "CNPJ"
+    },
+    {
+      "type": "TOM_TIPO_DOC",
+      "value": "Carteira de Estrangeiro",
+      "label": "CE"
+    },
+    {
+      "type": "TOM_TIPO_DOC",
+      "value": "Carteira de Identidade",
+      "label": "RG"
+    },
+    {
+      "type": "TOM_TIPO_DOC",
+      "value": "Carteira de Trabalho",
+      "label": "CDT"
+    },
+    {
+      "type": "TOM_TIPO_DOC",
+      "value": "Certidão de Nasc.",
+      "label": "CEN"
+    },
+    {
+      "type": "TOM_TIPO_DOC",
+      "value": "CNH",
+      "label": "CNH"
+    },
+    {
+      "type": "TOM_TIPO_DOC",
+      "value": "Ident. Funcional",
+      "label": "IDF"
+    },
+    {
+      "type": "TOM_TIPO_DOC",
+      "value": "Ident. Indigena",
+      "label": "IDI"
+    },
+    {
+      "type": "TOM_TIPO_DOC",
+      "value": "Ident. Profissional",
+      "label": "CP2"
+    },
+    {
+      "type": "TOM_TIPO_DOC",
+      "value": "Identidade Estrang.",
+      "label": "IDE"
+    },
+    {
+      "type": "TOM_TIPO_DOC",
+      "value": "Identidade Militar",
+      "label": "IDM"
+    },
+    {
+      "type": "TOM_TIPO_DOC",
+      "value": "Outros",
+      "label": "OUT"
+    },
+    {
+      "type": "TOM_TIPO_DOC",
+      "value": "Passaporte",
+      "label": "PAS"
+    },
+    {
+      "type": "TOM_TIPO_DOC",
+      "value": "Passaporte Estrang.",
+      "label": "PAE"
+    }
+  ]
+}

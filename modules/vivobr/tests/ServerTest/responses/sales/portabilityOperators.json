@@ -1,0 +1,265 @@
+{
+  "codigo": 0,
+  "operadoras": [
+    {
+      "id": "0301",
+      "nome": "DATORA"
+    },
+    {
+      "id": "0155",
+      "nome": "Espas Telecomunicações LTDA"
+    },
+    {
+      "id": "0286",
+      "nome": "Next Telecomunicações do Brasil LTDA - ME"
+    },
+    {
+      "id": "0288",
+      "nome": "Fiber One Telecomunicações do Brasil LTDA-ME"
+    },
+    {
+      "id": "0810",
+      "nome": "Solução Network Provedor EIRELI - ME"
+    },
+    {
+      "id": "0821",
+      "nome": "Melo Telecomunicações LTDA - ME"
+    },
+    {
+      "id": "0829",
+      "nome": "Zap BL Telecomunicações LTDA - ME"
+    },
+    {
+      "id": "0299",
+      "nome": "J.A.S - Telecomunicações LTDA"
+    },
+    {
+      "id": "0002",
+      "nome": "Ainda não sou cliente de nenhuma operadora"
+    },
+    {
+      "id": "0351",
+      "nome": "NEXTEL"
+    },
+    {
+      "id": "0306",
+      "nome": "EUTV Consultoria e Intermediação de Negócios S.A."
+    },
+    {
+      "id": "0307",
+      "nome": "AméricaNet Móvel"
+    },
+    {
+      "id": "0314",
+      "nome": "OI Móvel Sul/CO"
+    },
+    {
+      "id": "0312",
+      "nome": "CTBC Móvel"
+    },
+    {
+      "id": "0343",
+      "nome": "Sercomtel Móvel"
+    },
+    {
+      "id": "0323",
+      "nome": "VIVO MG - Móvel"
+    },
+    {
+      "id": "0331",
+      "nome": "OI Móvel"
+    },
+    {
+      "id": "0320",
+      "nome": "VIVO Móvel"
+    },
+    {
+      "id": "0321",
+      "nome": "CLARO Móvel"
+    },
+    {
+      "id": "0341",
+      "nome": "TIM Móvel"
+    },
+    {
+      "id": "0337",
+      "nome": "AEIOU Móvel"
+    },
+    {
+      "id": "0349",
+      "nome": "OPTIONS COMPUTADORES &amp; ELETRONICA LTDA"
+    },
+    {
+      "id": "0375",
+      "nome": "Superchip Telecomunicações ltda."
+    },
+    {
+      "id": "0390",
+      "nome": "TELCOM TELECOMUNICAÇÕES LTDA."
+    },
+    {
+      "id": "0392",
+      "nome": "IRIDIUM SUDAMÉRICA - BRASIL S/A"
+    },
+    {
+      "id": "0393",
+      "nome": "Globalstar do Brasil S.A - AM"
+    },
+    {
+      "id": "0804",
+      "nome": "NewGroup Telecomunicacoes LTDA - ME"
+    },
+    {
+      "id": "0830",
+      "nome": "CzNet Telecom LTDA - EPP"
+    },
+    {
+      "id": "0831",
+      "nome": "Paulo de Tarso de Carvalho Bayma Filho - EPP"
+    },
+    {
+      "id": "0839",
+      "nome": "Hup Telecom LTDA"
+    },
+    {
+      "id": "0283",
+      "nome": "Rocketnet Serviços de Comunicação Multimídia LTDA"
+    },
+    {
+      "id": "0240",
+      "nome": "Predlink Rede de Telecomunicações Ltda"
+    },
+    {
+      "id": "0870",
+      "nome": "Naxi Telecomunicações LTDA - EPP"
+    },
+    {
+      "id": "0824",
+      "nome": "SI Telecom Serviços de Telefonia LTDA - EPP"
+    },
+    {
+      "id": "0868",
+      "nome": "Vett - Via Express Tecnologia e Telecom LTDA - ME"
+    },
+    {
+      "id": "0812",
+      "nome": "Acesso Total"
+    },
+    {
+      "id": "0295",
+      "nome": "Baldussi Soluções"
+    },
+    {
+      "id": "0308",
+      "nome": "Surf Telecom"
+    },
+    {
+      "id": "0872",
+      "nome": "Júpiter Informática"
+    },
+    {
+      "id": "0879",
+      "nome": "Techs Net"
+    },
+    {
+      "id": "0888",
+      "nome": "Ultra Telecom"
+    },
+    {
+      "id": "0890",
+      "nome": "Btelway"
+    },
+    {
+      "id": "0893",
+      "nome": "Net 11 Web"
+    },
+    {
+      "id": "0842",
+      "nome": "Agil Comercial do Brasil Infor e Comunicacao LTDA"
+    },
+    {
+      "id": "0249",
+      "nome": "Você Telecomunicações Ltda"
+    },
+    {
+      "id": "0198",
+      "nome": "Ligue Telecomunicações LTDA"
+    },
+    {
+      "id": "0302",
+      "nome": "Porto Conecta"
+    },
+    {
+      "id": "0835",
+      "nome": "Viva Telecoomunicacoes LTDA - ME"
+    },
+    {
+      "id": "0836",
+      "nome": "Net Botanic Internet Inteligente LTDA"
+    },
+    {
+      "id": "0840",
+      "nome": "PMahacell Celular e Telecomunicacoes LTDA"
+    },
+    {
+      "id": "0845",
+      "nome": "Deferrari Solucoes em Internet LTDA - EPP"
+    },
+    {
+      "id": "0847",
+      "nome": "Fly Link LTDA - EPP"
+    },
+    {
+      "id": "0813",
+      "nome": "Kater Telecomunicacoes LTDA - ME"
+    },
+    {
+      "id": "0815",
+      "nome": "One World Telecomunicacoes LTDA"
+    },
+    {
+      "id": "0262",
+      "nome": "SEG Tecnologia"
+    },
+    {
+      "id": "0289",
+      "nome": "Fiber Vox Telecomunicaçõe do Brasil EIRELI - ME"
+    },
+    {
+      "id": "0827",
+      "nome": "Fale Mais Comunicações LTDA - EPP"
+    },
+    {
+      "id": "0837",
+      "nome": "RBR Telecom Serviços de Telefonia LTDA"
+    },
+    {
+      "id": "0853",
+      "nome": "Acer Telecomunicações LTDA - ME"
+    },
+    {
+      "id": "0860",
+      "nome": "Pontenet Teleinformática LTDA - ME"
+    },
+    {
+      "id": "0864",
+      "nome": "GW Telecomunicações LTDA"
+    },
+    {
+      "id": "0876",
+      "nome": "CDI Telecom LTDA"
+    },
+    {
+      "id": "0877",
+      "nome": "BFT Telecomunicações LTDA"
+    },
+    {
+      "id": "0292",
+      "nome": "Gigalink Solucoes Rede Multimidia LTDA"
+    },
+    {
+      "id": "0315",
+      "nome": "Telecall"
+    }
+  ]
+}

@@ -1,0 +1,1933 @@
+{
+  "products": [
+    {
+      "product": "OCSF110",
+      "label": "A - Oi Mais Controle B\u00e1sico G2 R$39,99",
+      "adhesionValue": 39.81,
+      "price": 39.81,
+      "details": [
+        "Oi Mais Controle:Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 6GB de Internet 4G, tem Whatsapp e Messenger liberados e 1.000 SMSs. Tudo isso por RS39,99/m\u00eas."
+      ],
+      "operation": "OI_CONTROLE_CARTAO",
+      "operator": "OI",
+      "oi": {
+        "id": "5d9c1e1b-4beb-44bf-82f4-1ec2c7efafc4",
+        "nome": "OCSF110",
+        "nomeComercial": "A - Oi Mais Controle B\u00e1sico G2 R$39,99",
+        "descricao": "Oi Mais Controle:Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 6GB de Internet 4G, tem Whatsapp e Messenger liberados e 1.000 SMSs. Tudo isso por RS39,99/m\u00eas.",
+        "valorRecorrencia": 3981,
+        "valorAdesao": 3981,
+        "retencao": false
+      }
+    },
+    {
+      "product": "OCSF133",
+      "label": "A - Oi Mais Controle Intermedi\u00e1rio BF M\u00e3es 19 R$49,99",
+      "adhesionValue": 49.97,
+      "price": 49.97,
+      "details": [
+        "Oi Mais Controle: Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 12GB de Internet 4G (mais 4GB de b\u00f4nus por 6 meses), tem Whatsapp, Messenger e Facebook liberados e 1.000 SMSs. Tudo isso por RS49,99/m\u00eas."
+      ],
+      "operation": "OI_CONTROLE_CARTAO",
+      "operator": "OI",
+      "oi": {
+        "id": "24b3a90e-80c9-4181-97fa-0206534fd529",
+        "nome": "OCSF133",
+        "nomeComercial": "A - Oi Mais Controle Intermedi\u00e1rio BF M\u00e3es 19 R$49,99",
+        "descricao": "Oi Mais Controle: Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 12GB de Internet 4G (mais 4GB de b\u00f4nus por 6 meses), tem Whatsapp, Messenger e Facebook liberados e 1.000 SMSs. Tudo isso por RS49,99/m\u00eas.",
+        "valorRecorrencia": 4997,
+        "valorAdesao": 4997,
+        "retencao": false
+      }
+    },
+    {
+      "product": "OCSF159",
+      "label": "Oi Mais Controle Avan\u00e7ado",
+      "adhesionValue": 99.9,
+      "price": 99.9,
+      "details": [
+        "Oi Mais Controle: Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 50GB de internet 4G,\u00a0usa WhatsApp, Messenger, Facebook, YouTube, Netflix e Instagram sem descontar da franquia de internet e 2.000 SMSs. Tudo isso por apenas R$99,90 por m\u00eas."
+      ],
+      "operation": "OI_CONTROLE_CARTAO",
+      "operator": "OI",
+      "oi": {
+        "id": "8f73ecb5-70f4-45b4-9b1e-8634b2c98471",
+        "nome": "OCSF159",
+        "nomeComercial": "Oi Mais Controle Avan\u00e7ado",
+        "descricao": "Oi Mais Controle: Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 50GB de internet 4G,\u00a0usa WhatsApp, Messenger, Facebook, YouTube, Netflix e Instagram sem descontar da franquia de internet e 2.000 SMSs. Tudo isso por apenas R$99,90 por m\u00eas.",
+        "valorRecorrencia": 9990,
+        "valorAdesao": 9990,
+        "retencao": false
+      }
+    },
+    {
+      "product": "OCSF172",
+      "label": "Oi Mais Controle TOP Natal 19",
+      "adhesionValue": 129.9,
+      "price": 129.9,
+      "details": [
+        "Oi Mais Controle: Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 100GB de internet 4G,\u00a0usa WhatsApp, Messenger, Facebook, YouTube, Netflix e Instagram sem descontar da franquia de internet e 2.500 SMSs. Tudo isso por apenas R$129,90 por m\u00eas."
+      ],
+      "operation": "OI_CONTROLE_CARTAO",
+      "operator": "OI",
+      "oi": {
+        "id": "57da8b9e-1c03-4d9e-a538-5d73bdc8a8f1",
+        "nome": "OCSF172",
+        "nomeComercial": "Oi Mais Controle TOP Natal 19",
+        "descricao": "Oi Mais Controle: Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 100GB de internet 4G,\u00a0usa WhatsApp, Messenger, Facebook, YouTube, Netflix e Instagram sem descontar da franquia de internet e 2.500 SMSs. Tudo isso por apenas R$129,90 por m\u00eas.",
+        "valorRecorrencia": 12990,
+        "valorAdesao": 12990,
+        "retencao": false
+      }
+    },
+    {
+      "product": "OCSF115",
+      "label": "B - Oi Mais Controle B\u00e1sico G2 R$44,99",
+      "adhesionValue": 39.8,
+      "price": 44.9,
+      "details": [
+        "Oi Mais Controle:Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 6GB de Internet 4G, tem Whatsapp e Messenger liberados e 1.000 SMSs. Tudo isso por RS44,99/m\u00eas."
+      ],
+      "operation": "OI_CONTROLE_BOLETO",
+      "operator": "OI",
+      "oi": {
+        "id": "d210570f-dbdd-4026-bea9-eaaaf75b4173",
+        "nome": "OCSF115",
+        "nomeComercial": "B - Oi Mais Controle B\u00e1sico G2 R$44,99",
+        "descricao": "Oi Mais Controle:Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 6GB de Internet 4G, tem Whatsapp e Messenger liberados e 1.000 SMSs. Tudo isso por RS44,99/m\u00eas.",
+        "valorRecorrencia": 4490,
+        "valorAdesao": 3980,
+        "retencao": false
+      }
+    },
+    {
+      "product": "OCSF138",
+      "label": "B - Oi Mais Controle Intermedi\u00e1rio BF M\u00e3es 2019 R$54,99",
+      "adhesionValue": 49.92,
+      "price": 54.97,
+      "details": [
+        "Oi Mais Controle: Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 12GB de Internet 4G, tem Whatsapp, Messenger e Facebook liberados e SMS. Tudo isso por RS54,99/m\u00eas."
+      ],
+      "operation": "OI_CONTROLE_BOLETO",
+      "operator": "OI",
+      "oi": {
+        "id": "83a632a7-a81a-44e4-bb0a-c036e089f475",
+        "nome": "OCSF138",
+        "nomeComercial": "B - Oi Mais Controle Intermedi\u00e1rio BF M\u00e3es 2019 R$54,99",
+        "descricao": "Oi Mais Controle: Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 12GB de Internet 4G, tem Whatsapp, Messenger e Facebook liberados e SMS. Tudo isso por RS54,99/m\u00eas.",
+        "valorRecorrencia": 5497,
+        "valorAdesao": 4992,
+        "retencao": false
+      }
+    },
+    {
+      "product": "OCSF150",
+      "label": "B - Oi Mais Controle Avan\u00e7ado",
+      "adhesionValue": 94.9,
+      "price": 99.88,
+      "details": [
+        "Oi Mais Controle: Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 50GB de internet 4G,\u00a0usa WhatsApp, Messenger, Facebook, YouTube, Netflix e Instagram sem descontar da franquia de internet e 2.000 SMSs. Tudo isso por apenas R$99,90 por m\u00eas."
+      ],
+      "operation": "OI_CONTROLE_BOLETO",
+      "operator": "OI",
+      "oi": {
+        "id": "5942a091-bb2e-4f4f-b5f9-c541ce65c4df",
+        "nome": "OCSF150",
+        "nomeComercial": "B - Oi Mais Controle Avan\u00e7ado",
+        "descricao": "Oi Mais Controle: Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 50GB de internet 4G,\u00a0usa WhatsApp, Messenger, Facebook, YouTube, Netflix e Instagram sem descontar da franquia de internet e 2.000 SMSs. Tudo isso por apenas R$99,90 por m\u00eas.",
+        "valorRecorrencia": 9988,
+        "valorAdesao": 9490,
+        "retencao": false
+      }
+    },
+    {
+      "product": "OCSF173",
+      "label": "B - Oi Mais Controle TOP Natal 19",
+      "adhesionValue": 124.9,
+      "price": 129.89,
+      "details": [
+        "Oi Mais Controle: Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 100GB de internet 4G,\u00a0usa WhatsApp, Messenger, Facebook, YouTube, Netflix e Instagram sem descontar da franquia de internet e 2.500 SMSs. Tudo isso por apenas R$129,90 por m\u00eas."
+      ],
+      "operation": "OI_CONTROLE_BOLETO",
+      "operator": "OI",
+      "oi": {
+        "id": "be5ffa6c-a3c1-40b5-b7ac-8b4fdd4b8181",
+        "nome": "OCSF173",
+        "nomeComercial": "B - Oi Mais Controle TOP Natal 19",
+        "descricao": "Oi Mais Controle: Voc\u00ea fala ilimitado com qualquer operadora do Brasil, recebe 100GB de internet 4G,\u00a0usa WhatsApp, Messenger, Facebook, YouTube, Netflix e Instagram sem descontar da franquia de internet e 2.500 SMSs. Tudo isso por apenas R$129,90 por m\u00eas.",
+        "valorRecorrencia": 12989,
+        "valorAdesao": 12490,
+        "retencao": false
+      }
+    },
+    {
+      "product": "1",
+      "label": "PR\u00c9 PAGO",
+      "price": 0,
+      "operator": "VIVO",
+      "operation": "VIVO_PRE",
+      "areaCode": 11,
+      "invoiceTypes": [],
+      "original": {
+        "id": 1,
+        "nome": "PR\u00c9 PAGO",
+        "ddd": 11,
+        "valor": 0,
+        "tipo": "PRE"
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1741",
+      "label": "Internet M\u00f3vel 100GB",
+      "price": 109.99,
+      "operator": "VIVO",
+      "operation": "VIVO_INTERNET_MOVEL_POS",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1741,
+        "nome": "Internet M\u00f3vel 100GB",
+        "ddd": 11,
+        "valor": 109.99,
+        "tipo": "INTERNET_POS",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1912",
+      "label": "Vivo P\u00f3s Mensal - 25GB + 25GB Spotify + B\u00f4nus 10GB / 12 M",
+      "price": 149.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1912,
+        "nome": "Vivo P\u00f3s Mensal - 25GB + 25GB Spotify + B\u00f4nus 10GB / 12 M",
+        "ddd": 11,
+        "valor": 149.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1913",
+      "label": "Vivo P\u00f3s Mensal - 25GB + 25GB Netflix + B\u00f4nus 10GB / 12 M",
+      "price": 164.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1913,
+        "nome": "Vivo P\u00f3s Mensal - 25GB + 25GB Netflix + B\u00f4nus 10GB / 12 M",
+        "ddd": 11,
+        "valor": 164.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1893",
+      "label": "Vivo Controle Digital Anual - 4GB + B\u00f4nus B\u00f4nus 5GB / 12 M",
+      "price": 44.99,
+      "operator": "VIVO",
+      "operation": "CONTROLE",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1893,
+        "nome": "Vivo Controle Digital Anual - 4GB + B\u00f4nus B\u00f4nus 5GB / 12 M",
+        "ddd": 11,
+        "valor": 44.99,
+        "tipo": "CONTROLE",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1902",
+      "label": "Vivo Controle Cart\u00e3o - 4,5GB",
+      "price": 44.99,
+      "operator": "VIVO",
+      "operation": "CONTROLE_CARTAO",
+      "areaCode": 11,
+      "invoiceTypes": ["CARTAO_CREDITO"],
+      "original": {
+        "id": 1902,
+        "nome": "Vivo Controle Cart\u00e3o - 4,5GB",
+        "ddd": 11,
+        "valor": 44.99,
+        "tipo": "CONTROLE_CARTAO",
+        "tipoFaturas": ["CARTAO_CREDITO"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1904",
+      "label": "Vivo Controle Pass Digital - 5GB",
+      "price": 59.99,
+      "operator": "VIVO",
+      "operation": "CONTROLE",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1904,
+        "nome": "Vivo Controle Pass Digital - 5GB",
+        "ddd": 11,
+        "valor": 59.99,
+        "tipo": "CONTROLE_GIGA_PASS",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1905",
+      "label": "Vivo P\u00f3s Anual - 10GB + B\u00f4nus 10GB / 12 M",
+      "price": 109.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1905,
+        "nome": "Vivo P\u00f3s Anual - 10GB + B\u00f4nus 10GB / 12 M",
+        "ddd": 11,
+        "valor": 109.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1894",
+      "label": "Vivo Controle Digital Anual - 4GB + Redes Sociais + B\u00f4nus B\u00f4nus 5GB / 12 M",
+      "price": 49.99,
+      "operator": "VIVO",
+      "operation": "CONTROLE",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1894,
+        "nome": "Vivo Controle Digital Anual - 4GB + Redes Sociais + B\u00f4nus B\u00f4nus 5GB / 12 M",
+        "ddd": 11,
+        "valor": 49.99,
+        "tipo": "CONTROLE",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1903",
+      "label": "Vivo Controle Cart\u00e3o - 6,5GB",
+      "price": 54.99,
+      "operator": "VIVO",
+      "operation": "CONTROLE_CARTAO",
+      "areaCode": 11,
+      "invoiceTypes": ["CARTAO_CREDITO"],
+      "original": {
+        "id": 1903,
+        "nome": "Vivo Controle Cart\u00e3o - 6,5GB",
+        "ddd": 11,
+        "valor": 54.99,
+        "tipo": "CONTROLE_CARTAO",
+        "tipoFaturas": ["CARTAO_CREDITO"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1906",
+      "label": "Vivo P\u00f3s Anual - 16GB + B\u00f4nus 10GB / 12 MGB",
+      "price": 129.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1906,
+        "nome": "Vivo P\u00f3s Anual - 16GB + B\u00f4nus 10GB / 12 MGB",
+        "ddd": 11,
+        "valor": 129.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1895",
+      "label": "Vivo Controle Digital Anual - 5GB + B\u00f4nus B\u00f4nus 5GB / 12 M",
+      "price": 59.99,
+      "operator": "VIVO",
+      "operation": "CONTROLE",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1895,
+        "nome": "Vivo Controle Digital Anual - 5GB + B\u00f4nus B\u00f4nus 5GB / 12 M",
+        "ddd": 11,
+        "valor": 59.99,
+        "tipo": "CONTROLE",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1907",
+      "label": "Vivo P\u00f3s Anual - 30GB + B\u00f4nus 10GB / 12 M",
+      "price": 189.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1907,
+        "nome": "Vivo P\u00f3s Anual - 30GB + B\u00f4nus 10GB / 12 M",
+        "ddd": 11,
+        "valor": 189.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1896",
+      "label": "Vivo Controle Digital Anual - 5GB + Redes Sociais + B\u00f4nus B\u00f4nus 5GB / 12 M",
+      "price": 64.99,
+      "operator": "VIVO",
+      "operation": "CONTROLE",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1896,
+        "nome": "Vivo Controle Digital Anual - 5GB + Redes Sociais + B\u00f4nus B\u00f4nus 5GB / 12 M",
+        "ddd": 11,
+        "valor": 64.99,
+        "tipo": "CONTROLE",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1908",
+      "label": "Vivo P\u00f3s Mensal - 8GB",
+      "price": 109.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1908,
+        "nome": "Vivo P\u00f3s Mensal - 8GB",
+        "ddd": 11,
+        "valor": 109.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1897",
+      "label": "Vivo Controle Digital Anual - 7GB + B\u00f4nus B\u00f4nus 5GB / 12 M",
+      "price": 79.99,
+      "operator": "VIVO",
+      "operation": "CONTROLE",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1897,
+        "nome": "Vivo Controle Digital Anual - 7GB + B\u00f4nus B\u00f4nus 5GB / 12 M",
+        "ddd": 11,
+        "valor": 79.99,
+        "tipo": "CONTROLE",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1909",
+      "label": "Vivo P\u00f3s Mensal - 10GB",
+      "price": 129.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["EMAIL"],
+      "original": {
+        "id": 1909,
+        "nome": "Vivo P\u00f3s Mensal - 10GB",
+        "ddd": 11,
+        "valor": 129.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1898",
+      "label": "Vivo Controle Digital Anual - 7GB + Redes Sociais + B\u00f4nus B\u00f4nus 5GB / 12 M",
+      "price": 84.99,
+      "operator": "VIVO",
+      "operation": "CONTROLE",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1898,
+        "nome": "Vivo Controle Digital Anual - 7GB + Redes Sociais + B\u00f4nus B\u00f4nus 5GB / 12 M",
+        "ddd": 11,
+        "valor": 84.99,
+        "tipo": "CONTROLE",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1910",
+      "label": "Vivo P\u00f3s Mensal - 25GB",
+      "price": 144.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1910,
+        "nome": "Vivo P\u00f3s Mensal - 25GB",
+        "ddd": 11,
+        "valor": 144.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1899",
+      "label": "Vivo Controle Digital Mensal - 3,5GB +  B\u00f4nus 5GB / 12 M",
+      "price": 44.99,
+      "operator": "VIVO",
+      "operation": "CONTROLE",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1899,
+        "nome": "Vivo Controle Digital Mensal - 3,5GB +  B\u00f4nus 5GB / 12 M",
+        "ddd": 11,
+        "valor": 44.99,
+        "tipo": "CONTROLE",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1911",
+      "label": "Vivo P\u00f3s Mensal - 25GB + 25GB Rappi + B\u00f4nus 10GB / 12 M",
+      "price": 149.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1911,
+        "nome": "Vivo P\u00f3s Mensal - 25GB + 25GB Rappi + B\u00f4nus 10GB / 12 M",
+        "ddd": 11,
+        "valor": 149.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1900",
+      "label": "Vivo Controle Digital Mensal - 4,5GB +  B\u00f4nus 5GB / 12 M",
+      "price": 59.99,
+      "operator": "VIVO",
+      "operation": "CONTROLE",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1900,
+        "nome": "Vivo Controle Digital Mensal - 4,5GB +  B\u00f4nus 5GB / 12 M",
+        "ddd": 11,
+        "valor": 59.99,
+        "tipo": "CONTROLE",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1901",
+      "label": "Vivo Controle Digital Mensal - 6,5GB +  B\u00f4nus 5GB / 12 M",
+      "price": 79.99,
+      "operator": "VIVO",
+      "operation": "CONTROLE",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1901,
+        "nome": "Vivo Controle Digital Mensal - 6,5GB +  B\u00f4nus 5GB / 12 M",
+        "ddd": 11,
+        "valor": 79.99,
+        "tipo": "CONTROLE",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1914",
+      "label": "Vivo P\u00f3s Mensal - 35GB",
+      "price": 194.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1914,
+        "nome": "Vivo P\u00f3s Mensal - 35GB",
+        "ddd": 11,
+        "valor": 194.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1014",
+      "label": "PR\u00c9 COM PROMO\u00c7\u00d5ES",
+      "price": 0,
+      "operator": "VIVO",
+      "operation": "VIVO_PRE",
+      "areaCode": 11,
+      "invoiceTypes": [],
+      "original": {
+        "id": 1014,
+        "nome": "PR\u00c9 COM PROMO\u00c7\u00d5ES",
+        "ddd": 11,
+        "valor": 0,
+        "tipo": "PRE"
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1890",
+      "label": "Combo Varejo",
+      "price": 0,
+      "operator": "VIVO",
+      "operation": "VIVO_PRE",
+      "areaCode": 11,
+      "invoiceTypes": [],
+      "original": {
+        "id": 1890,
+        "nome": "Combo Varejo",
+        "ddd": 11,
+        "valor": 0,
+        "tipo": "PRE"
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1915",
+      "label": "Vivo P\u00f3s Mensal - 35GB + 35GB Premiere + B\u00f4nus 10GB / 12 M",
+      "price": 199.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1915,
+        "nome": "Vivo P\u00f3s Mensal - 35GB + 35GB Premiere + B\u00f4nus 10GB / 12 M",
+        "ddd": 11,
+        "valor": 199.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1916",
+      "label": "Vivo Fam\u00edlia Anual - 60GB + B\u00f4nus 20GB / 12 M",
+      "price": 249.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1916,
+        "nome": "Vivo Fam\u00edlia Anual - 60GB + B\u00f4nus 20GB / 12 M",
+        "ddd": 11,
+        "valor": 249.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1917",
+      "label": "Vivo Fam\u00edlia Anual - 80GB + B\u00f4nus 20GB / 12 M",
+      "price": 319.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1917,
+        "nome": "Vivo Fam\u00edlia Anual - 80GB + B\u00f4nus 20GB / 12 M",
+        "ddd": 11,
+        "valor": 319.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1918",
+      "label": "Vivo Fam\u00edlia Anual - 100GB + B\u00f4nus 20GB / 12 M",
+      "price": 429.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1918,
+        "nome": "Vivo Fam\u00edlia Anual - 100GB + B\u00f4nus 20GB / 12 M",
+        "ddd": 11,
+        "valor": 429.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1919",
+      "label": "Vivo Fam\u00edlia Anual - 140GB + B\u00f4nus 20GB / 12 M",
+      "price": 529.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1919,
+        "nome": "Vivo Fam\u00edlia Anual - 140GB + B\u00f4nus 20GB / 12 M",
+        "ddd": 11,
+        "valor": 529.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1920",
+      "label": "Vivo Fam\u00edia Mensal - 60GB",
+      "price": 319.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1920,
+        "nome": "Vivo Fam\u00edia Mensal - 60GB",
+        "ddd": 11,
+        "valor": 319.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1921",
+      "label": "Vivo Fam\u00edlia Mensal - 80GB",
+      "price": 429.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1921,
+        "nome": "Vivo Fam\u00edlia Mensal - 80GB",
+        "ddd": 11,
+        "valor": 429.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1922",
+      "label": "Vivo Fam\u00edlia Mensal - 100GB",
+      "price": 529.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1922,
+        "nome": "Vivo Fam\u00edlia Mensal - 100GB",
+        "ddd": 11,
+        "valor": 529.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "1835",
+      "label": "Internet M\u00f3vel - 100GB",
+      "price": 109.99,
+      "operator": "VIVO",
+      "operation": "VIVO_POS_PAGO",
+      "areaCode": 11,
+      "invoiceTypes": ["VIA_POSTAL", "EMAIL"],
+      "original": {
+        "id": 1835,
+        "nome": "Internet M\u00f3vel - 100GB",
+        "ddd": 11,
+        "valor": 109.99,
+        "tipo": "POS_FATURA",
+        "tipoFaturas": ["VIA_POSTAL", "EMAIL"]
+      },
+      "dependents": 0
+    },
+    {
+      "product": "41",
+      "label": "Pre Pago",
+      "nome": null,
+      "price": 0,
+      "operator": "CLARO",
+      "operation": "CLARO_PRE",
+      "areaCode": 11,
+      "invoiceTypes": ["EMAIL", "VIA_POSTAL"],
+      "mode": "ACTIVATION",
+      "promotion": {
+        "id": 318,
+        "label": "PREZ\u00c3O 1,99 POR DIA: 100MB + WhatsApp ilimitado + liga\u00e7\u00f5es ilimitadas para Claro + 10 Minutos para outras operadoras. Pague apenas no dia que usar.",
+        "price": "0.00",
+        "mode": "ACTIVATION",
+        "loyalty": 0,
+        "penalty": "0.00",
+        "needDevice": false
+      }
+    },
+    {
+      "product": "245",
+      "label": "Controle Super 4GB",
+      "nome": null,
+      "price": 49.99,
+      "operator": "CLARO",
+      "operation": "CONTROLE_FACIL",
+      "areaCode": 11,
+      "invoiceTypes": ["CARTAO_CREDITO"],
+      "mode": "MIGRATION",
+      "promotion": null
+    },
+    {
+      "product": "251",
+      "label": "Controle Super 3GB",
+      "nome": null,
+      "price": 54.99,
+      "operator": "CLARO",
+      "operation": "CONTROLE_BOLETO",
+      "areaCode": 11,
+      "invoiceTypes": ["EMAIL", "VIA_POSTAL", "DEBITO_AUTOMATICO"],
+      "mode": "ACTIVATION",
+      "promotion": {
+        "id": 471,
+        "label": "Controle Super 3GB - 86960",
+        "price": "0.00",
+        "mode": "ACTIVATION",
+        "loyalty": 0,
+        "penalty": "0.00",
+        "needDevice": false
+      }
+    },
+    {
+      "product": "252",
+      "label": "Controle Super 4GB",
+      "nome": null,
+      "price": 64.99,
+      "operator": "CLARO",
+      "operation": "CONTROLE_BOLETO",
+      "areaCode": 11,
+      "invoiceTypes": ["EMAIL", "VIA_POSTAL", "DEBITO_AUTOMATICO"],
+      "mode": "ACTIVATION",
+      "promotion": {
+        "id": 467,
+        "label": "Controle Super 4GB  + B\u00f4nus 4GB (Fidelizado) - 86949 ",
+        "price": "-10.00",
+        "mode": "ACTIVATION",
+        "loyalty": 12,
+        "penalty": "140.00",
+        "needDevice": false
+      }
+    },
+    {
+      "product": "253",
+      "label": "Controle Super 5GB",
+      "nome": null,
+      "price": 84.99,
+      "operator": "CLARO",
+      "operation": "CONTROLE_BOLETO",
+      "areaCode": 11,
+      "invoiceTypes": ["EMAIL", "VIA_POSTAL", "DEBITO_AUTOMATICO"],
+      "mode": "ACTIVATION",
+      "promotion": {
+        "id": 473,
+        "label": "Controle Super 5GB  + B\u00f4nus 5GB (Fidelizado) - 86950",
+        "price": "-15.00",
+        "mode": "ACTIVATION",
+        "loyalty": 12,
+        "penalty": "140.00",
+        "needDevice": false
+      }
+    },
+    {
+      "product": "257",
+      "label": "CLARO POS Super 8GB",
+      "nome": null,
+      "price": 119.99,
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "areaCode": 11,
+      "invoiceTypes": ["EMAIL", "VIA_POSTAL", "DEBITO_AUTOMATICO"],
+      "mode": "ACTIVATION",
+      "promotion": {
+        "id": 477,
+        "label": "CLARO POS Super_S/Apar - 86911",
+        "price": "0.00",
+        "mode": "ACTIVATION",
+        "loyalty": 12,
+        "penalty": "240.00",
+        "needDevice": false
+      }
+    },
+    {
+      "product": "258",
+      "label": "CLARO POS Super 10GB",
+      "nome": null,
+      "price": 139.99,
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "areaCode": 11,
+      "invoiceTypes": ["EMAIL", "VIA_POSTAL", "DEBITO_AUTOMATICO"],
+      "mode": "ACTIVATION",
+      "promotion": {
+        "id": 481,
+        "label": "CLARO POS Super_S/Apar - 86913",
+        "price": "0.00",
+        "mode": "ACTIVATION",
+        "loyalty": 12,
+        "penalty": "240.00",
+        "needDevice": false
+      }
+    },
+    {
+      "product": "259",
+      "label": "CLARO POS Super 15GB",
+      "nome": null,
+      "price": 179.99,
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "areaCode": 11,
+      "invoiceTypes": ["EMAIL", "VIA_POSTAL", "DEBITO_AUTOMATICO"],
+      "mode": "ACTIVATION",
+      "promotion": {
+        "id": 481,
+        "label": "CLARO POS Super_S/Apar - 86913",
+        "price": "0.00",
+        "mode": "ACTIVATION",
+        "loyalty": 12,
+        "penalty": "240.00",
+        "needDevice": false
+      }
+    },
+    {
+      "product": "260",
+      "label": "CLARO POS Super 50GB",
+      "nome": null,
+      "price": 259.99,
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "areaCode": 11,
+      "invoiceTypes": ["EMAIL", "VIA_POSTAL", "DEBITO_AUTOMATICO"],
+      "mode": "ACTIVATION",
+      "promotion": {
+        "id": 481,
+        "label": "CLARO POS Super_S/Apar - 86913",
+        "price": "0.00",
+        "mode": "ACTIVATION",
+        "loyalty": 12,
+        "penalty": "240.00",
+        "needDevice": false
+      }
+    },
+    {
+      "product": "261",
+      "label": "CLARO POS Super 100GB",
+      "nome": null,
+      "price": 399.99,
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "areaCode": 11,
+      "invoiceTypes": ["EMAIL", "VIA_POSTAL", "DEBITO_AUTOMATICO"],
+      "mode": "ACTIVATION",
+      "promotion": {
+        "id": 481,
+        "label": "CLARO POS Super_S/Apar - 86913",
+        "price": "0.00",
+        "mode": "ACTIVATION",
+        "loyalty": 12,
+        "penalty": "240.00",
+        "needDevice": false
+      }
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2299|5272|1588176754699",
+      "idPlano": "2299|1588176754699",
+      "offer": "2299|5272|1588176754699",
+      "label": "10GB + ILIMITADO",
+      "table": { "label": "10GB + ILIMITADO", "id": "5272" },
+      "price": 70,
+      "adhesionValue": 70,
+      "portability": false,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 16999,
+        "valorThab": 7000,
+        "nomeTabela": "10GB + ILIMITADO",
+        "codigoTabela": "5272",
+        "codigoPlano": "2299|1588176754699",
+        "codigoOferta": "2299|5272|1588176754699",
+        "nomePlano": "CTR10GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 10GB",
+        "Bonus Internet - 0",
+        "Franquia de voz ILIMITADO"
+      ],
+      "operation": "NEXTEL_CONTROLE_CARTAO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2299|5272|1588176754699",
+      "idPlano": "2299|1588176754699",
+      "offer": "2299|5272|1588176754699",
+      "label": "10GB + ILIMITADO",
+      "table": { "label": "10GB + ILIMITADO", "id": "5272" },
+      "price": 70,
+      "adhesionValue": 70,
+      "portability": false,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 16999,
+        "valorThab": 7000,
+        "nomeTabela": "10GB + ILIMITADO",
+        "codigoTabela": "5272",
+        "codigoPlano": "2299|1588176754699",
+        "codigoOferta": "2299|5272|1588176754699",
+        "nomePlano": "CTR10GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 10GB",
+        "Bonus Internet - 0",
+        "Franquia de voz ILIMITADO"
+      ],
+      "operation": "NEXTEL_CONTROLE_BOLETO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2329|5287|1588176754699",
+      "idPlano": "2329|1588176754699",
+      "offer": "2329|5287|1588176754699",
+      "label": "12GB + ILIMITADO",
+      "table": { "label": "12GB + ILIMITADO", "id": "5287" },
+      "price": 70,
+      "adhesionValue": 70,
+      "portability": true,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 17999,
+        "valorThab": 7000,
+        "nomeTabela": "12GB + ILIMITADO",
+        "codigoTabela": "5287",
+        "codigoPlano": "2329|1588176754699",
+        "codigoOferta": "2329|5287|1588176754699",
+        "nomePlano": "CTR12GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 12GB",
+        "Bonus Internet - 0",
+        "Franquia de voz ILIMITADO"
+      ],
+      "operation": "NEXTEL_CONTROLE_CARTAO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2329|5287|1588176754699",
+      "idPlano": "2329|1588176754699",
+      "offer": "2329|5287|1588176754699",
+      "label": "12GB + ILIMITADO",
+      "table": { "label": "12GB + ILIMITADO", "id": "5287" },
+      "price": 70,
+      "adhesionValue": 70,
+      "portability": true,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 17999,
+        "valorThab": 7000,
+        "nomeTabela": "12GB + ILIMITADO",
+        "codigoTabela": "5287",
+        "codigoPlano": "2329|1588176754699",
+        "codigoOferta": "2329|5287|1588176754699",
+        "nomePlano": "CTR12GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 12GB",
+        "Bonus Internet - 0",
+        "Franquia de voz ILIMITADO"
+      ],
+      "operation": "NEXTEL_CONTROLE_BOLETO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2299|5274|1588176754699",
+      "idPlano": "2299|1588176754699",
+      "offer": "2299|5274|1588176754699",
+      "label": "12GB + Ilimitado - \"A REGRA E CLARA\"",
+      "table": {
+        "label": "12GB + Ilimitado - \"A REGRA E CLARA\"",
+        "id": "5274"
+      },
+      "price": 80,
+      "adhesionValue": 80,
+      "portability": false,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 16999,
+        "valorThab": 8000,
+        "nomeTabela": "12GB + Ilimitado - \"A REGRA E CLARA\"",
+        "codigoTabela": "5274",
+        "codigoPlano": "2299|1588176754699",
+        "codigoOferta": "2299|5274|1588176754699",
+        "nomePlano": "CTR10GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 12GB",
+        "Bonus Internet - 2GB",
+        "Franquia de voz ILIMITADO",
+        "GANHE MAIS GIGA a cada 6 meses!!! O melhor \u00e9 que o valor da sua conta n\u00e3o muda por 2 anos! "
+      ],
+      "operation": "NEXTEL_CONTROLE_CARTAO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2299|5274|1588176754699",
+      "idPlano": "2299|1588176754699",
+      "offer": "2299|5274|1588176754699",
+      "label": "12GB + Ilimitado - \"A REGRA E CLARA\"",
+      "table": {
+        "label": "12GB + Ilimitado - \"A REGRA E CLARA\"",
+        "id": "5274"
+      },
+      "price": 80,
+      "adhesionValue": 80,
+      "portability": false,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 16999,
+        "valorThab": 8000,
+        "nomeTabela": "12GB + Ilimitado - \"A REGRA E CLARA\"",
+        "codigoTabela": "5274",
+        "codigoPlano": "2299|1588176754699",
+        "codigoOferta": "2299|5274|1588176754699",
+        "nomePlano": "CTR10GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 12GB",
+        "Bonus Internet - 2GB",
+        "Franquia de voz ILIMITADO",
+        "GANHE MAIS GIGA a cada 6 meses!!! O melhor \u00e9 que o valor da sua conta n\u00e3o muda por 2 anos! "
+      ],
+      "operation": "NEXTEL_CONTROLE_BOLETO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2329|5288|1588176754699",
+      "idPlano": "2329|1588176754699",
+      "offer": "2329|5288|1588176754699",
+      "label": "14GB + Ilimitado - \"A REGRA E CLARA\"",
+      "table": {
+        "label": "14GB + Ilimitado - \"A REGRA E CLARA\"",
+        "id": "5288"
+      },
+      "price": 80,
+      "adhesionValue": 80,
+      "portability": true,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 17999,
+        "valorThab": 8000,
+        "nomeTabela": "14GB + Ilimitado - \"A REGRA E CLARA\"",
+        "codigoTabela": "5288",
+        "codigoPlano": "2329|1588176754699",
+        "codigoOferta": "2329|5288|1588176754699",
+        "nomePlano": "CTR12GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 14GB",
+        "Bonus Internet - 2GB",
+        "Franquia de voz ILIMITADO",
+        "GANHE MAIS GIGA a cada 6 meses!!! O melhor \u00e9 que o valor da sua conta n\u00e3o muda por 2 anos! "
+      ],
+      "operation": "NEXTEL_CONTROLE_CARTAO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2329|5288|1588176754699",
+      "idPlano": "2329|1588176754699",
+      "offer": "2329|5288|1588176754699",
+      "label": "14GB + Ilimitado - \"A REGRA E CLARA\"",
+      "table": {
+        "label": "14GB + Ilimitado - \"A REGRA E CLARA\"",
+        "id": "5288"
+      },
+      "price": 80,
+      "adhesionValue": 80,
+      "portability": true,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 17999,
+        "valorThab": 8000,
+        "nomeTabela": "14GB + Ilimitado - \"A REGRA E CLARA\"",
+        "codigoTabela": "5288",
+        "codigoPlano": "2329|1588176754699",
+        "codigoOferta": "2329|5288|1588176754699",
+        "nomePlano": "CTR12GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 14GB",
+        "Bonus Internet - 2GB",
+        "Franquia de voz ILIMITADO",
+        "GANHE MAIS GIGA a cada 6 meses!!! O melhor \u00e9 que o valor da sua conta n\u00e3o muda por 2 anos! "
+      ],
+      "operation": "NEXTEL_CONTROLE_BOLETO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2337|5023|1588176754699",
+      "idPlano": "2337|1588176754699",
+      "offer": "2337|5023|1588176754699",
+      "label": "20GB + ILIMITADO",
+      "table": { "label": "20GB + ILIMITADO", "id": "5023" },
+      "price": 100,
+      "adhesionValue": 100,
+      "portability": false,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 22999,
+        "valorThab": 10000,
+        "nomeTabela": "20GB + ILIMITADO",
+        "codigoTabela": "5023",
+        "codigoPlano": "2337|1588176754699",
+        "codigoOferta": "2337|5023|1588176754699",
+        "nomePlano": "CTR20GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 20GB",
+        "Bonus Internet - 0",
+        "Franquia de voz ILIMITADO"
+      ],
+      "operation": "NEXTEL_CONTROLE_CARTAO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2337|5023|1588176754699",
+      "idPlano": "2337|1588176754699",
+      "offer": "2337|5023|1588176754699",
+      "label": "20GB + ILIMITADO",
+      "table": { "label": "20GB + ILIMITADO", "id": "5023" },
+      "price": 100,
+      "adhesionValue": 100,
+      "portability": false,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 22999,
+        "valorThab": 10000,
+        "nomeTabela": "20GB + ILIMITADO",
+        "codigoTabela": "5023",
+        "codigoPlano": "2337|1588176754699",
+        "codigoOferta": "2337|5023|1588176754699",
+        "nomePlano": "CTR20GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 20GB",
+        "Bonus Internet - 0",
+        "Franquia de voz ILIMITADO"
+      ],
+      "operation": "NEXTEL_CONTROLE_BOLETO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2337|5323|1588176754699",
+      "idPlano": "2337|1588176754699",
+      "offer": "2337|5323|1588176754699",
+      "label": "22GB (20GB+2GB BONUS) + ILIMITADO",
+      "table": { "label": "22GB (20GB+2GB BONUS) + ILIMITADO", "id": "5323" },
+      "price": 100,
+      "adhesionValue": 100,
+      "portability": true,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 22999,
+        "valorThab": 10000,
+        "nomeTabela": "22GB (20GB+2GB BONUS) + ILIMITADO",
+        "codigoTabela": "5323",
+        "codigoPlano": "2337|1588176754699",
+        "codigoOferta": "2337|5323|1588176754699",
+        "nomePlano": "CTR20GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 22GB",
+        "Bonus Internet - 0",
+        "Franquia de voz ILIMITADO"
+      ],
+      "operation": "NEXTEL_CONTROLE_CARTAO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2337|5323|1588176754699",
+      "idPlano": "2337|1588176754699",
+      "offer": "2337|5323|1588176754699",
+      "label": "22GB (20GB+2GB BONUS) + ILIMITADO",
+      "table": { "label": "22GB (20GB+2GB BONUS) + ILIMITADO", "id": "5323" },
+      "price": 100,
+      "adhesionValue": 100,
+      "portability": true,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 22999,
+        "valorThab": 10000,
+        "nomeTabela": "22GB (20GB+2GB BONUS) + ILIMITADO",
+        "codigoTabela": "5323",
+        "codigoPlano": "2337|1588176754699",
+        "codigoOferta": "2337|5323|1588176754699",
+        "nomePlano": "CTR20GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 22GB",
+        "Bonus Internet - 0",
+        "Franquia de voz ILIMITADO"
+      ],
+      "operation": "NEXTEL_CONTROLE_BOLETO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2337|5096|1588176754699",
+      "idPlano": "2337|1588176754699",
+      "offer": "2337|5096|1588176754699",
+      "label": "22GB + Ilimitado- \"A REGRA E CLARA\"",
+      "table": {
+        "label": "22GB + Ilimitado- \"A REGRA E CLARA\"",
+        "id": "5096"
+      },
+      "price": 110,
+      "adhesionValue": 100,
+      "portability": false,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 22999,
+        "valorThab": 10000,
+        "nomeTabela": "22GB + Ilimitado- \"A REGRA E CLARA\"",
+        "codigoTabela": "5096",
+        "codigoPlano": "2337|1588176754699",
+        "codigoOferta": "2337|5096|1588176754699",
+        "nomePlano": "CTR20GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 22GB",
+        "Bonus Internet - 2GB",
+        "Franquia de voz ILIMITADO",
+        "GANHE MAIS GIGA a cada 6 meses!!! O melhor \u00e9 que o valor da sua conta n\u00e3o muda por 2 anos! "
+      ],
+      "operation": "NEXTEL_CONTROLE_CARTAO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2337|5096|1588176754699",
+      "idPlano": "2337|1588176754699",
+      "offer": "2337|5096|1588176754699",
+      "label": "22GB + Ilimitado- \"A REGRA E CLARA\"",
+      "table": {
+        "label": "22GB + Ilimitado- \"A REGRA E CLARA\"",
+        "id": "5096"
+      },
+      "price": 110,
+      "adhesionValue": 100,
+      "portability": false,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 22999,
+        "valorThab": 10000,
+        "nomeTabela": "22GB + Ilimitado- \"A REGRA E CLARA\"",
+        "codigoTabela": "5096",
+        "codigoPlano": "2337|1588176754699",
+        "codigoOferta": "2337|5096|1588176754699",
+        "nomePlano": "CTR20GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 22GB",
+        "Bonus Internet - 2GB",
+        "Franquia de voz ILIMITADO",
+        "GANHE MAIS GIGA a cada 6 meses!!! O melhor \u00e9 que o valor da sua conta n\u00e3o muda por 2 anos! "
+      ],
+      "operation": "NEXTEL_CONTROLE_BOLETO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2337|5324|1588176754699",
+      "idPlano": "2337|1588176754699",
+      "offer": "2337|5324|1588176754699",
+      "label": "24GB (22GB+2GB BONUS) - \"A REGRA E CLARA\"",
+      "table": {
+        "label": "24GB (22GB+2GB BONUS) - \"A REGRA E CLARA\"",
+        "id": "5324"
+      },
+      "price": 110,
+      "adhesionValue": 100,
+      "portability": true,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 22999,
+        "valorThab": 10000,
+        "nomeTabela": "24GB (22GB+2GB BONUS) - \"A REGRA E CLARA\"",
+        "codigoTabela": "5324",
+        "codigoPlano": "2337|1588176754699",
+        "codigoOferta": "2337|5324|1588176754699",
+        "nomePlano": "CTR20GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 24GB",
+        "Bonus Internet - 4GB",
+        "Franquia de voz ILIMITADO",
+        "GANHE MAIS GIGA a cada 6 meses!!! O melhor \u00e9 que o valor da sua conta n\u00e3o muda por 2 anos! "
+      ],
+      "operation": "NEXTEL_CONTROLE_CARTAO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2337|5324|1588176754699",
+      "idPlano": "2337|1588176754699",
+      "offer": "2337|5324|1588176754699",
+      "label": "24GB (22GB+2GB BONUS) - \"A REGRA E CLARA\"",
+      "table": {
+        "label": "24GB (22GB+2GB BONUS) - \"A REGRA E CLARA\"",
+        "id": "5324"
+      },
+      "price": 110,
+      "adhesionValue": 100,
+      "portability": true,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 22999,
+        "valorThab": 10000,
+        "nomeTabela": "24GB (22GB+2GB BONUS) - \"A REGRA E CLARA\"",
+        "codigoTabela": "5324",
+        "codigoPlano": "2337|1588176754699",
+        "codigoOferta": "2337|5324|1588176754699",
+        "nomePlano": "CTR20GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 24GB",
+        "Bonus Internet - 4GB",
+        "Franquia de voz ILIMITADO",
+        "GANHE MAIS GIGA a cada 6 meses!!! O melhor \u00e9 que o valor da sua conta n\u00e3o muda por 2 anos! "
+      ],
+      "operation": "NEXTEL_CONTROLE_BOLETO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2342|5277|1588176754699",
+      "idPlano": "2342|1588176754699",
+      "offer": "2342|5277|1588176754699",
+      "label": "4GB + ILIMITADO",
+      "table": { "label": "4GB + ILIMITADO", "id": "5277" },
+      "price": 50,
+      "adhesionValue": 45,
+      "portability": false,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 11500,
+        "valorThab": 4500,
+        "nomeTabela": "4GB + ILIMITADO",
+        "codigoTabela": "5277",
+        "codigoPlano": "2342|1588176754699",
+        "codigoOferta": "2342|5277|1588176754699",
+        "nomePlano": "CTR4GB+Ilimit.1.GV196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 4GB",
+        "Bonus Internet - 0",
+        "Franquia de voz ILIMITADO"
+      ],
+      "operation": "NEXTEL_CONTROLE_CARTAO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2342|5277|1588176754699",
+      "idPlano": "2342|1588176754699",
+      "offer": "2342|5277|1588176754699",
+      "label": "4GB + ILIMITADO",
+      "table": { "label": "4GB + ILIMITADO", "id": "5277" },
+      "price": 50,
+      "adhesionValue": 45,
+      "portability": false,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 11500,
+        "valorThab": 4500,
+        "nomeTabela": "4GB + ILIMITADO",
+        "codigoTabela": "5277",
+        "codigoPlano": "2342|1588176754699",
+        "codigoOferta": "2342|5277|1588176754699",
+        "nomePlano": "CTR4GB+Ilimit.1.GV196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 4GB",
+        "Bonus Internet - 0",
+        "Franquia de voz ILIMITADO"
+      ],
+      "operation": "NEXTEL_CONTROLE_BOLETO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2342|5191|1588176754699",
+      "idPlano": "2342|1588176754699",
+      "offer": "2342|5191|1588176754699",
+      "label": "5GB + Ilimitado - \"A REGRA E CLARA\"",
+      "table": {
+        "label": "5GB + Ilimitado - \"A REGRA E CLARA\"",
+        "id": "5191"
+      },
+      "price": 55,
+      "adhesionValue": 55,
+      "portability": false,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 11500,
+        "valorThab": 5500,
+        "nomeTabela": "5GB + Ilimitado - \"A REGRA E CLARA\"",
+        "codigoTabela": "5191",
+        "codigoPlano": "2342|1588176754699",
+        "codigoOferta": "2342|5191|1588176754699",
+        "nomePlano": "CTR4GB+Ilimit.1.GV196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 5GB",
+        "Bonus Internet - 1GB",
+        "Franquia de voz ILIMITADO",
+        "GANHE MAIS GIGA a cada 6 meses!!! O melhor \u00e9 que o valor da sua conta n\u00e3o muda por 2 anos! "
+      ],
+      "operation": "NEXTEL_CONTROLE_CARTAO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2342|5191|1588176754699",
+      "idPlano": "2342|1588176754699",
+      "offer": "2342|5191|1588176754699",
+      "label": "5GB + Ilimitado - \"A REGRA E CLARA\"",
+      "table": {
+        "label": "5GB + Ilimitado - \"A REGRA E CLARA\"",
+        "id": "5191"
+      },
+      "price": 55,
+      "adhesionValue": 55,
+      "portability": false,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 11500,
+        "valorThab": 5500,
+        "nomeTabela": "5GB + Ilimitado - \"A REGRA E CLARA\"",
+        "codigoTabela": "5191",
+        "codigoPlano": "2342|1588176754699",
+        "codigoOferta": "2342|5191|1588176754699",
+        "nomePlano": "CTR4GB+Ilimit.1.GV196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 5GB",
+        "Bonus Internet - 1GB",
+        "Franquia de voz ILIMITADO",
+        "GANHE MAIS GIGA a cada 6 meses!!! O melhor \u00e9 que o valor da sua conta n\u00e3o muda por 2 anos! "
+      ],
+      "operation": "NEXTEL_CONTROLE_BOLETO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2326|5341|1588176754699",
+      "idPlano": "2326|1588176754699",
+      "offer": "2326|5341|1588176754699",
+      "label": "DIA DAS MAES - 8GB + ILIMITADO",
+      "table": { "label": "DIA DAS MAES - 8GB + ILIMITADO", "id": "5341" },
+      "price": 50,
+      "adhesionValue": 50,
+      "portability": true,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 18999,
+        "valorThab": 5000,
+        "nomeTabela": "DIA DAS MAES - 8GB + ILIMITADO",
+        "codigoTabela": "5341",
+        "codigoPlano": "2326|1588176754699",
+        "codigoOferta": "2326|5341|1588176754699",
+        "nomePlano": "CTR8GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 8GB",
+        "Bonus Internet - 0",
+        "Franquia de voz ILIMITADO"
+      ],
+      "operation": "NEXTEL_CONTROLE_CARTAO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2326|5341|1588176754699",
+      "idPlano": "2326|1588176754699",
+      "offer": "2326|5341|1588176754699",
+      "label": "DIA DAS MAES - 8GB + ILIMITADO",
+      "table": { "label": "DIA DAS MAES - 8GB + ILIMITADO", "id": "5341" },
+      "price": 50,
+      "adhesionValue": 50,
+      "portability": true,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 18999,
+        "valorThab": 5000,
+        "nomeTabela": "DIA DAS MAES - 8GB + ILIMITADO",
+        "codigoTabela": "5341",
+        "codigoPlano": "2326|1588176754699",
+        "codigoOferta": "2326|5341|1588176754699",
+        "nomePlano": "CTR8GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 8GB",
+        "Bonus Internet - 0",
+        "Franquia de voz ILIMITADO"
+      ],
+      "operation": "NEXTEL_CONTROLE_BOLETO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2324|5342|1588176754699",
+      "idPlano": "2324|1588176754699",
+      "offer": "2324|5342|1588176754699",
+      "label": "DIA DAS MAES - 9GB (7GB+2GB) \"REGRA E CLARA\"",
+      "table": {
+        "label": "DIA DAS MAES - 9GB (7GB+2GB) \"REGRA E CLARA\"",
+        "id": "5342"
+      },
+      "price": 55,
+      "adhesionValue": 55,
+      "portability": true,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 14999,
+        "valorThab": 5500,
+        "nomeTabela": "DIA DAS MAES - 9GB (7GB+2GB) \"REGRA E CLARA\"",
+        "codigoTabela": "5342",
+        "codigoPlano": "2324|1588176754699",
+        "codigoOferta": "2324|5342|1588176754699",
+        "nomePlano": "CTR6GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 9GB",
+        "Bonus Internet - 3GB",
+        "Franquia de voz ILIMITADO",
+        "GANHE MAIS GIGA a cada 6 meses!!! O melhor \u00e9 que o valor da sua conta n\u00e3o muda por 2 anos! "
+      ],
+      "operation": "NEXTEL_CONTROLE_CARTAO"
+    },
+    {
+      "operator": "NEXTEL",
+      "product": "2324|5342|1588176754699",
+      "idPlano": "2324|1588176754699",
+      "offer": "2324|5342|1588176754699",
+      "label": "DIA DAS MAES - 9GB (7GB+2GB) \"REGRA E CLARA\"",
+      "table": {
+        "label": "DIA DAS MAES - 9GB (7GB+2GB) \"REGRA E CLARA\"",
+        "id": "5342"
+      },
+      "price": 55,
+      "adhesionValue": 55,
+      "portability": true,
+      "invoiceType": ["DEBITO_AUTOMATICO", "BOLETO", "CARTAO_DE_CREDITO"],
+      "nextel": {
+        "valorTotal": 14999,
+        "valorThab": 5500,
+        "nomeTabela": "DIA DAS MAES - 9GB (7GB+2GB) \"REGRA E CLARA\"",
+        "codigoTabela": "5342",
+        "codigoPlano": "2324|1588176754699",
+        "codigoOferta": "2324|5342|1588176754699",
+        "nomePlano": "CTR6GB+Ilimitado196/Pos/SMP"
+      },
+      "details": [
+        "Franquia de dados - 9GB",
+        "Bonus Internet - 3GB",
+        "Franquia de voz ILIMITADO",
+        "GANHE MAIS GIGA a cada 6 meses!!! O melhor \u00e9 que o valor da sua conta n\u00e3o muda por 2 anos! "
+      ],
+      "operation": "NEXTEL_CONTROLE_BOLETO"
+    }
+  ],
+  "promotions": [
+    {
+      "id": 318,
+      "label": "PREZ\u00c3O 1,99 POR DIA: 100MB + WhatsApp ilimitado + liga\u00e7\u00f5es ilimitadas para Claro + 10 Minutos para outras operadoras. Pague apenas no dia que usar.",
+      "operator": "CLARO",
+      "operation": "CLARO_PRE",
+      "product": "41"
+    },
+    {
+      "id": 319,
+      "label": "PREZAO R$9,99 POR SEMANA: 1GB + 1GB de b\u00f4nus + WhatsApp Ilimitado e liga\u00e7\u00f5es ilimitadas p/ todas operadoras do Brasil.",
+      "operator": "CLARO",
+      "operation": "CLARO_PRE",
+      "product": "41"
+    },
+    {
+      "id": 320,
+      "label": "PREZAO R$34,99 POR M\u00caS: 3GB + 3GB de b\u00f4nus + WhatsApp Ilimitado e liga\u00e7\u00f5es ilimitadas p/ qualquer operadora do Brasil.",
+      "operator": "CLARO",
+      "operation": "CLARO_PRE",
+      "product": "41"
+    },
+    {
+      "id": 314,
+      "label": "Claro Internet Mais",
+      "operator": "CLARO",
+      "operation": "CLARO_BANDA_LARGA",
+      "product": "116"
+    },
+    {
+      "id": 314,
+      "label": "Claro Internet Mais",
+      "operator": "CLARO",
+      "operation": "CLARO_BANDA_LARGA",
+      "product": "117"
+    },
+    {
+      "id": 314,
+      "label": "Claro Internet Mais",
+      "operator": "CLARO",
+      "operation": "CLARO_BANDA_LARGA",
+      "product": "118"
+    },
+    {
+      "id": 471,
+      "label": "Controle Super 3GB - 86960",
+      "operator": "CLARO",
+      "operation": "CONTROLE_BOLETO",
+      "product": "251"
+    },
+    {
+      "id": 472,
+      "label": "Controle Super 3GB - 86961",
+      "operator": "CLARO",
+      "operation": "CONTROLE_BOLETO",
+      "product": "251"
+    },
+    {
+      "id": 467,
+      "label": "Controle Super 4GB  + B\u00f4nus 4GB (Fidelizado) - 86949 ",
+      "operator": "CLARO",
+      "operation": "CONTROLE_BOLETO",
+      "product": "252"
+    },
+    {
+      "id": 468,
+      "label": "Controle Super 4GB  + B\u00f4nus 4GB (Fidelizado) - 86951",
+      "operator": "CLARO",
+      "operation": "CONTROLE_BOLETO",
+      "product": "252"
+    },
+    {
+      "id": 469,
+      "label": "Controle Super 4GB  + B\u00f4nus 4GB - 86955",
+      "operator": "CLARO",
+      "operation": "CONTROLE_BOLETO",
+      "product": "252"
+    },
+    {
+      "id": 470,
+      "label": "Controle Super 4GB  + B\u00f4nus 4GB - 86957",
+      "operator": "CLARO",
+      "operation": "CONTROLE_BOLETO",
+      "product": "252"
+    },
+    {
+      "id": 473,
+      "label": "Controle Super 5GB  + B\u00f4nus 5GB (Fidelizado) - 86950",
+      "operator": "CLARO",
+      "operation": "CONTROLE_BOLETO",
+      "product": "253"
+    },
+    {
+      "id": 474,
+      "label": "Controle Super 5GB  + B\u00f4nus 5GB (Fidelizado) - 86952",
+      "operator": "CLARO",
+      "operation": "CONTROLE_BOLETO",
+      "product": "253"
+    },
+    {
+      "id": 475,
+      "label": "Controle Super 5GB  + B\u00f4nus 5GB - 86956",
+      "operator": "CLARO",
+      "operation": "CONTROLE_BOLETO",
+      "product": "253"
+    },
+    {
+      "id": 476,
+      "label": "Controle Super 5GB  + B\u00f4nus 5GB - 86958",
+      "operator": "CLARO",
+      "operation": "CONTROLE_BOLETO",
+      "product": "253"
+    },
+    {
+      "id": 477,
+      "label": "CLARO POS Super_S/Apar - 86911",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "257"
+    },
+    {
+      "id": 478,
+      "label": "CLARO POS Super_S/Apar - 86911",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "257"
+    },
+    {
+      "id": 479,
+      "label": "CLARO POS Super_C/Apar - 86911",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "257"
+    },
+    {
+      "id": 480,
+      "label": "CLARO POS Super_C/Apar - 86911",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "257"
+    },
+    {
+      "id": 481,
+      "label": "CLARO POS Super_S/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "258"
+    },
+    {
+      "id": 482,
+      "label": "CLARO POS Super_S/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "258"
+    },
+    {
+      "id": 483,
+      "label": "CLARO POS Super_C/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "258"
+    },
+    {
+      "id": 484,
+      "label": "CLARO POS Super_C/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "258"
+    },
+    {
+      "id": 481,
+      "label": "CLARO POS Super_S/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "259"
+    },
+    {
+      "id": 482,
+      "label": "CLARO POS Super_S/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "259"
+    },
+    {
+      "id": 483,
+      "label": "CLARO POS Super_C/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "259"
+    },
+    {
+      "id": 484,
+      "label": "CLARO POS Super_C/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "259"
+    },
+    {
+      "id": 481,
+      "label": "CLARO POS Super_S/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "260"
+    },
+    {
+      "id": 482,
+      "label": "CLARO POS Super_S/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "260"
+    },
+    {
+      "id": 483,
+      "label": "CLARO POS Super_C/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "260"
+    },
+    {
+      "id": 484,
+      "label": "CLARO POS Super_C/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "260"
+    },
+    {
+      "id": 481,
+      "label": "CLARO POS Super_S/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "261"
+    },
+    {
+      "id": 482,
+      "label": "CLARO POS Super_S/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "261"
+    },
+    {
+      "id": 483,
+      "label": "CLARO POS Super_C/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "261"
+    },
+    {
+      "id": 484,
+      "label": "CLARO POS Super_C/Apar - 86913",
+      "operator": "CLARO",
+      "operation": "CLARO_POS",
+      "product": "261"
+    }
+  ]
+}

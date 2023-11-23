@@ -1,0 +1,37 @@
+<?php
+
+declare(strict_types=1);
+
+namespace TimBR\Exceptions;
+
+use Illuminate\Http\Response;
+use TradeAppOne\Exceptions\ThirdPartyExceptions;
+
+class TimBRGenerateProtocolException extends ThirdPartyExceptions
+{
+    protected $message;
+    protected $statusCode;
+
+    public function __construct(int $statusCode = Response::HTTP_BAD_REQUEST, ?string $message = null)
+    {
+        if ($message !== null) {
+            $this->message = $message;
+        }
+        $this->statusCode = $statusCode;
+    }
+
+    public function getHttpStatus(): int
+    {
+        return $this->statusCode;
+    }
+
+    public function getShortMessage(): string
+    {
+        return 'TimBRGenerateProtocolException';
+    }
+
+    public function getDescription(): string
+    {
+        return $this->message ?? 'Error TIM';
+    }
+}

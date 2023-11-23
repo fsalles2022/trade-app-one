@@ -1,0 +1,495 @@
+{
+  "planos": [
+    {
+      "id": 1,
+      "nome": "PRÉ PAGO",
+      "ddd": 11,
+      "valor": 0,
+      "tipo": "PRE"
+    },
+    {
+      "id": 1741,
+      "nome": "Internet Móvel 100GB",
+      "ddd": 11,
+      "valor": 109.99,
+      "tipo": "INTERNET_POS",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1912,
+      "nome": "Vivo Pós Mensal - 25GB + 25GB Spotify",
+      "ddd": 11,
+      "valor": 149.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1913,
+      "nome": "Vivo Pós Mensal - 25GB + 25GB Netflix",
+      "ddd": 11,
+      "valor": 164.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1893,
+      "nome": "Vivo Controle Digital Anual - 4GB",
+      "ddd": 11,
+      "valor": 44.99,
+      "tipo": "CONTROLE",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1902,
+      "nome": "Vivo Controle Cartão - 4,5GB",
+      "ddd": 11,
+      "valor": 44.99,
+      "tipo": "CONTROLE_CARTAO",
+      "tipoFaturas": [
+        "CARTAO_CREDITO"
+      ]
+    },
+    {
+      "id": 1904,
+      "nome": "Vivo Controle Pass Digital - 5GB",
+      "ddd": 11,
+      "valor": 59.99,
+      "tipo": "CONTROLE_GIGA_PASS",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1905,
+      "nome": "Vivo Pós Anual - 10GB",
+      "ddd": 11,
+      "valor": 109.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1894,
+      "nome": "Vivo Controle Digital Anual - 4GB + Redes Sociais",
+      "ddd": 11,
+      "valor": 49.99,
+      "tipo": "CONTROLE",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1903,
+      "nome": "Vivo Controle Cartão - 6,5GB",
+      "ddd": 11,
+      "valor": 54.99,
+      "tipo": "CONTROLE_CARTAO",
+      "tipoFaturas": [
+        "CARTAO_CREDITO"
+      ]
+    },
+    {
+      "id": 1906,
+      "nome": "Vivo Pós Anual - 16GB",
+      "ddd": 11,
+      "valor": 129.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1895,
+      "nome": "Vivo Controle Digital Anual - 5GB",
+      "ddd": 11,
+      "valor": 59.99,
+      "tipo": "CONTROLE",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1907,
+      "nome": "Vivo Pós Anual - 30GB",
+      "ddd": 11,
+      "valor": 189.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1896,
+      "nome": "Vivo Controle Digital Anual - 5GB + Redes Sociais",
+      "ddd": 11,
+      "valor": 64.99,
+      "tipo": "CONTROLE",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1908,
+      "nome": "Vivo Pós Mensal - 8GB",
+      "ddd": 11,
+      "valor": 109.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1897,
+      "nome": "Vivo Controle Digital Anual - 7GB",
+      "ddd": 11,
+      "valor": 79.99,
+      "tipo": "CONTROLE",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1909,
+      "nome": "Vivo Pós Mensal - 10GB",
+      "ddd": 11,
+      "valor": 129.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1898,
+      "nome": "Vivo Controle Digital Anual - 7GB + Redes Sociais",
+      "ddd": 11,
+      "valor": 84.99,
+      "tipo": "CONTROLE",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1910,
+      "nome": "Vivo Pós Mensal - 25GB",
+      "ddd": 11,
+      "valor": 144.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1899,
+      "nome": "Vivo Controle Digital Mensal - 3,5GB",
+      "ddd": 11,
+      "valor": 44.99,
+      "tipo": "CONTROLE",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1911,
+      "nome": "Vivo Pós Mensal - 25GB + 25GB Rappi",
+      "ddd": 11,
+      "valor": 149.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1900,
+      "nome": "Vivo Controle Digital Mensal - 4,5GB",
+      "ddd": 11,
+      "valor": 59.99,
+      "tipo": "CONTROLE",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 880,
+      "nome": "FIXO LOCAL",
+      "ddd": 11,
+      "valor": 34.99,
+      "tipo": "FIXO",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 881,
+      "nome": "FIXO ILIMITADO",
+      "ddd": 11,
+      "valor": 34.99,
+      "tipo": "FIXO",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 882,
+      "nome": "FIXO ILIMITADO TOTAL",
+      "ddd": 11,
+      "valor": 68.99,
+      "tipo": "FIXO",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1901,
+      "nome": "Vivo Controle Digital Mensal - 6,5GB",
+      "ddd": 11,
+      "valor": 79.99,
+      "tipo": "CONTROLE",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1914,
+      "nome": "Vivo Pós Mensal - 35GB",
+      "ddd": 11,
+      "valor": 194.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1014,
+      "nome": "PRÉ COM PROMOÇÕES",
+      "ddd": 11,
+      "valor": 0,
+      "tipo": "PRE"
+    },
+    {
+      "id": 1890,
+      "nome": "Combo Varejo",
+      "ddd": 11,
+      "valor": 0,
+      "tipo": "PRE"
+    },
+    {
+      "id": 1915,
+      "nome": "Vivo Pós Mensal - 35GB + 35GB Premiere",
+      "ddd": 11,
+      "valor": 199.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1193,
+      "nome": "Vivo Fixa",
+      "ddd": 11,
+      "valor": 0.01,
+      "tipo": null
+    },
+    {
+      "id": 1916,
+      "nome": "Vivo Família Anual - 60GB",
+      "ddd": 11,
+      "valor": 249.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1917,
+      "nome": "Vivo Família Anual - 80GB",
+      "ddd": 11,
+      "valor": 319.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1918,
+      "nome": "Vivo Família Anual - 100GB",
+      "ddd": 11,
+      "valor": 429.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1919,
+      "nome": "Vivo Família Anual - 140GB",
+      "ddd": 11,
+      "valor": 529.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1920,
+      "nome": "Vivo Famíia Mensal - 60GB",
+      "ddd": 11,
+      "valor": 319.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1921,
+      "nome": "Vivo Família Mensal - 80GB",
+      "ddd": 11,
+      "valor": 429.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1922,
+      "nome": "Vivo Família Mensal - 100GB",
+      "ddd": 11,
+      "valor": 529.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1835,
+      "nome": "Internet Móvel - 100GB",
+      "ddd": 11,
+      "valor": 109.99,
+      "tipo": "POS_FATURA",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1696,
+      "nome": "INTERNET 14GB - R$169.99",
+      "ddd": 11,
+      "valor": 169.99,
+      "tipo": "INTERNET_POS",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1437,
+      "nome": "VIVO CTRL PASS DIGITAL - 2GB - R$44.99",
+      "ddd": 11,
+      "valor": 44.99,
+      "tipo": "CONTROLE_GIGA_PASS",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1440,
+      "nome": "VIVO CTRL PASS DIGITAL - 3GB - R$59.99",
+      "ddd": 11,
+      "valor": 59.99,
+      "tipo": "CONTROLE_GIGA_PASS",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 880,
+      "nome": "FIXO LOCAL - R$34.99",
+      "ddd": 11,
+      "valor": 34.99,
+      "tipo": "FIXO",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 881,
+      "nome": "FIXO ILIMITADO - R$34.99",
+      "ddd": 11,
+      "valor": 34.99,
+      "tipo": "FIXO",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 882,
+      "nome": "FIXO ILIMITADO TOTAL - R$68.99",
+      "ddd": 11,
+      "valor": 68.99,
+      "tipo": "FIXO",
+      "tipoFaturas": [
+        "VIA_POSTAL",
+        "EMAIL"
+      ]
+    },
+    {
+      "id": 1010,
+      "nome": "INTERNET PRÉ 600MB - R$29.99",
+      "ddd": 11,
+      "valor": 29.99,
+      "tipo": "INTERNET_PRE"
+    },
+    {
+      "id": 1011,
+      "nome": "INTERNET PRÉ 400MB - R$23.99",
+      "ddd": 11,
+      "valor": 23.99,
+      "tipo": "INTERNET_PRE"
+    }
+  ],
+  "codigo": 0
+}

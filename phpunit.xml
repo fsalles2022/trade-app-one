@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit backupGlobals="false"
+         backupStaticAttributes="false"
+         beStrictAboutTestsThatDoNotTestAnything="true"
+         bootstrap="vendor/autoload.php"
+         colors="true"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         checkForUnintentionallyCoveredCode="true"
+         processIsolation="false"
+         stopOnFailure="false">
+    <listeners>
+        <listener class="JohnKary\PHPUnit\Listener\SpeedTrapListener">
+            <arguments>
+                <array>
+                    <element key="slowThreshold">
+                        <integer>2000</integer>
+                    </element>
+                    <element key="reportLength">
+                        <integer>5</integer>
+                    </element>
+                </array>
+            </arguments>
+        </listener>
+    </listeners>
+    <testsuites>
+        <testsuite name="App">
+            <directory suffix="Test.php">./app</directory>
+        </testsuite>
+
+        <testsuite name="Feature">
+            <directory suffix="Test.php">./tests/**</directory>
+        </testsuite>
+
+        <testsuite name="Report">
+            <directory suffix="Test.php">./tests/Reports</directory>
+        </testsuite>
+
+        <testsuite name="Repositories">
+            <directory suffix="Test.php">./tests/Repositories</directory>
+        </testsuite>
+
+        <testsuite name="Rules">
+            <directory suffix="Test.php">./tests/Rules</directory>
+        </testsuite>
+
+        <testsuite name="Unit">
+            <directory suffix="Test.php">./tests/Unit</directory>
+            <directory suffix="Test.php">./modules/*/tests/</directory>
+            <directory suffix="Test.php">./modules/*/*/tests/</directory>
+            <directory suffix="Test.php">./modules/*/*/*/tests/</directory>
+        </testsuite>
+    </testsuites>
+    <filter>
+        <whitelist processUncoveredFilesFromWhitelist="true">
+            <directory suffix=".php">./app</directory>
+            <directory suffix=".php">./modules</directory>
+            <exclude>
+                <directory suffix=".php">./routes</directory>
+                <directory suffix="php">./database/factories</directory>
+                <directory suffix="Factory.php">./modules</directory>
+                <directory suffix=".php">./modules/*/Factories</directory>
+                <directory suffix=".php">./modules/*/routes</directory>
+                <directory suffix="blade.php">./modules</directory>
+                <directory suffix="Test.php">./modules</directory>
+                <file>./modules/reports/Goals/routes.php</file>
+                <file>./app/Features/Customer/customerEndpoint.php</file>
+            </exclude>
+        </whitelist>
+    </filter>
+    <php>
+        <ini name="memory_limit" value="1024M" />
+        <env name="APP_ENV" value="test"/>
+        <env name="CACHE_DRIVER" value="array"/>
+        <env name="SESSION_DRIVER" value="array"/>
+        <env name="QUEUE_DRIVER" value="sync"/>
+
+        <env name="DB_CONNECTION" value="sqlite"/>
+        <env name="DB_DATABASE" value="trade-app-one-test"/>
+        <env name="DB_MONGO_DATABASE" value="test"/>
+
+        <env name="DB_OUTSOURCED_CONNECTION" value="sqlite"/>
+        <env name="DB_OUTSOURCED_DATABASE" value=":memory:"/>
+
+        <env name="ACCESS_KEY_RIACHUELO" value="riachuelo"/>
+        <env name="ACCESS_KEY_IPLACE" value="iplace"/>
+
+        <env name="MAIL_DRIVER" value="log"/>
+        <env name="LOG_CHANNEL" value="testing"/>
+    </php>
+</phpunit>

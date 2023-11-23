@@ -1,0 +1,10 @@
+{
+  "message": "Success",
+  "data": {
+    "refund": 213.15,
+    "liquidPremium": 213.15,
+    "elapsedDays": 4,
+    "remainingDays": 362,
+    "message": "Será restituido o valor de R$ 213.15 referente aos 362 dias não utilizados. \nDias utilzados: 4\nValor pago pelo prêmio: R$ 213.15"
+  }
+}

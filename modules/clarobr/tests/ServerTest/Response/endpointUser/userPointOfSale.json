@@ -1,0 +1,20 @@
+{
+  "type": "success",
+  "message": "",
+  "data": [
+    {
+      "id": 2,
+      "rede_id": 491,
+      "ddd": 11,
+      "cidade": "Barueri",
+      "nome": "Santa Maria",
+      "codigo": "XPTO",
+      "nome_fantasia": null,
+      "anti_fraude": 0,
+      "cnpj": "94224991000130",
+      "plano_tipo": null,
+      "latitude": -23.4978692,
+      "longitude": -46.84901890000003
+    }
+  ]
+}

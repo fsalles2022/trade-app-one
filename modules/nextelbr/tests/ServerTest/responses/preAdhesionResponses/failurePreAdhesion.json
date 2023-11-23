@@ -1,0 +1,5 @@
+{
+  "codigo": 1000,
+  "subCodigo": 101,
+  "mensagem": "O protocolo de atendimento já foi utilizado ou é inválido e um novo pedido não será gerado."
+}

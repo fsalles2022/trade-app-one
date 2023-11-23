@@ -1,0 +1,60 @@
+{
+  "info": {
+    "idTradeUp": "202103221945160178-0",
+    "dataVenda": "2021-03-23T19:22:37"
+  },
+  "plano": {
+    "id": 251,
+    "valorTotalFinal": 49.99,
+    "operadora": "CLARO",
+    "operacao": "CONTROLE_BOLETO",
+    "tipoPagamento": "VIA_POSTAL",
+    "diaVenctoBoleto": 21,
+    "tipoFatura": "",
+    "status": "APPROVED",
+    "ddd": 11,
+    "numTelefone": 0,
+    "fidelizado": "S",
+    "valorDescontoFidelizacao": 0
+  },
+  "aparelho": {
+    "descricao": "MOTOROLA DO SHARKINHO",
+    "modelo": "MOTOROLA DO SHARKINHO",
+    "precoComDesconto": 199,
+    "precoSemDesconto": 399,
+    "sku": "525304203773405"
+  },
+  "cliente": {
+    "cpf": "97230531527",
+    "nomeCliente": "Robert Doe",
+    "ddd": "11",
+    "numTelefone": "870979079",
+    "dataNascimento": "2000-05-01",
+    "email": "email@mail.com"
+  },
+  "endereco": {
+    "cep": "79060630",
+    "logradouro": "Rua Lurdes Coelho Costa",
+    "numero": "7647",
+    "bairro": "Vila Santo Eug\u00eanio",
+    "cidade": "Campo Grande",
+    "estado": "MS"
+  },
+  "vendedor": {
+    "codigoFilial": 0,
+    "dddFilial": 35,
+    "estadoFilial": "SP",
+    "cpf": 72728681554
+  },
+  "campanha": {
+    "campanhaTriangulacao": "Shark Summer",
+    "descontoTriangulacao": 200
+  },
+  "dadosBancariosDebitoAutomatico": {
+    "idBanco": 0,
+    "agencia": 0,
+    "digitoAgencia": 0,
+    "conta": 0,
+    "digitoConta": 0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "success",
+  "message": "",
+  "data": {
+    "current_page": 1,
+    "data": [],
+    "from": null,
+    "last_page": 0,
+    "next_page_url": null,
+    "path": "https://api-hml.tradeapp.com.br/plano",
+    "per_page": 20,
+    "prev_page_url": null,
+    "to": null,
+    "total": 0
+  }
+}

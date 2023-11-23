@@ -1,0 +1,226 @@
+{
+    "data": [
+        {
+            "id": 288,
+            "nome": "facil_hd_single",
+            "label": "FÁCIL HD - SINGLE",
+            "codigo_operadora": "0",
+            "plano_tipo_id": 15,
+            "ativo": 1,
+            "descricao": "TV - SINGLE - FÁCIL HD",
+            "created_at": "2020-07-27 21:07:28",
+            "updated_at": "2021-07-30 15:51:35",
+            "pontuacao": 0,
+            "faturas": {
+                "EMAIL": "Email",
+                "VIA_POSTAL": "Via Postal",
+                "DEBITO_AUTOMATICO": "Débito Automático"
+            },
+            "numero_dependentes": null,
+            "is_5mega": null,
+            "gb": 0,
+            "agenda_ativacao": null,
+            "plan_type": {
+                "id": 15,
+                "label": "Televisao NET",
+                "nome": "TELEVISAO_NET",
+                "ativo": 1,
+                "operadora_id": 1,
+                "created_at": "2019-07-17 18:50:39",
+                "updated_at": "2019-07-17 18:50:39"
+            },
+            "residencial_plan_properties": {
+                "id": 1,
+                "plan_id": 288,
+                "enable_approved_viability": 0,
+                "enable_approved_credit_analysis": 0,
+                "is_national": 1,
+                "active": 1,
+                "created_at": "2021-03-26 11:37:49",
+                "updated_at": "2021-03-26 11:37:49",
+                "deleted_at": null,
+                "residencial_city_plan": {
+                    "id": 2757,
+                    "residencial_cities_id": 546,
+                    "residencial_plans_id": 1,
+                    "price": 44.99,
+                    "created_at": "2021-09-06 19:10:04",
+                    "updated_at": "2021-09-06 19:10:04",
+                    "deleted_at": null,
+                    "residencial_cities_plans_promotions": [
+                        {
+                            "id": 26836,
+                            "promotion_id": 301,
+                            "residencial_city_plan_id": 2757,
+                            "created_at": "2021-09-06 19:33:15",
+                            "updated_at": "2021-09-06 19:33:15",
+                            "deleted_at": null,
+                            "promotion": {
+                                "id": 301,
+                                "nome": "NET TELEVISAO SEM PROMOÇÃO",
+                                "codigo_operadora": "1",
+                                "ativo": 1,
+                                "valor": "0.00",
+                                "created_at": "2019-07-17 19:02:14",
+                                "updated_at": "2019-07-17 19:02:14",
+                                "categoria": "ATIVACAO",
+                                "plano_tipo_id": 15,
+                                "requer_aparelho": 0,
+                                "fidelidade": 12,
+                                "multa": "0.00"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 222,
+            "nome": "PONTO_ADICIONAL_HD",
+            "label": "Ponto Adicional HD",
+            "codigo_operadora": "0",
+            "plano_tipo_id": 20,
+            "ativo": 1,
+            "descricao": "Plano HD para ponto adicional de TV",
+            "created_at": "2019-12-26 12:21:53",
+            "updated_at": "2021-07-30 15:51:35",
+            "pontuacao": 0,
+            "faturas": {
+                "EMAIL": "Email",
+                "VIA_POSTAL": "Via Postal",
+                "DEBITO_AUTOMATICO": "Débito Automático"
+            },
+            "numero_dependentes": null,
+            "is_5mega": null,
+            "gb": 0,
+            "agenda_ativacao": null,
+            "plan_type": {
+                "id": 20,
+                "label": "Ponto Adicional",
+                "nome": "PONTO_ADICIONAL",
+                "ativo": 1,
+                "operadora_id": 1,
+                "created_at": "2020-02-04 13:46:54",
+                "updated_at": "2020-02-04 13:46:54"
+            },
+            "residencial_plan_properties": {
+                "id": 6,
+                "plan_id": 222,
+                "enable_approved_viability": 0,
+                "enable_approved_credit_analysis": 0,
+                "is_national": 0,
+                "active": 1,
+                "created_at": "2021-03-26 16:38:10",
+                "updated_at": "2021-03-26 16:38:10",
+                "deleted_at": null,
+                "residencial_city_plan": {
+                    "id": 2758,
+                    "residencial_cities_id": 546,
+                    "residencial_plans_id": 6,
+                    "price": 23.99,
+                    "created_at": "2021-09-06 19:10:04",
+                    "updated_at": "2021-09-06 19:10:04",
+                    "deleted_at": null,
+                    "residencial_cities_plans_promotions": [
+                        {
+                            "id": 16944,
+                            "promotion_id": 440,
+                            "residencial_city_plan_id": 2758,
+                            "created_at": "2021-09-06 19:33:15",
+                            "updated_at": "2021-09-06 19:33:15",
+                            "deleted_at": null,
+                            "promotion": {
+                                "id": 440,
+                                "nome": "SEM PROMOÇÃO - PONTO ADICIONAL",
+                                "codigo_operadora": "1",
+                                "ativo": 1,
+                                "valor": "0.00",
+                                "created_at": "2020-02-04 13:53:37",
+                                "updated_at": "2020-02-04 13:53:37",
+                                "categoria": "ATIVACAO",
+                                "plano_tipo_id": 20,
+                                "requer_aparelho": 0,
+                                "fidelidade": 0,
+                                "multa": "0.00"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 331,
+            "nome": "brasil_total_combo_multi",
+            "label": "BRASIL TOTAL - COMBO MULTI",
+            "codigo_operadora": "0",
+            "plano_tipo_id": 13,
+            "ativo": 1,
+            "descricao": "FONE - COMBO MULTI - BRASIL TOTAL",
+            "created_at": "2020-07-27 22:57:03",
+            "updated_at": "2021-07-30 15:51:35",
+            "pontuacao": 0,
+            "faturas": {
+                "EMAIL": "Email",
+                "VIA_POSTAL": "Via Postal",
+                "DEBITO_AUTOMATICO": "Débito Automático"
+            },
+            "numero_dependentes": null,
+            "is_5mega": null,
+            "gb": 0,
+            "agenda_ativacao": null,
+            "plan_type": {
+                "id": 13,
+                "label": "Fixo NET",
+                "nome": "FIXO_NET",
+                "ativo": 1,
+                "operadora_id": 1,
+                "created_at": "2019-07-17 18:50:39",
+                "updated_at": "2019-07-17 18:50:39"
+            },
+            "residencial_plan_properties": {
+                "id": 39,
+                "plan_id": 331,
+                "enable_approved_viability": 0,
+                "enable_approved_credit_analysis": 0,
+                "is_national": 0,
+                "active": 1,
+                "created_at": "2021-03-26 16:38:10",
+                "updated_at": "2021-03-26 16:38:10",
+                "deleted_at": null,
+                "residencial_city_plan": {
+                    "id": 2755,
+                    "residencial_cities_id": 546,
+                    "residencial_plans_id": 39,
+                    "price": 52.99,
+                    "created_at": "2021-09-06 19:10:04",
+                    "updated_at": "2021-09-06 19:10:04",
+                    "deleted_at": null,
+                    "residencial_cities_plans_promotions": [
+                        {
+                            "id": 46621,
+                            "promotion_id": 302,
+                            "residencial_city_plan_id": 2755,
+                            "created_at": "2021-09-06 19:33:15",
+                            "updated_at": "2021-09-06 19:33:15",
+                            "deleted_at": null,
+                            "promotion": {
+                                "id": 302,
+                                "nome": "NET FIXO SEM PROMOÇÃO",
+                                "codigo_operadora": "2",
+                                "ativo": 1,
+                                "valor": "0.00",
+                                "created_at": "2019-07-17 19:02:14",
+                                "updated_at": "2019-07-17 19:02:14",
+                                "categoria": "ATIVACAO",
+                                "plano_tipo_id": 13,
+                                "requer_aparelho": 0,
+                                "fidelidade": 12,
+                                "multa": "0.00"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

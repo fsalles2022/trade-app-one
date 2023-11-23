@@ -1,0 +1,63 @@
+<?php
+
+namespace TradeAppOne\Domain\Models\Tables;
+
+class ImportSale extends BaseModel
+{
+    protected $table = 'importSales';
+
+    protected $fillable = [
+        'source',
+        'saletransaction',
+        'pointofsale_id',
+        'pointofsale_slug',
+        'pointofsale_label',
+        'pointofsale_cnpj',
+        'pointofsale_network_slug',
+        'pointofsale_network_label',
+        'pointofsale_hierarchy',
+        'pointofsale_hierarchy_label',
+        'pointofsale_state',
+        'pointofsale_areaCode',
+        'user_id',
+        'user_cpf',
+        'user_role',
+        'user_firstname',
+        'service_servicetransaction',
+        'service_sector',
+        'service_operator',
+        'service_operation',
+        'service_mode',
+        'service_product',
+        'service_label',
+        'service_iccid',
+        'service_msisdn',
+        'service_portednumber',
+        'service_dueDate',
+        'service_statusthirdparty',
+        'service_status',
+        'service_invoiceType',
+        'service_operator_pid',
+        'service_operator_sid',
+        'service_customer_cpf',
+        'service_customer_firstname',
+        'service_customer_lastname',
+        'service_customer_birthday',
+        'service_customer_gender',
+        'service_customer_filiation',
+        'service_customer_email',
+        'service_customer_mainphone',
+        'service_customer_secondaryphone',
+        'service_customer_zipCode',
+        'service_customer_local',
+        'service_customer_number',
+        'service_customer_neighborhood',
+        'service_customer_state',
+        'service_customer_city',
+        'service_price',
+        'service_operatoridentifiers_acceptance',
+        'customertype',
+        'createdAt',
+        'updatedAt',
+    ];
+}

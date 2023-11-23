@@ -1,0 +1,7 @@
+{
+  "codigo": 30000,
+  "mensagem": "Falha ao editar usuário",
+  "detalhes": [
+    "Loja (pdv) não cadastrada no sistema SUN."
+  ]
+}

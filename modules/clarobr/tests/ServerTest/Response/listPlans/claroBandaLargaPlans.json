@@ -1,0 +1,5933 @@
+{
+  "type": "success",
+  "message": "",
+  "data": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 75,
+        "nome": "CLARO_INTERNET_MAIS_40GB_+_NOITES_EM_CLARO",
+        "label": "Claro Internet Mais 40GB + Noites em Claro",
+        "codigo_operadora": "19345",
+        "plano_tipo_id": 9,
+        "ativo": 1,
+        "descricao": "Claro Internet Mais 40GB + Noites em Claro - 19345",
+        "created_at": "2018-11-30 15:33:50",
+        "updated_at": "2018-12-06 10:51:23",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "Débito Automático"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 9,
+          "label": "Banda Larga",
+          "nome": "BANDA_LARGA",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2018-11-27 12:00:00",
+          "updated_at": "2018-11-27 12:00:00"
+        },
+        "plans_area_code": [
+          {
+            "id": 17384,
+            "ddd": 11,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17384,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17385,
+            "ddd": 12,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17385,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17386,
+            "ddd": 13,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17386,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17387,
+            "ddd": 14,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17387,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17388,
+            "ddd": 15,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17388,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17389,
+            "ddd": 16,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17389,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17390,
+            "ddd": 17,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17390,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17391,
+            "ddd": 18,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17391,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17392,
+            "ddd": 19,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17392,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17393,
+            "ddd": 21,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17393,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17394,
+            "ddd": 22,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17394,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17395,
+            "ddd": 24,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17395,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17396,
+            "ddd": 27,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17396,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17397,
+            "ddd": 28,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17397,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17398,
+            "ddd": 31,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17398,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17399,
+            "ddd": 32,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17399,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17400,
+            "ddd": 33,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17400,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17401,
+            "ddd": 34,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17401,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17402,
+            "ddd": 35,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17402,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17403,
+            "ddd": 37,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17403,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17404,
+            "ddd": 38,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17404,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17405,
+            "ddd": 41,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17405,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17406,
+            "ddd": 42,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17406,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17407,
+            "ddd": 43,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17407,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17408,
+            "ddd": 44,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17408,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17409,
+            "ddd": 45,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17409,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17410,
+            "ddd": 46,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17410,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17411,
+            "ddd": 47,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17411,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17412,
+            "ddd": 48,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17412,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17413,
+            "ddd": 49,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17413,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17414,
+            "ddd": 51,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17414,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17415,
+            "ddd": 53,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17415,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17416,
+            "ddd": 54,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17416,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17417,
+            "ddd": 55,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17417,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17418,
+            "ddd": 61,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17418,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17419,
+            "ddd": 62,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17419,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17420,
+            "ddd": 63,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17420,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17421,
+            "ddd": 64,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17421,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17422,
+            "ddd": 65,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17422,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17423,
+            "ddd": 66,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17423,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17424,
+            "ddd": 67,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17424,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17425,
+            "ddd": 68,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17425,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17426,
+            "ddd": 69,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17426,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17427,
+            "ddd": 71,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17427,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17428,
+            "ddd": 73,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17428,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17429,
+            "ddd": 74,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17429,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17430,
+            "ddd": 75,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17430,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17431,
+            "ddd": 77,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17431,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17432,
+            "ddd": 79,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17432,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17433,
+            "ddd": 81,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17433,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17434,
+            "ddd": 82,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17434,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17435,
+            "ddd": 83,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17435,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17436,
+            "ddd": 84,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17436,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17437,
+            "ddd": 85,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17437,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17438,
+            "ddd": 86,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17438,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17439,
+            "ddd": 87,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17439,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17440,
+            "ddd": 88,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17440,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17441,
+            "ddd": 89,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17441,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17442,
+            "ddd": 91,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:24",
+            "updated_at": "2018-12-06 10:51:24",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17442,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17443,
+            "ddd": 92,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:25",
+            "updated_at": "2018-12-06 10:51:25",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17443,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17444,
+            "ddd": 93,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:25",
+            "updated_at": "2018-12-06 10:51:25",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17444,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17445,
+            "ddd": 94,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:25",
+            "updated_at": "2018-12-06 10:51:25",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17445,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17446,
+            "ddd": 95,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:25",
+            "updated_at": "2018-12-06 10:51:25",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17446,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17447,
+            "ddd": 96,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:25",
+            "updated_at": "2018-12-06 10:51:25",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17447,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17448,
+            "ddd": 97,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:25",
+            "updated_at": "2018-12-06 10:51:25",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17448,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17449,
+            "ddd": 98,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:25",
+            "updated_at": "2018-12-06 10:51:25",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17449,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17450,
+            "ddd": 99,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:25",
+            "updated_at": "2018-12-06 10:51:25",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17450,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "nome": "CLARO_INTERNET_MAIS_20GB_+_NOITES_EM_CLARO",
+        "label": "Claro Internet Mais 20GB + Noites em Claro",
+        "codigo_operadora": "19344",
+        "plano_tipo_id": 9,
+        "ativo": 1,
+        "descricao": "Claro Internet Mais 20GB + Noites em Claro - 19344",
+        "created_at": "2018-11-30 15:40:44",
+        "updated_at": "2018-12-06 10:29:51",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "Débito Automático"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 9,
+          "label": "Banda Larga",
+          "nome": "BANDA_LARGA",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2018-11-27 12:00:00",
+          "updated_at": "2018-11-27 12:00:00"
+        },
+        "plans_area_code": [
+          {
+            "id": 17250,
+            "ddd": 11,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:51",
+            "updated_at": "2018-12-06 10:29:51",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17250,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17251,
+            "ddd": 12,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:51",
+            "updated_at": "2018-12-06 10:29:51",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17251,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17252,
+            "ddd": 13,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:51",
+            "updated_at": "2018-12-06 10:29:51",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17252,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17253,
+            "ddd": 14,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:51",
+            "updated_at": "2018-12-06 10:29:51",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17253,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17254,
+            "ddd": 15,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:51",
+            "updated_at": "2018-12-06 10:29:51",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17254,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17255,
+            "ddd": 16,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:51",
+            "updated_at": "2018-12-06 10:29:51",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17255,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17256,
+            "ddd": 17,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:51",
+            "updated_at": "2018-12-06 10:29:51",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17256,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17257,
+            "ddd": 18,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:51",
+            "updated_at": "2018-12-06 10:29:51",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17257,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17258,
+            "ddd": 19,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:51",
+            "updated_at": "2018-12-06 10:29:51",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17258,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17259,
+            "ddd": 21,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:51",
+            "updated_at": "2018-12-06 10:29:51",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17259,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17260,
+            "ddd": 22,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:51",
+            "updated_at": "2018-12-06 10:29:51",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17260,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17261,
+            "ddd": 24,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17261,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17262,
+            "ddd": 27,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17262,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17263,
+            "ddd": 28,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17263,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17264,
+            "ddd": 31,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17264,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17265,
+            "ddd": 32,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17265,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17266,
+            "ddd": 33,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17266,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17267,
+            "ddd": 34,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17267,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17268,
+            "ddd": 35,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17268,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17269,
+            "ddd": 37,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17269,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17270,
+            "ddd": 38,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17270,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17271,
+            "ddd": 41,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17271,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17272,
+            "ddd": 42,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17272,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17273,
+            "ddd": 43,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17273,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17274,
+            "ddd": 44,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17274,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17275,
+            "ddd": 45,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17275,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17276,
+            "ddd": 46,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17276,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17277,
+            "ddd": 47,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17277,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17278,
+            "ddd": 48,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17278,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17279,
+            "ddd": 49,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17279,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17280,
+            "ddd": 51,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17280,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17281,
+            "ddd": 53,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17281,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17282,
+            "ddd": 54,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17282,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17283,
+            "ddd": 55,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17283,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17284,
+            "ddd": 61,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17284,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17285,
+            "ddd": 62,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17285,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17286,
+            "ddd": 63,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17286,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17287,
+            "ddd": 64,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17287,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17288,
+            "ddd": 65,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17288,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17289,
+            "ddd": 66,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17289,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17290,
+            "ddd": 67,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17290,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17291,
+            "ddd": 68,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17291,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17292,
+            "ddd": 69,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17292,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17293,
+            "ddd": 71,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:52",
+            "updated_at": "2018-12-06 10:29:52",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17293,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17294,
+            "ddd": 73,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17294,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17295,
+            "ddd": 74,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17295,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17296,
+            "ddd": 75,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17296,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17297,
+            "ddd": 77,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17297,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17298,
+            "ddd": 79,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17298,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17299,
+            "ddd": 81,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17299,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17300,
+            "ddd": 82,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17300,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17301,
+            "ddd": 83,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17301,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17302,
+            "ddd": 84,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17302,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17303,
+            "ddd": 85,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17303,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17304,
+            "ddd": 86,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17304,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17305,
+            "ddd": 87,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17305,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17306,
+            "ddd": 88,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17306,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17307,
+            "ddd": 89,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17307,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17308,
+            "ddd": 91,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17308,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17309,
+            "ddd": 92,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17309,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17310,
+            "ddd": 93,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17310,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17311,
+            "ddd": 94,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17311,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17312,
+            "ddd": 95,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17312,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17313,
+            "ddd": 96,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17313,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17314,
+            "ddd": 97,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17314,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17315,
+            "ddd": 98,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17315,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17316,
+            "ddd": 99,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:53",
+            "updated_at": "2018-12-06 10:29:53",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17316,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "nome": "CLARO_INTERNET_MAIS_120GB_+_NOITES_EM_CLARO",
+        "label": "Claro Internet Mais 120GB + Noites em Claro",
+        "codigo_operadora": "19346",
+        "plano_tipo_id": 9,
+        "ativo": 1,
+        "descricao": "Claro Internet Mais 120GB + Noites em Claro - 19346",
+        "created_at": "2018-11-30 15:43:19",
+        "updated_at": "2018-12-06 10:28:59",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "Débito Automático"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 9,
+          "label": "Banda Larga",
+          "nome": "BANDA_LARGA",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2018-11-27 12:00:00",
+          "updated_at": "2018-11-27 12:00:00"
+        },
+        "plans_area_code": [
+          {
+            "id": 17183,
+            "ddd": 11,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:28:59",
+            "updated_at": "2018-12-06 10:28:59",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17183,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17184,
+            "ddd": 12,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:28:59",
+            "updated_at": "2018-12-06 10:28:59",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17184,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17185,
+            "ddd": 13,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:28:59",
+            "updated_at": "2018-12-06 10:28:59",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17185,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17186,
+            "ddd": 14,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:28:59",
+            "updated_at": "2018-12-06 10:28:59",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17186,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17187,
+            "ddd": 15,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:28:59",
+            "updated_at": "2018-12-06 10:28:59",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17187,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17188,
+            "ddd": 16,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:28:59",
+            "updated_at": "2018-12-06 10:28:59",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17188,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17189,
+            "ddd": 17,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:28:59",
+            "updated_at": "2018-12-06 10:28:59",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17189,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17190,
+            "ddd": 18,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:28:59",
+            "updated_at": "2018-12-06 10:28:59",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17190,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17191,
+            "ddd": 19,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17191,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17192,
+            "ddd": 21,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17192,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17193,
+            "ddd": 22,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17193,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17194,
+            "ddd": 24,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17194,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17195,
+            "ddd": 27,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17195,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17196,
+            "ddd": 28,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17196,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17197,
+            "ddd": 31,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17197,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17198,
+            "ddd": 32,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17198,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17199,
+            "ddd": 33,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17199,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17200,
+            "ddd": 34,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17200,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17201,
+            "ddd": 35,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17201,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17202,
+            "ddd": 37,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17202,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17203,
+            "ddd": 38,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17203,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17204,
+            "ddd": 41,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17204,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17205,
+            "ddd": 42,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17205,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17206,
+            "ddd": 43,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17206,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17207,
+            "ddd": 44,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17207,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17208,
+            "ddd": 45,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17208,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17209,
+            "ddd": 46,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17209,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17210,
+            "ddd": 47,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17210,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17211,
+            "ddd": 48,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17211,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17212,
+            "ddd": 49,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17212,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17213,
+            "ddd": 51,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:00",
+            "updated_at": "2018-12-06 10:29:00",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17213,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17214,
+            "ddd": 53,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17214,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17215,
+            "ddd": 54,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17215,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17216,
+            "ddd": 55,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17216,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17217,
+            "ddd": 61,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17217,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17218,
+            "ddd": 62,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17218,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17219,
+            "ddd": 63,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17219,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17220,
+            "ddd": 64,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17220,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17221,
+            "ddd": 65,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17221,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17222,
+            "ddd": 66,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17222,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17223,
+            "ddd": 67,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17223,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17224,
+            "ddd": 68,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17224,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17225,
+            "ddd": 69,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17225,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17226,
+            "ddd": 71,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17226,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17227,
+            "ddd": 73,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17227,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17228,
+            "ddd": 74,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17228,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17229,
+            "ddd": 75,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17229,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17230,
+            "ddd": 77,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17230,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17231,
+            "ddd": 79,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17231,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17232,
+            "ddd": 81,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17232,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17233,
+            "ddd": 82,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17233,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17234,
+            "ddd": 83,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17234,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17235,
+            "ddd": 84,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17235,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17236,
+            "ddd": 85,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17236,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17237,
+            "ddd": 86,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17237,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17238,
+            "ddd": 87,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17238,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17239,
+            "ddd": 88,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17239,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17240,
+            "ddd": 89,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17240,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17241,
+            "ddd": 91,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17241,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17242,
+            "ddd": 92,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17242,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17243,
+            "ddd": 93,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:01",
+            "updated_at": "2018-12-06 10:29:01",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17243,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17244,
+            "ddd": 94,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:02",
+            "updated_at": "2018-12-06 10:29:02",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17244,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17245,
+            "ddd": 95,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:02",
+            "updated_at": "2018-12-06 10:29:02",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17245,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17246,
+            "ddd": 96,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:02",
+            "updated_at": "2018-12-06 10:29:02",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17246,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17247,
+            "ddd": 97,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:02",
+            "updated_at": "2018-12-06 10:29:02",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17247,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17248,
+            "ddd": 98,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:02",
+            "updated_at": "2018-12-06 10:29:02",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17248,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          },
+          {
+            "id": 17249,
+            "ddd": 99,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:02",
+            "updated_at": "2018-12-06 10:29:02",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17249,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "from": 1,
+    "last_page": 1,
+    "next_page_url": null,
+    "path": "https://api-hml.tradeapp.com.br/plano",
+    "per_page": 20,
+    "prev_page_url": null,
+    "to": 3,
+    "total": 3
+  }
+}

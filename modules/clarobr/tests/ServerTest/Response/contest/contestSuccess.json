@@ -1,0 +1,7 @@
+{
+  "type": "success",
+  "message": "Contestação realizada com sucesso, o status foi atualizado.",
+  "data": [],
+  "plan_type": "CONTROLE_BOLETO",
+  "status": "APROVADO"
+}

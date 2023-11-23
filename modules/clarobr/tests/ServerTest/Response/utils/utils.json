@@ -1,0 +1,1849 @@
+{
+  "bancos": [
+    {
+      "id": 1,
+      "nome": "422 - BANCO SAFRA",
+      "numero": "422",
+      "created_at": "2017-04-20 20:39:03",
+      "updated_at": "2017-04-20 20:39:03",
+      "ativo": 1
+    },
+    {
+      "id": 4,
+      "nome": "237 - BRADESCO",
+      "numero": "237",
+      "created_at": "2017-04-20 20:39:03",
+      "updated_at": "2017-04-20 20:39:03",
+      "ativo": 1
+    },
+    {
+      "id": 5,
+      "nome": "341 - ITAU",
+      "numero": "341",
+      "created_at": "2017-04-20 20:39:03",
+      "updated_at": "2017-04-20 20:39:03",
+      "ativo": 1
+    },
+    {
+      "id": 6,
+      "nome": "033 - SANTANDER",
+      "numero": "033",
+      "created_at": "2017-04-20 20:39:03",
+      "updated_at": "2017-04-20 20:39:03",
+      "ativo": 1
+    },
+    {
+      "id": 7,
+      "nome": "389 - MERCANTIL DO BRASIL",
+      "numero": "389",
+      "created_at": "2017-04-20 20:39:03",
+      "updated_at": "2017-04-20 20:39:03",
+      "ativo": 1
+    },
+    {
+      "id": 8,
+      "nome": "104 - CAIXA ECONOMICA FEDERAL",
+      "numero": "104",
+      "created_at": "2017-04-20 20:39:03",
+      "updated_at": "2017-04-20 20:39:03",
+      "ativo": 1
+    }
+  ],
+  "tipo_faturas": {
+    "CARTAO_CREDITO": "Cartão de Crédito",
+    "VIA_POSTAL": "Via Postal",
+    "EMAIL": "Email",
+    "DEBITO_AUTOMATICO": "Débito Automático"
+  },
+  "profissoes": [
+    {
+      "id": 1,
+      "nome": "Empresário",
+      "codigo_operadora": "1",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    },
+    {
+      "id": 2,
+      "nome": "Assalariado",
+      "codigo_operadora": "2",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    },
+    {
+      "id": 3,
+      "nome": "Comerciante",
+      "codigo_operadora": "3",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    },
+    {
+      "id": 4,
+      "nome": "Aposentado",
+      "codigo_operadora": "4",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    },
+    {
+      "id": 5,
+      "nome": "Profissional Liberar",
+      "codigo_operadora": "5",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    },
+    {
+      "id": 6,
+      "nome": "Estudante",
+      "codigo_operadora": "6",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    },
+    {
+      "id": 7,
+      "nome": "Dona de Casa",
+      "codigo_operadora": "7",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    },
+    {
+      "id": 8,
+      "nome": "Funcionário Público",
+      "codigo_operadora": "8",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    },
+    {
+      "id": 9,
+      "nome": "Autônomo",
+      "codigo_operadora": "9",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    },
+    {
+      "id": 10,
+      "nome": "Militar",
+      "codigo_operadora": "10",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    },
+    {
+      "id": 11,
+      "nome": "Não Informado",
+      "codigo_operadora": "11",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    }
+  ],
+  "vencimentos": [
+    {
+      "id": 1,
+      "codigo_operadora": "4",
+      "vencimento": 1,
+      "fechamento": 15,
+      "created_at": "2017-04-20 20:39:01",
+      "updated_at": "2017-04-20 20:39:01",
+      "ativo": 1
+    },
+    {
+      "id": 13,
+      "codigo_operadora": "14",
+      "vencimento": 2,
+      "fechamento": 11,
+      "created_at": "2017-04-20 20:39:02",
+      "updated_at": "2017-04-20 20:39:02",
+      "ativo": 1
+    },
+    {
+      "id": 2,
+      "codigo_operadora": "15",
+      "vencimento": 3,
+      "fechamento": 13,
+      "created_at": "2017-04-20 20:39:01",
+      "updated_at": "2017-04-20 20:39:01",
+      "ativo": 1
+    },
+    {
+      "id": 17,
+      "codigo_operadora": "6",
+      "vencimento": 10,
+      "fechamento": 20,
+      "created_at": "2017-04-20 20:39:01",
+      "updated_at": null,
+      "ativo": 1
+    },
+    {
+      "id": 22,
+      "codigo_operadora": "72",
+      "vencimento": 12,
+      "fechamento": 19,
+      "created_at": "2017-04-20 20:39:01",
+      "updated_at": null,
+      "ativo": 1
+    },
+    {
+      "id": 21,
+      "codigo_operadora": "53",
+      "vencimento": 25,
+      "fechamento": 8,
+      "created_at": "2017-04-20 20:39:01",
+      "updated_at": null,
+      "ativo": 1
+    }
+  ],
+  "estados_civis": [
+    {
+      "id": 1,
+      "nome": "Casada(o)",
+      "codigo_operadora": "1",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38",
+      "ativo": 1
+    },
+    {
+      "id": 2,
+      "nome": "Divorciada(o)",
+      "codigo_operadora": "2",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38",
+      "ativo": 1
+    },
+    {
+      "id": 3,
+      "nome": "Solteira(o)",
+      "codigo_operadora": "3",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38",
+      "ativo": 1
+    },
+    {
+      "id": 4,
+      "nome": "Viuva(o)",
+      "codigo_operadora": "4",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38",
+      "ativo": 1
+    },
+    {
+      "id": 5,
+      "nome": "Outro",
+      "codigo_operadora": "5",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38",
+      "ativo": 1
+    }
+  ],
+  "logradouros": [
+    {
+      "id": 1,
+      "nome": "ACAMPAMENTO",
+      "codigo_operadora": "2311",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    },
+    {
+      "id": 2,
+      "nome": "ACESSO",
+      "codigo_operadora": "1",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    },
+    {
+      "id": 3,
+      "nome": "ADRO",
+      "codigo_operadora": "4031",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    },
+    {
+      "id": 4,
+      "nome": "AEROPORTO",
+      "codigo_operadora": "1105",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38"
+    },
+    {
+      "id": 5,
+      "nome": "ALAMEDA",
+      "codigo_operadora": "2",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 6,
+      "nome": "ALTO",
+      "codigo_operadora": "2253",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 7,
+      "nome": "ANTIGA ESTRADA",
+      "codigo_operadora": "3931",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 8,
+      "nome": "AREA",
+      "codigo_operadora": "100",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 9,
+      "nome": "AREA ESPECIAL",
+      "codigo_operadora": "2611",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 10,
+      "nome": "ARTERIA",
+      "codigo_operadora": "2651",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 11,
+      "nome": "ATALHO",
+      "codigo_operadora": "4731",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 12,
+      "nome": "AVENIDA",
+      "codigo_operadora": "3",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 13,
+      "nome": "AVENIDA CONTORNO",
+      "codigo_operadora": "3731",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 14,
+      "nome": "AVENIDA MARGINAL",
+      "codigo_operadora": "2131",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 15,
+      "nome": "AVENIDA MARGINAL DIREITA",
+      "codigo_operadora": "3891",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 16,
+      "nome": "AVENIDA MARGINAL ESQUERDA",
+      "codigo_operadora": "3771",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 17,
+      "nome": "BAIXA",
+      "codigo_operadora": "2591",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 18,
+      "nome": "BECO",
+      "codigo_operadora": "4",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 19,
+      "nome": "BELVEDERE",
+      "codigo_operadora": "2411",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 20,
+      "nome": "BLOCO",
+      "codigo_operadora": "2871",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 21,
+      "nome": "BOSQUE",
+      "codigo_operadora": "14121",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 22,
+      "nome": "BOULEVARD",
+      "codigo_operadora": "2050",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 23,
+      "nome": "BULEVAR",
+      "codigo_operadora": "14123",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 24,
+      "nome": "BURACO",
+      "codigo_operadora": "3831",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 25,
+      "nome": "CAIS",
+      "codigo_operadora": "3171",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 26,
+      "nome": "CAIXA POSTAL",
+      "codigo_operadora": "14141",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 27,
+      "nome": "CAIXA POSTAL",
+      "codigo_operadora": "14154",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 28,
+      "nome": "CAIXA POSTAL",
+      "codigo_operadora": "14137",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 29,
+      "nome": "CAIXA POSTAL",
+      "codigo_operadora": "14118",
+      "created_at": "2017-04-20 20:38:39",
+      "updated_at": "2017-04-20 20:38:39"
+    },
+    {
+      "id": 30,
+      "nome": "CALCADA",
+      "codigo_operadora": "2291",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 31,
+      "nome": "CAMINHO",
+      "codigo_operadora": "5",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 32,
+      "nome": "CAMPO",
+      "codigo_operadora": "3531",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 33,
+      "nome": "CANAL",
+      "codigo_operadora": "3271",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 34,
+      "nome": "CHACARA",
+      "codigo_operadora": "2911",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 35,
+      "nome": "CICLOVIA",
+      "codigo_operadora": "3711",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 36,
+      "nome": "CIRCULAR",
+      "codigo_operadora": "2791",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 37,
+      "nome": "COLONIA",
+      "codigo_operadora": "2272",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 38,
+      "nome": "COMPLEXO VIARIO",
+      "codigo_operadora": "3851",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 39,
+      "nome": "CONDOMINIO",
+      "codigo_operadora": "5126",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 40,
+      "nome": "CONJUNTO",
+      "codigo_operadora": "4600",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 41,
+      "nome": "CONTORNO",
+      "codigo_operadora": "3251",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 42,
+      "nome": "CORREDOR",
+      "codigo_operadora": "2172",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 43,
+      "nome": "CORREGO",
+      "codigo_operadora": "2891",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 44,
+      "nome": "DESCIDA",
+      "codigo_operadora": "3391",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 45,
+      "nome": "DESVIO",
+      "codigo_operadora": "2851",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 46,
+      "nome": "DISTRITO",
+      "codigo_operadora": "2471",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 47,
+      "nome": "EDIFICIO",
+      "codigo_operadora": "7",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 48,
+      "nome": "ELEVADA",
+      "codigo_operadora": "14132",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 49,
+      "nome": "ESCADA",
+      "codigo_operadora": "8",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 50,
+      "nome": "ESCADARIA",
+      "codigo_operadora": "2191",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 51,
+      "nome": "ESPLANADA",
+      "codigo_operadora": "2071",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 52,
+      "nome": "ESTACAO",
+      "codigo_operadora": "3351",
+      "created_at": "2017-04-20 20:38:40",
+      "updated_at": "2017-04-20 20:38:40"
+    },
+    {
+      "id": 53,
+      "nome": "ESTACIONAMENTO",
+      "codigo_operadora": "3591",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 54,
+      "nome": "ESTADIO",
+      "codigo_operadora": "3991",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 55,
+      "nome": "ESTRADA",
+      "codigo_operadora": "4106",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 56,
+      "nome": "ESTRADA",
+      "codigo_operadora": "9",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 57,
+      "nome": "ESTRADA DE LIGACAO",
+      "codigo_operadora": "3611",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 58,
+      "nome": "ESTRADA ESTADUAL",
+      "codigo_operadora": "3911",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 59,
+      "nome": "ESTRADA MUNICIPAL",
+      "codigo_operadora": "4410",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 60,
+      "nome": "ESTRADA PARTICULAR",
+      "codigo_operadora": "3231",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 61,
+      "nome": "ESTRADA VELHA",
+      "codigo_operadora": "2111",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 62,
+      "nome": "ESTRADA VICINAL",
+      "codigo_operadora": "2431",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 63,
+      "nome": "FAVELA",
+      "codigo_operadora": "2451",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 64,
+      "nome": "FAZENDA",
+      "codigo_operadora": "2372",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 65,
+      "nome": "FEIRA",
+      "codigo_operadora": "3371",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 66,
+      "nome": "FERROVIA",
+      "codigo_operadora": "3871",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 67,
+      "nome": "FONTE",
+      "codigo_operadora": "3671",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 68,
+      "nome": "GALERIA",
+      "codigo_operadora": "10",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 69,
+      "nome": "GRANDE USUARIO",
+      "codigo_operadora": "14157",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 70,
+      "nome": "GRANDE_USUARIO",
+      "codigo_operadora": "14138",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 71,
+      "nome": "GRANJA",
+      "codigo_operadora": "3151",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 72,
+      "nome": "ILHA",
+      "codigo_operadora": "2571",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 73,
+      "nome": "JARDIM",
+      "codigo_operadora": "11",
+      "created_at": "2017-04-20 20:38:41",
+      "updated_at": "2017-04-20 20:38:41"
+    },
+    {
+      "id": 74,
+      "nome": "JARDINETE",
+      "codigo_operadora": "3491",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 75,
+      "nome": "LADEIRA",
+      "codigo_operadora": "12",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 76,
+      "nome": "LAGOA",
+      "codigo_operadora": "3651",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 77,
+      "nome": "LARGO",
+      "codigo_operadora": "13",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 78,
+      "nome": "LOTE",
+      "codigo_operadora": "14",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 79,
+      "nome": "LOTEAMENTO",
+      "codigo_operadora": "15",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 80,
+      "nome": "MARINA",
+      "codigo_operadora": "3751",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 81,
+      "nome": "MODULO",
+      "codigo_operadora": "3011",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 82,
+      "nome": "MONTE",
+      "codigo_operadora": "3331",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 83,
+      "nome": "MORRO",
+      "codigo_operadora": "521",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 84,
+      "nome": "NUCLEO",
+      "codigo_operadora": "2251",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 85,
+      "nome": "PARADA",
+      "codigo_operadora": "14148",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 86,
+      "nome": "PARALELA",
+      "codigo_operadora": "2271",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 87,
+      "nome": "PARQUE",
+      "codigo_operadora": "18",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 88,
+      "nome": "PASSAGEM",
+      "codigo_operadora": "16",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 89,
+      "nome": "PASSARELA",
+      "codigo_operadora": "2631",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 90,
+      "nome": "PASSEIO",
+      "codigo_operadora": "2551",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 91,
+      "nome": "PATIO",
+      "codigo_operadora": "3411",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 92,
+      "nome": "PONTA",
+      "codigo_operadora": "2691",
+      "created_at": "2017-04-20 20:38:42",
+      "updated_at": "2017-04-20 20:38:42"
+    },
+    {
+      "id": 93,
+      "nome": "PONTE",
+      "codigo_operadora": "20",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 94,
+      "nome": "PORTO",
+      "codigo_operadora": "3311",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 95,
+      "nome": "PRACA",
+      "codigo_operadora": "4533",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 96,
+      "nome": "PRAIA",
+      "codigo_operadora": "19",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 97,
+      "nome": "PROLONGAMENTO",
+      "codigo_operadora": "2931",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 98,
+      "nome": "QUADRA",
+      "codigo_operadora": "30",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 99,
+      "nome": "QUINTA",
+      "codigo_operadora": "3811",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 100,
+      "nome": "RAMAL",
+      "codigo_operadora": "3291",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 101,
+      "nome": "RAMPA",
+      "codigo_operadora": "3031",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 102,
+      "nome": "RECANTO",
+      "codigo_operadora": "2331",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 103,
+      "nome": "RESIDENCIAL",
+      "codigo_operadora": "2091",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 104,
+      "nome": "RETA",
+      "codigo_operadora": "1681",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 105,
+      "nome": "RETIRO",
+      "codigo_operadora": "2711",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 106,
+      "nome": "RETORNO",
+      "codigo_operadora": "3451",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 107,
+      "nome": "RODOVIA",
+      "codigo_operadora": "22",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 108,
+      "nome": "ROTATORIA",
+      "codigo_operadora": "4011",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 109,
+      "nome": "ROTULA",
+      "codigo_operadora": "3791",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 110,
+      "nome": "RUA",
+      "codigo_operadora": "21",
+      "created_at": "2017-04-20 20:38:43",
+      "updated_at": "2017-04-20 20:38:43"
+    },
+    {
+      "id": 111,
+      "nome": "RUA PRINCIPAL",
+      "codigo_operadora": "3951",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 112,
+      "nome": "SERVIDAO",
+      "codigo_operadora": "23",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 113,
+      "nome": "SETOR",
+      "codigo_operadora": "157",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 114,
+      "nome": "SITIO",
+      "codigo_operadora": "1623",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 115,
+      "nome": "SUBIDA",
+      "codigo_operadora": "2671",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 116,
+      "nome": "TERMINAL",
+      "codigo_operadora": "3131",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 117,
+      "nome": "TRAVESSA",
+      "codigo_operadora": "24",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 118,
+      "nome": "TRECHO",
+      "codigo_operadora": "2171",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 119,
+      "nome": "TREVO",
+      "codigo_operadora": "25",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 120,
+      "nome": "UNIDADE",
+      "codigo_operadora": "2072",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 121,
+      "nome": "UNIDADE OPERACIONAL",
+      "codigo_operadora": "14143",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 122,
+      "nome": "UNIDADE_OPERACIONAL",
+      "codigo_operadora": "14134",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 123,
+      "nome": "VALA",
+      "codigo_operadora": "14161",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 124,
+      "nome": "VALE",
+      "codigo_operadora": "3712",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 125,
+      "nome": "VEREDA",
+      "codigo_operadora": "2531",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 126,
+      "nome": "VIA",
+      "codigo_operadora": "28",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 127,
+      "nome": "VIA COLETORA",
+      "codigo_operadora": "3091",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 128,
+      "nome": "VIA DE ACESSO",
+      "codigo_operadora": "2051",
+      "created_at": "2017-04-20 20:38:44",
+      "updated_at": "2017-04-20 20:38:44"
+    },
+    {
+      "id": 129,
+      "nome": "VIA DE PEDESTRE",
+      "codigo_operadora": "2392",
+      "created_at": "2017-04-20 20:38:45",
+      "updated_at": "2017-04-20 20:38:45"
+    },
+    {
+      "id": 130,
+      "nome": "VIA DE PEDESTRES",
+      "codigo_operadora": "3971",
+      "created_at": "2017-04-20 20:38:45",
+      "updated_at": "2017-04-20 20:38:45"
+    },
+    {
+      "id": 131,
+      "nome": "VIA EXPRESSA",
+      "codigo_operadora": "2971",
+      "created_at": "2017-04-20 20:38:45",
+      "updated_at": "2017-04-20 20:38:45"
+    },
+    {
+      "id": 132,
+      "nome": "VIA LOCAL",
+      "codigo_operadora": "2751",
+      "created_at": "2017-04-20 20:38:45",
+      "updated_at": "2017-04-20 20:38:45"
+    },
+    {
+      "id": 133,
+      "nome": "VIADUTO",
+      "codigo_operadora": "27",
+      "created_at": "2017-04-20 20:38:45",
+      "updated_at": "2017-04-20 20:38:45"
+    },
+    {
+      "id": 134,
+      "nome": "VIELA",
+      "codigo_operadora": "29",
+      "created_at": "2017-04-20 20:38:45",
+      "updated_at": "2017-04-20 20:38:45"
+    },
+    {
+      "id": 135,
+      "nome": "VILA",
+      "codigo_operadora": "26",
+      "created_at": "2017-04-20 20:38:45",
+      "updated_at": "2017-04-20 20:38:45"
+    }
+  ],
+  "faixas_salariais": [
+    {
+      "id": 1,
+      "nome": "Até R$ 500,00",
+      "codigo_operadora": "1",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38",
+      "ativo": 1
+    },
+    {
+      "id": 2,
+      "nome": "De R$ 500,00 até R$ 1.000,00",
+      "codigo_operadora": "2",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38",
+      "ativo": 1
+    },
+    {
+      "id": 3,
+      "nome": "De R$ 1.000,00 até R$ 2.000,00",
+      "codigo_operadora": "3",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38",
+      "ativo": 1
+    },
+    {
+      "id": 5,
+      "nome": "De R$ 2.000,00 até R$ 3.000,00",
+      "codigo_operadora": "4",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38",
+      "ativo": 1
+    },
+    {
+      "id": 6,
+      "nome": "De R$ 3.000,00 até R$ 4.000,00",
+      "codigo_operadora": "5",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38",
+      "ativo": 1
+    },
+    {
+      "id": 7,
+      "nome": "Acima de R$ 4.000,00",
+      "codigo_operadora": "6",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38",
+      "ativo": 1
+    },
+    {
+      "id": 8,
+      "nome": "Não possui",
+      "codigo_operadora": "7",
+      "created_at": "2017-04-20 20:38:38",
+      "updated_at": "2017-04-20 20:38:38",
+      "ativo": 1
+    }
+  ],
+  "ddd": {
+    "type": "success",
+    "message": "",
+    "data": [
+      {
+        "ddd": 67,
+        "regional_ddd": "CO",
+        "state": {
+          "id": 12,
+          "sigla": "MS",
+          "nome": "Mato Grosso do Sul"
+        }
+      },
+      {
+        "ddd": 43,
+        "regional_ddd": "PR/SC",
+        "state": {
+          "id": 18,
+          "sigla": "PR",
+          "nome": "Paraná"
+        }
+      },
+      {
+        "ddd": 16,
+        "regional_ddd": "SP2",
+        "state": {
+          "id": 26,
+          "sigla": "SP",
+          "nome": "São Paulo"
+        }
+      },
+      {
+        "ddd": 51,
+        "regional_ddd": "RS",
+        "state": {
+          "id": 23,
+          "sigla": "RS",
+          "nome": "Rio Grande do Sul"
+        }
+      },
+      {
+        "ddd": 11,
+        "regional_ddd": "SP1",
+        "state": {
+          "id": 26,
+          "sigla": "SP",
+          "nome": "São Paulo"
+        }
+      },
+      {
+        "ddd": 17,
+        "regional_ddd": "SP2",
+        "state": {
+          "id": 26,
+          "sigla": "SP",
+          "nome": "São Paulo"
+        }
+      },
+      {
+        "ddd": 82,
+        "regional_ddd": "NE",
+        "state": {
+          "id": 2,
+          "sigla": "AL",
+          "nome": "Alagoas"
+        }
+      },
+      {
+        "ddd": 21,
+        "regional_ddd": "RJ/ES",
+        "state": {
+          "id": 19,
+          "sigla": "RJ",
+          "nome": "Rio de Janeiro"
+        }
+      },
+      {
+        "ddd": 96,
+        "regional_ddd": "NO",
+        "state": {
+          "id": 3,
+          "sigla": "AP",
+          "nome": "Amapá"
+        }
+      },
+      {
+        "ddd": 97,
+        "regional_ddd": "NO",
+        "state": {
+          "id": 4,
+          "sigla": "AM",
+          "nome": "Amazonas"
+        }
+      },
+      {
+        "ddd": 92,
+        "regional_ddd": "NO",
+        "state": {
+          "id": 4,
+          "sigla": "AM",
+          "nome": "Amazonas"
+        }
+      },
+      {
+        "ddd": 77,
+        "regional_ddd": "BA/SE",
+        "state": {
+          "id": 5,
+          "sigla": "BA",
+          "nome": "Bahia"
+        }
+      },
+      {
+        "ddd": 75,
+        "regional_ddd": "BA/SE",
+        "state": {
+          "id": 5,
+          "sigla": "BA",
+          "nome": "Bahia"
+        }
+      },
+      {
+        "ddd": 73,
+        "regional_ddd": "BA/SE",
+        "state": {
+          "id": 5,
+          "sigla": "BA",
+          "nome": "Bahia"
+        }
+      },
+      {
+        "ddd": 74,
+        "regional_ddd": "BA/SE",
+        "state": {
+          "id": 5,
+          "sigla": "BA",
+          "nome": "Bahia"
+        }
+      },
+      {
+        "ddd": 71,
+        "regional_ddd": "BA/SE",
+        "state": {
+          "id": 5,
+          "sigla": "BA",
+          "nome": "Bahia"
+        }
+      },
+      {
+        "ddd": 88,
+        "regional_ddd": "NE",
+        "state": {
+          "id": 6,
+          "sigla": "CE",
+          "nome": "Ceará"
+        }
+      },
+      {
+        "ddd": 85,
+        "regional_ddd": "NE",
+        "state": {
+          "id": 6,
+          "sigla": "CE",
+          "nome": "Ceará"
+        }
+      },
+      {
+        "ddd": 61,
+        "regional_ddd": "CO",
+        "state": {
+          "id": 7,
+          "sigla": "DF",
+          "nome": "Distrito Federal"
+        }
+      },
+      {
+        "ddd": 27,
+        "regional_ddd": "RJ/ES",
+        "state": {
+          "id": 8,
+          "sigla": "ES",
+          "nome": "Espírito Santo"
+        }
+      },
+      {
+        "ddd": 28,
+        "regional_ddd": "RJ/ES",
+        "state": {
+          "id": 8,
+          "sigla": "ES",
+          "nome": "Espírito Santo"
+        }
+      },
+      {
+        "ddd": 62,
+        "regional_ddd": "CO",
+        "state": {
+          "id": 9,
+          "sigla": "GO",
+          "nome": "Goiás"
+        }
+      },
+      {
+        "ddd": 64,
+        "regional_ddd": "CO",
+        "state": {
+          "id": 9,
+          "sigla": "GO",
+          "nome": "Goiás"
+        }
+      },
+      {
+        "ddd": 99,
+        "regional_ddd": "NO",
+        "state": {
+          "id": 10,
+          "sigla": "MA",
+          "nome": "Maranhão"
+        }
+      },
+      {
+        "ddd": 98,
+        "regional_ddd": "NO",
+        "state": {
+          "id": 10,
+          "sigla": "MA",
+          "nome": "Maranhão"
+        }
+      },
+      {
+        "ddd": 65,
+        "regional_ddd": "CO",
+        "state": {
+          "id": 13,
+          "sigla": "MT",
+          "nome": "Mato Grosso"
+        }
+      },
+      {
+        "ddd": 66,
+        "regional_ddd": "CO",
+        "state": {
+          "id": 13,
+          "sigla": "MT",
+          "nome": "Mato Grosso"
+        }
+      },
+      {
+        "ddd": 68,
+        "regional_ddd": "CO",
+        "state": {
+          "id": 1,
+          "sigla": "AC",
+          "nome": "Acre"
+        }
+      },
+      {
+        "ddd": 34,
+        "regional_ddd": "MG",
+        "state": {
+          "id": 11,
+          "sigla": "MG",
+          "nome": "Minas Gerais"
+        }
+      },
+      {
+        "ddd": 37,
+        "regional_ddd": "MG",
+        "state": {
+          "id": 11,
+          "sigla": "MG",
+          "nome": "Minas Gerais"
+        }
+      },
+      {
+        "ddd": 31,
+        "regional_ddd": "MG",
+        "state": {
+          "id": 11,
+          "sigla": "MG",
+          "nome": "Minas Gerais"
+        }
+      },
+      {
+        "ddd": 33,
+        "regional_ddd": "MG",
+        "state": {
+          "id": 11,
+          "sigla": "MG",
+          "nome": "Minas Gerais"
+        }
+      },
+      {
+        "ddd": 35,
+        "regional_ddd": "MG",
+        "state": {
+          "id": 11,
+          "sigla": "MG",
+          "nome": "Minas Gerais"
+        }
+      },
+      {
+        "ddd": 32,
+        "regional_ddd": "MG",
+        "state": {
+          "id": 11,
+          "sigla": "MG",
+          "nome": "Minas Gerais"
+        }
+      },
+      {
+        "ddd": 38,
+        "regional_ddd": "MG",
+        "state": {
+          "id": 11,
+          "sigla": "MG",
+          "nome": "Minas Gerais"
+        }
+      },
+      {
+        "ddd": 41,
+        "regional_ddd": "PR/SC",
+        "state": {
+          "id": 18,
+          "sigla": "PR",
+          "nome": "Paraná"
+        }
+      },
+      {
+        "ddd": 42,
+        "regional_ddd": "PR/SC",
+        "state": {
+          "id": 18,
+          "sigla": "PR",
+          "nome": "Paraná"
+        }
+      },
+      {
+        "ddd": 44,
+        "regional_ddd": "PR/SC",
+        "state": {
+          "id": 18,
+          "sigla": "PR",
+          "nome": "Paraná"
+        }
+      },
+      {
+        "ddd": 46,
+        "regional_ddd": "PR/SC",
+        "state": {
+          "id": 18,
+          "sigla": "PR",
+          "nome": "Paraná"
+        }
+      },
+      {
+        "ddd": 45,
+        "regional_ddd": "PR/SC",
+        "state": {
+          "id": 18,
+          "sigla": "PR",
+          "nome": "Paraná"
+        }
+      },
+      {
+        "ddd": 83,
+        "regional_ddd": "NE",
+        "state": {
+          "id": 15,
+          "sigla": "PB",
+          "nome": "Paraíba"
+        }
+      },
+      {
+        "ddd": 91,
+        "regional_ddd": "NO",
+        "state": {
+          "id": 14,
+          "sigla": "PA",
+          "nome": "Pará"
+        }
+      },
+      {
+        "ddd": 94,
+        "regional_ddd": "NO",
+        "state": {
+          "id": 14,
+          "sigla": "PA",
+          "nome": "Pará"
+        }
+      },
+      {
+        "ddd": 93,
+        "regional_ddd": "NO",
+        "state": {
+          "id": 14,
+          "sigla": "PA",
+          "nome": "Pará"
+        }
+      },
+      {
+        "ddd": 81,
+        "regional_ddd": "NE",
+        "state": {
+          "id": 16,
+          "sigla": "PE",
+          "nome": "Pernambuco"
+        }
+      },
+      {
+        "ddd": 87,
+        "regional_ddd": "NE",
+        "state": {
+          "id": 16,
+          "sigla": "PE",
+          "nome": "Pernambuco"
+        }
+      },
+      {
+        "ddd": 89,
+        "regional_ddd": "NE",
+        "state": {
+          "id": 17,
+          "sigla": "PI",
+          "nome": "Piauí"
+        }
+      },
+      {
+        "ddd": 86,
+        "regional_ddd": "NE",
+        "state": {
+          "id": 17,
+          "sigla": "PI",
+          "nome": "Piauí"
+        }
+      },
+      {
+        "ddd": 84,
+        "regional_ddd": "NE",
+        "state": {
+          "id": 20,
+          "sigla": "RN",
+          "nome": "Rio Grande do Norte"
+        }
+      },
+      {
+        "ddd": 53,
+        "regional_ddd": "RS",
+        "state": {
+          "id": 23,
+          "sigla": "RS",
+          "nome": "Rio Grande do Sul"
+        }
+      },
+      {
+        "ddd": 54,
+        "regional_ddd": "RS",
+        "state": {
+          "id": 23,
+          "sigla": "RS",
+          "nome": "Rio Grande do Sul"
+        }
+      },
+      {
+        "ddd": 55,
+        "regional_ddd": "RS",
+        "state": {
+          "id": 23,
+          "sigla": "RS",
+          "nome": "Rio Grande do Sul"
+        }
+      },
+      {
+        "ddd": 24,
+        "regional_ddd": "RJ/ES",
+        "state": {
+          "id": 19,
+          "sigla": "RJ",
+          "nome": "Rio de Janeiro"
+        }
+      },
+      {
+        "ddd": 22,
+        "regional_ddd": "RJ/ES",
+        "state": {
+          "id": 19,
+          "sigla": "RJ",
+          "nome": "Rio de Janeiro"
+        }
+      },
+      {
+        "ddd": 69,
+        "regional_ddd": "CO",
+        "state": {
+          "id": 21,
+          "sigla": "RO",
+          "nome": "Rondônia"
+        }
+      },
+      {
+        "ddd": 95,
+        "regional_ddd": "NO",
+        "state": {
+          "id": 22,
+          "sigla": "RR",
+          "nome": "Roraima"
+        }
+      },
+      {
+        "ddd": 49,
+        "regional_ddd": "PR/SC",
+        "state": {
+          "id": 24,
+          "sigla": "SC",
+          "nome": "Santa Catarina"
+        }
+      },
+      {
+        "ddd": 47,
+        "regional_ddd": "PR/SC",
+        "state": {
+          "id": 24,
+          "sigla": "SC",
+          "nome": "Santa Catarina"
+        }
+      },
+      {
+        "ddd": 48,
+        "regional_ddd": "PR/SC",
+        "state": {
+          "id": 24,
+          "sigla": "SC",
+          "nome": "Santa Catarina"
+        }
+      },
+      {
+        "ddd": 79,
+        "regional_ddd": "BA/SE",
+        "state": {
+          "id": 25,
+          "sigla": "SE",
+          "nome": "Sergipe"
+        }
+      },
+      {
+        "ddd": 18,
+        "regional_ddd": "SP2",
+        "state": {
+          "id": 26,
+          "sigla": "SP",
+          "nome": "São Paulo"
+        }
+      },
+      {
+        "ddd": 19,
+        "regional_ddd": "SP2",
+        "state": {
+          "id": 26,
+          "sigla": "SP",
+          "nome": "São Paulo"
+        }
+      },
+      {
+        "ddd": 14,
+        "regional_ddd": "SP2",
+        "state": {
+          "id": 26,
+          "sigla": "SP",
+          "nome": "São Paulo"
+        }
+      },
+      {
+        "ddd": 15,
+        "regional_ddd": "SP2",
+        "state": {
+          "id": 26,
+          "sigla": "SP",
+          "nome": "São Paulo"
+        }
+      },
+      {
+        "ddd": 12,
+        "regional_ddd": "SP2",
+        "state": {
+          "id": 26,
+          "sigla": "SP",
+          "nome": "São Paulo"
+        }
+      },
+      {
+        "ddd": 13,
+        "regional_ddd": "SP2",
+        "state": {
+          "id": 26,
+          "sigla": "SP",
+          "nome": "São Paulo"
+        }
+      },
+      {
+        "ddd": 63,
+        "regional_ddd": "CO",
+        "state": {
+          "id": 27,
+          "sigla": "TO",
+          "nome": "Tocantins"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "codigo": 0,
+  "idVenda": "SP-899133",
+  "servicos": [
+    {
+      "id": 922384
+    }
+  ],
+  "analiseCredito": {
+    "codigo": 30009,
+    "mensagem": "Falha na análise de crédito. A venda foi finalizada como desistência"
+  },
+  "segundaViaFatura": {
+      "Meu Vivo Móvel": "https://sun-beta.s3.amazonaws.com/public/1581441046.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJPGRJVXGJE63FHNA%2F20200211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200211T171047Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1800&X-Amz-Signature=aa35cb947ab87b412e32ddb7a07f23960478ad599ad355614a61da56b9fbe740"
+    }
+}

@@ -1,0 +1,277 @@
+{
+  "internalCode":"0",
+  "eligibilityToken":"41473587-fae4-4193-9d36-12895a9d5779",
+  "customer":{
+    "crivoOff":"ON",
+    "flgPaymentSlip":false
+  },
+  "approval":[
+    {
+      "reasonCode":"0",
+      "description":"CPF não validado no CRIVO"
+    }
+  ],
+  "internalValue":"nqoHyzJBAmg=",
+  "products":[
+    {
+      "plan":{
+        "segment":"DIGITALPOS",
+        "name":"TIM Black Dependente",
+        "id":"1-11VJH56",
+        "description":"TIM Black Dependente",
+        "requiresApproval":false,
+        "benefits":[
+          {
+            "benefitType":"minutes",
+            "description":"Locais e DDD com 41 para qualquer operadora",
+            "quantity":"4320"
+          },
+          {
+            "benefitType":"internet",
+            "description":"Franquia de Internet",
+            "quantity":"7GB"
+          }
+        ],
+        "price":{
+          "amount":"0.00",
+          "recurrence":"30"
+        },
+        "requiredProduct":"false",
+        "specialOffer":"N"
+      },
+      "serviceGroups":{
+        "groups":[
+          {
+            "minCardinality":"0",
+            "maxCardinality":"99",
+            "name":"Serviços Digital Familia",
+            "services":[
+              {
+                "id":"1-11JBWTA",
+                "name":"TIM Empresas Digital Bloqueio",
+                "description":"TIM Black Família Digital",
+                "requiresApproval":false,
+                "price":{
+                  "amount":".00",
+                  "recurrence":"0"
+                },
+                "specialOffer":"N"
+              },
+              {
+                "id":"1-11LGFC7",
+                "name":"TIM Black Família Digital Inadimplência",
+                "description":"TIM Black Família Digital",
+                "requiresApproval":false,
+                "price":{
+                  "amount":".00",
+                  "recurrence":"0"
+                },
+                "specialOffer":"N"
+              }
+            ]
+          },
+          {
+            "minCardinality":"0",
+            "maxCardinality":"99",
+            "name":"Pacotes Apps",
+            "services":[
+              {
+                "id":"1-2EU4JVH",
+                "name":"5G Full",
+                "description":"Turbine seu 5G e tenha +50GB de internet extra todo mês. Além disso, você acessa a Twitch sem descontar da sua franquia! Bora lá!",
+                "requiresApproval":false,
+                "price":{
+                  "amount":".00",
+                  "recurrence":"30"
+                },
+                "specialOffer":"N"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "plan":{
+        "segment":"DIGITALPOS",
+        "name":"TIM Black Multi A Hero 3 0",
+        "id":"1-11VJ069",
+        "description":"30GB, Ligações e SMS ilimitados, Audiobooks by Ubook Platinum, Babbel 3, Loja Gameloft, Bancah Premium + Jornais, TIM Gestão Digital, Deezer, TIM Nuvem 500GB, TIM Segurança Digital, Reforça, Band News, Band Sports e Apps de Redes Sociais.",
+        "requiresApproval":true,
+        "benefits":[
+          {
+            "benefitType":"minutes",
+            "description":"Locais e DDD com 41 para qualquer operadora",
+            "quantity":"à vontade"
+          },
+          {
+            "benefitType":"minutes",
+            "description":"Roaming Nacional Voz",
+            "quantity":"30 minutos"
+          },
+          {
+            "benefitType":"internet",
+            "description":"A internet que você não usar em um mês acumula para o mês seguinte",
+            "quantity":"7GB"
+          },
+          {
+            "benefitType":"internet",
+            "description":"Franquia de Internet",
+            "quantity":"30GB"
+          }
+        ],
+        "price":{
+          "amount":"284.99",
+          "recurrence":"30"
+        },
+        "requiredProduct":"false",
+        "specialOffer":"N"
+      },
+      "serviceGroups":{
+        "groups":[
+          {
+            "minCardinality":"0",
+            "maxCardinality":"99",
+            "name":"Serviços Digital Familia",
+            "services":[
+              {
+                "id":"1-11JBWTA",
+                "name":"TIM Empresas Digital Bloqueio",
+                "description":"TIM Black Família Digital",
+                "requiresApproval":true,
+                "price":{
+                  "amount":".00",
+                  "recurrence":"0"
+                },
+                "specialOffer":"N"
+              },
+              {
+                "id":"1-11LGFC7",
+                "name":"TIM Black Família Digital Inadimplência",
+                "description":"TIM Black Família Digital",
+                "requiresApproval":true,
+                "price":{
+                  "amount":".00",
+                  "recurrence":"0"
+                },
+                "specialOffer":"N"
+              }
+            ]
+          }
+        ]
+      },
+      "packageGroups":{
+        "groups":[
+          {
+            "minCardinality":"0",
+            "maxCardinality":"99",
+            "name":"Pacotes Apps",
+            "packages":[
+              {
+                "id":"1-1JUNUD6",
+                "name":"Plugin 5G PLUS",
+                "description":"Plugin recorrente 5G Full + 50GB de internet (nos celulares compatíveis) +Twitch sem descontar da franquia de dados.",
+                "requiresApproval":true,
+                "price":{
+                  "amount":"20.00"
+                },
+                "specialOffer":"N"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "plan":{
+        "segment":"DIGITALPOS",
+        "name":"TIM Black Multi B 3 0",
+        "id":"1-11VJH19",
+        "description":"60GB, Ligações e SMS ilimitados, Audiobooks by Ubook Platinum, Babbel 3, Chefsclub, Loja Gameloft, Bancah Premium + Jornais, TIM Gestão Digital, Deezer, TIM Nuvem 2TB, TIM Segurança Digital, Reforça Premium, Band News, Band Sports e Apps Redes Sociais",
+        "requiresApproval":true,
+        "benefits":[
+          {
+            "benefitType":"minutes",
+            "description":"Locais e DDD com 41 para qualquer operadora",
+            "quantity":"à vontade"
+          },
+          {
+            "benefitType":"minutes",
+            "description":"Roaming Nacional Voz",
+            "quantity":"30 minutos"
+          },
+          {
+            "benefitType":"internet",
+            "description":"A internet que você não usar em um mês acumula para o mês seguinte",
+            "quantity":"7GB"
+          },
+          {
+            "benefitType":"internet",
+            "description":"Franquia de Internet",
+            "quantity":"60GB"
+          }
+        ],
+        "price":{
+          "amount":"359.99",
+          "recurrence":"30"
+        },
+        "requiredProduct":"false",
+        "specialOffer":"N"
+      },
+      "serviceGroups":{
+        "groups":[
+          {
+            "minCardinality":"0",
+            "maxCardinality":"99",
+            "name":"Serviços Digital Familia",
+            "services":[
+              {
+                "id":"1-11JBWTA",
+                "name":"TIM Empresas Digital Bloqueio",
+                "description":"TIM Black Família Digital",
+                "requiresApproval":true,
+                "price":{
+                  "amount":".00",
+                  "recurrence":"0"
+                },
+                "specialOffer":"N"
+              },
+              {
+                "id":"1-11LGFC7",
+                "name":"TIM Black Família Digital Inadimplência",
+                "description":"TIM Black Família Digital",
+                "requiresApproval":true,
+                "price":{
+                  "amount":".00",
+                  "recurrence":"0"
+                },
+                "specialOffer":"N"
+              }
+            ]
+          }
+        ]
+      },
+      "packageGroups":{
+        "groups":[
+          {
+            "minCardinality":"0",
+            "maxCardinality":"99",
+            "name":"Pacotes Apps",
+            "packages":[
+              {
+                "id":"1-1JUNUD6",
+                "name":"Plugin 5G PLUS",
+                "description":"Plugin recorrente 5G Full + 50GB de internet (nos celulares compatíveis) +Twitch sem descontar da franquia de dados.",
+                "requiresApproval":true,
+                "price":{
+                  "amount":"20.00"
+                },
+                "specialOffer":"N"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

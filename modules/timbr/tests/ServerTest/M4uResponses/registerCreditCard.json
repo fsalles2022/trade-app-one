@@ -1,0 +1,20 @@
+{
+  "card": {
+    "bin": "512173",
+    "brand": "Mastercard",
+    "expirationMonth": "9",
+    "expirationYear": "2019",
+    "key": "3B47421C-8821-4F4E-8F76-B98145522F64",
+    "last": "8360",
+    "length": 16,
+    "panId": "1536619090400"
+  },
+  "result": {
+    "properties": {},
+    "resultCode": "0",
+    "resultDetailing": "0",
+    "resultHint": "00",
+    "resultMessage": "Sem detalhamento",
+    "resultSuccess": true
+  }
+}

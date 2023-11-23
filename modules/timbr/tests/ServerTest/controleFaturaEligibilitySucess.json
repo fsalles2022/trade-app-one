@@ -1,0 +1,515 @@
+{
+  "eligibilityToken" : "20180829T154025030040937396082981064",
+  "products" : [
+    {
+      "plan" : {
+        "segment" : "EXPRESS",
+        "id" : "1-118LLYR",
+        "name" : "TIM Controle Redes Sociais Express",
+        "description" : "4GB + ligações ilimitadas, Whatsapp, Facebook, Instagram, Twitter, Globo Livros, Banca Virtual, Protect Backup",
+        "offerPriority" : "9",
+        "specialOffer" : "Y",
+        "price" : {
+          "amount" : "79.99"
+        },
+        "benefits" : [
+          {
+            "benefitType" : "minutos",
+            "description" : "Qualquer operadora  e lugar do Brasil com 41 ",
+            "quantity" : " ilimitado"
+          },
+          {
+            "benefitType" : "internet",
+            "description" : "Pacote de internet",
+            "quantity" : " 4 Gb"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "SMS TIM-TIM",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : " SMS TIM – outras op.",
+            "quantity" : " 100 torpedos"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "Receba Ligações em outro estado (Roaming)",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "Tim Globo Livros",
+            "quantity" : " incluso no plano"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "TIM Banca Virtual",
+            "quantity" : " incluso no plano"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : " TIM Protect Backup 10GB",
+            "quantity" : " incluso no plano"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : " Redes Sociais (Facebook, Instagram e Twitter)",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "Waze e Easy Taxi",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "WhatsApp, Messenger e Telegram",
+            "quantity" : " à vontade"
+          }
+        ]
+      }
+    },
+    {
+      "plan" : {
+        "segment" : "EXPRESS",
+        "id" : "1-ILK6NJ",
+        "name" : "TIM CONTROLE EXPRESS B PLUS",
+        "description" : "TIM CONTROLE EXPRESS B PLUS",
+        "offerPriority" : "9",
+        "specialOffer" : "Y",
+        "price" : {
+          "amount" : "59.99"
+        },
+        "benefits" : [
+          {
+            "benefitType" : "minutos",
+            "description" : "Qualquer operadora  e lugar do Brasil com 41 ",
+            "quantity" : " ilimitado"
+          },
+          {
+            "benefitType" : "internet",
+            "description" : "Pacote de internet",
+            "quantity" : " 4 Gb"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "SMS para qualquer operadora do Brasil",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "Receba Ligações em outro estado (Roaming)",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "TIM Music",
+            "quantity" : " incluso no plano"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "TIM Banca Virtual",
+            "quantity" : " incluso no plano"
+          }
+        ]
+      }
+    },
+{"plan":{"segment":"PRE_PAGO","id":"PL00001","name":"TIM PRÉ","description":"TIM PRÉ","offerPriority":"9","specialOffer":"Y","price":{"amount":"0"},"benefits":[]},"offerGroups":{"groups":[{"offers":[{"id":"PR00430","name":"TIM PRÉ TOP (WhatsApp, Facebook, Twitter ilimitados + Voz ilimitada + internet p/ usar como quiser)","description":"TIM PRÉ TOP (WhatsApp, Facebook, Twitter ilimitados + Voz ilimitada + internet p/ usar como quiser)","offerPriority":"7","specialOffer":"N","price":{"amount":"0"}}]}]}},
+    {
+      "plan" : {
+        "segment" : "CONTROLE",
+        "id" : "1-118LLUU",
+        "name" : "TIM Controle Redes Sociais",
+        "description" : "3,5GB + ligações ilimitadas, Whatsapp, Facebook, Instagram, Twitter, Globo Livros, Banca Virtual, Protect Backup",
+        "offerPriority" : "9",
+        "specialOffer" : "Y",
+        "price" : {
+          "amount" : "79.99"
+        },
+        "benefits" : [
+          {
+            "benefitType" : "minutos",
+            "description" : "Qualquer operadora  e lugar do Brasil com 41 ",
+            "quantity" : " ilimitado"
+          },
+          {
+            "benefitType" : "internet",
+            "description" : "Pacote de internet",
+            "quantity" : " 3,5 Gb"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "SMS TIM-TIM",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : " SMS TIM – outras op.",
+            "quantity" : " 100 torpedos"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "Receba Ligações em outro estado (Roaming)",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "Tim Globo Livros",
+            "quantity" : " incluso no plano"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "TIM Banca Virtual",
+            "quantity" : " incluso no plano"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : " TIM Protect Backup 10GB",
+            "quantity" : " incluso no plano"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : " Redes Sociais (Facebook, Instagram e Twitter)",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "Waze e Easy Taxi",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "WhatsApp, Messenger e Telegram",
+            "quantity" : " à vontade"
+          }
+        ]
+      },
+      "loyalties" : [
+        {
+          "id" : "1-10RFAPJ",
+          "name" : "Oferta TIM Controle com desconto no plano Fidelizado - VarejoRegional",
+          "description" : "Fidelização 12 meses",
+          "offerPriority" : "7",
+          "specialOffer" : "N",
+          "price" : {
+            "amount" : "-15"
+          }
+        }
+      ]
+    },
+    {
+      "plan" : {
+        "segment" : "EXPRESS",
+        "id" : "1-QILLKV",
+        "name" : "TIM Controle Light Express plus",
+        "description" : "TIM Controle Light Express plus",
+        "offerPriority" : "9",
+        "specialOffer" : "Y",
+        "price" : {
+          "amount" : "44.99"
+        },
+        "benefits" : [
+          {
+            "benefitType" : "minutos",
+            "description" : "Ligações Locais TIM-TIM",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "minutos",
+            "description" : "Ligações DDD 41 TIM-TIM",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "minutos",
+            "description" : "Ligações TIM - outras op. móvel ou fixo, local",
+            "quantity" : " 25min "
+          },
+          {
+            "benefitType" : "minutos",
+            "description" : "Ligações TIM - outras op. LDN",
+            "quantity" : " R$2,23/min"
+          },
+          {
+            "benefitType" : "minutos",
+            "description" : "Roaming Nacional",
+            "quantity" : " R$1,79/evento"
+          },
+          {
+            "benefitType" : "internet",
+            "description" : "Pacote de internet",
+            "quantity" : " 3 Gb"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "SMS",
+            "quantity" : " R$0,99/dia"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "Receba Ligações em outro estado (Roaming)",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "Tim Backup 5GB",
+            "quantity" : " incluso no plano"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "TIM Banca Virtual",
+            "quantity" : " incluso no plano"
+          }
+        ]
+      }
+    },
+    {
+      "plan" : {
+        "segment" : "CONTROLE",
+        "id" : "1-IL65OW",
+        "name" : "TIM Controle B plus",
+        "description" : "3.5GB, Ligações Ilimitadas, Roaming Nacional, Banca Virtual, Music by Deezer",
+        "offerPriority" : "9",
+        "specialOffer" : "Y",
+        "price" : {
+          "amount" : "59.99"
+        },
+        "benefits" : [
+          {
+            "benefitType" : "minutos",
+            "description" : "Qualquer operadora  e lugar do Brasil com 41 ",
+            "quantity" : " ilimitado"
+          },
+          {
+            "benefitType" : "internet",
+            "description" : "Pacote de internet",
+            "quantity" : " 3,5 Gb"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "SMS para qualquer operadora do Brasil",
+            "quantity" : " à  vontade"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "Receba Ligações em outro estado (Roaming)",
+            "quantity" : " à  vontade"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "TIM Music",
+            "quantity" : " incluso no plano"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "TIM Banca Virtual",
+            "quantity" : " incluso no plano"
+          }
+        ]
+      },
+      "loyalties" : [
+        {
+          "id" : "1-S7D12A",
+          "name" : "Oferta TIM Controle com desconto no plano Fidelizado – Faixa 2",
+          "description" : "Fidelização 12 meses",
+          "offerPriority" : "7",
+          "specialOffer" : "N",
+          "price" : {
+            "amount" : "-10"
+          }
+        }
+      ]
+    },
+    {
+      "plan" : {
+        "segment" : "CONTROLE",
+        "id" : "1-QGZ69F",
+        "name" : "TIM Controle Light plus",
+        "description" : "2.5GB, 25min, TIM-TIM ilimitado, Protect BackUp, Banca Virtual",
+        "offerPriority" : "9",
+        "specialOffer" : "Y",
+        "price" : {
+          "amount" : "44.99"
+        },
+        "benefits" : [
+          {
+            "benefitType" : "minutos",
+            "description" : "Ligações Locais TIM-TIM",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "minutos",
+            "description" : "Ligações DDD 41 TIM-TIM",
+            "quantity" : " à vontade"
+          },
+          {
+            "benefitType" : "minutos",
+            "description" : "Ligações TIM - outras op. móvel ou fixo, local",
+            "quantity" : " 25min "
+          },
+          {
+            "benefitType" : "minutos",
+            "description" : "Ligações TIM - outras op. LDN",
+            "quantity" : " R$2,23/min"
+          },
+          {
+            "benefitType" : "minutos",
+            "description" : "Roaming Nacional",
+            "quantity" : " R$1,79/evento"
+          },
+          {
+            "benefitType" : "internet",
+            "description" : "Pacote de internet",
+            "quantity" : " 2,5 Gb"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "SMS",
+            "quantity" : " R$0,99/dia"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "TIM Backup 5GB",
+            "quantity" : "incluso no plano"
+          },
+          {
+            "benefitType" : "beneficios",
+            "description" : "TIM Banca Virtual",
+            "quantity" : " incluso no plano"
+          }
+        ]
+      }
+    },
+    {
+      "plan":{
+         "id":"1-11L5P25",
+         "name":"TIM Controle Smart 2 0",
+         "description":"5GB, Ligações Ilimitadas, Roaming Nacional, Whatsapp, Messenger, Telegram, TIM Banca Jornais II e Ebook by Skeelo.  Além de Facebook, Instagram e Twitter a vontade por 3 meses",
+         "offerPriority":"9",
+         "specialOffer":"Y",
+         "requiresApproval":false,
+         "price":{
+            "amount":"69.99"
+         },
+         "segment":"CONTROLE",
+         "benefits":[
+            {
+               "benefitType":"minutos",
+               "quantity":"ilimitado",
+               "description":"Qualquer operadora  e lugar do Brasil com 41"
+            },
+            {
+               "benefitType":"internet",
+               "quantity":"5GB",
+               "description":"Pacote de internet"
+            },
+            {
+               "benefitType":"beneficios",
+               "description":"SMS Ilimitado"
+            },
+            {
+               "benefitType":"beneficios",
+               "quantity":"à vontade",
+               "description":"Receba ligações em outro estado (roaming nacional)"
+            },
+            {
+               "benefitType":"beneficios",
+               "quantity":"incluso no plano",
+               "description":"TIM Banca Jornais II"
+            },
+            {
+               "benefitType":"beneficios",
+               "quantity":"incluso no plano",
+               "description":"Ebook by Skeelo"
+            },
+            {
+               "benefitType":"beneficios",
+               "quantity":"à vontade",
+               "description":"Whatsapp, Messenger e Telegram"
+            },
+            {
+               "benefitType":"beneficios",
+               "description":"Facebook, Instagram e Twitter a vontade por 3 meses."
+            }
+         ]
+      },
+      "loyalties":[
+         {
+            "id":"1-1D83LPL",
+            "name":"Oferta TIM Controle com desconto no plano Fidelizado – Faixa 7 por DDD",
+            "description":"Fidelização 12 meses",
+            "offerPriority":"7",
+            "specialOffer":"N",
+            "requiresApproval":false,
+            "price":{
+               "amount":"-20"
+            },
+            "type":"Produto"
+         }
+      ],
+      "serviceGroups":{
+         "groups":[
+            {
+               "minCardinality":"0",
+               "maxCardinality":"99",
+               "name":"Pacotes Apps",
+               "services":[
+                  {
+                     "id":"1-10SVS6D",
+                     "name":"Pacote Apps Redes Sociais - Recorrente",
+                     "description":"(Facebook, Twitter, Instagram)",
+                     "offerPriority":"7",
+                     "specialOffer":"N",
+                     "requiresApproval":false,
+                     "price":{
+                        "amount":"20"
+                     }
+                  }
+               ]
+            },
+            {
+               "minCardinality":"0",
+               "maxCardinality":"99",
+               "name":"Serviços Controle",
+               "services":[
+                  {
+                     "id":"1-1EH21XO",
+                     "name":"Deezer Premium Promo",
+                     "description":"Deezer Premium Promo",
+                     "offerPriority":"7",
+                     "specialOffer":"N",
+                     "requiresApproval":false,
+                     "price":{
+                        "amount":"5"
+                     }
+                  }
+               ]
+            }
+         ]
+      },
+      "packageGroups":{
+         "groups":[
+            {
+               "minCardinality":"0",
+               "maxCardinality":"99",
+               "name":"Pacotes Independentes Controle",
+               "packages":[
+                  {
+                     "id":"1-1E5NB0X",
+                     "name":"PROMO 20GB INTERNET 12M",
+                     "description":"PROMO 20GB INTERNET 12M",
+                     "offerPriority":"7",
+                     "specialOffer":"N",
+                     "requiresApproval":false,
+                     "price":{
+                        "amount":"0"
+                     }
+                  }
+               ]
+            }
+         ]
+      }
+   }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+    "message": "Listagem de planos",
+    "payload": [
+        {
+            "plan_id": "8B7880FD-9B17-419D-9EDB-A0EC1E69C1C2",
+            "name": "Pernambucanas Conectado",
+            "value": "2500",
+            "validity": "30 dias ",
+            "type": "connected-plan",
+            "type_description": "PLANO CONECTADO",
+            "advantages": [
+                {
+                    "title": "1,5 GB de internet",
+                    "description": "de internet na maior rede 4G do país",
+                    "alias": "internet",
+                    "type": "advantage"
+                },
+                {
+                    "title": "60 minutos",
+                    "description": "para fixo e celular de qualquer operadora",
+                    "alias": "voice",
+                    "type": "advantage"
+                },
+                {
+                    "title": "60 SMS",
+                    "description": "por mês",
+                    "alias": "sms",
+                    "type": "advantage"
+                },
+                {
+                    "title": "WhatsApp",
+                    "description": "grátis",
+                    "alias": "whatsapp",
+                    "type": "advantage"
+                }
+            ]
+        },
+        {
+            "plan_id": "A7322E4B-2517-490B-AEC6-ADE65F3FB7ED",
+            "name": "Pernambucanas Conectado",
+            "value": "3000",
+            "validity": "30 dias",
+            "type": "connected-plan",
+            "type_description": "PLANO CONECTADO",
+            "advantages": [
+                {
+                    "title": "3 GB de internet",
+                    "description": "de internet na maior rede 4G do país",
+                    "alias": "internet",
+                    "type": "advantage"
+                },
+                {
+                    "title": "100 minutos",
+                    "description": "para fixo e celular de qualquer operadora",
+                    "alias": "voice",
+                    "type": "advantage"
+                },
+                {
+                    "title": "100 SMS",
+                    "description": "por mês",
+                    "alias": "sms",
+                    "type": "advantage"
+                },
+                {
+                    "title": "WhatsApp",
+                    "description": "grátis",
+                    "alias": "whatsapp",
+                    "type": "advantage"
+                }
+            ]
+        },
+        {
+            "plan_id": "F5693F1B-271A-42E5-922F-F7E66FC6ACC1",
+            "name": "Pernambucanas Conectado",
+            "value": "4000",
+            "validity": "30 dias",
+            "type": "connected-plan",
+            "type_description": "PLANO CONECTADO",
+            "advantages": [
+                {
+                    "title": "5 GB de internet",
+                    "description": "de internet na maior rede 4G do país",
+                    "alias": "internet",
+                    "type": "advantage"
+                },
+                {
+                    "title": "Ligações ilimitadas",
+                    "description": "para fixo e celular de qualquer operadora",
+                    "alias": "voice",
+                    "type": "advantage"
+                },
+                {
+                    "title": "100 SMS",
+                    "description": "por mês",
+                    "alias": "sms",
+                    "type": "advantage"
+                },
+                {
+                    "title": "Mais vendido",
+                    "description": null,
+                    "alias": "sale",
+                    "type": "information"
+                }
+            ]
+        },
+        {
+            "plan_id": "3695D972-7CD6-49B7-B9D6-95C81F4A5200",
+            "name": "Pernambucanas Conectado",
+            "value": "5000",
+            "validity": "30 dias",
+            "type": "connected-plan",
+            "type_description": "PLANO CONECTADO",
+            "advantages": [
+                {
+                    "title": "9 GB de internet",
+                    "description": "de internet na maior rede 4G do país",
+                    "alias": "internet",
+                    "type": "advantage"
+                },
+                {
+                    "title": "Ligações ilimitadas",
+                    "description": "para fixo e celular de qualquer operadora",
+                    "alias": "voice",
+                    "type": "advantage"
+                },
+                {
+                    "title": "100 SMS",
+                    "description": "por mês",
+                    "alias": "sms",
+                    "type": "advantage"
+                },
+                {
+                    "title": "Mais vantagens",
+                    "description": null,
+                    "alias": "benefits",
+                    "type": "information"
+                }
+            ]
+        },
+        {
+            "plan_id": "4EB31183-A691-4AA5-8D42-003434028C9F",
+            "name": "Pernambucanas Conectado",
+            "value": "7500",
+            "validity": "30 dias",
+            "type": "connected-plan",
+            "type_description": "PLANO CONECTADO",
+            "advantages": [
+                {
+                    "title": "15 GB de internet",
+                    "description": "de internet na maior rede 4G do país",
+                    "alias": "internet",
+                    "type": "advantage"
+                },
+                {
+                    "title": "Ligações ilimitadas",
+                    "description": "para fixo e celular de qualquer operadora",
+                    "alias": "voice",
+                    "type": "advantage"
+                },
+                {
+                    "title": "100 SMS ",
+                    "description": "por mês",
+                    "alias": "sms",
+                    "type": "advantage"
+                }
+            ]
+        },
+        {
+            "plan_id": "26F428F1-7FE6-4042-9DE0-BE1545697BE8",
+            "name": "Colaborador",
+            "value": "2999",
+            "validity": "30 dias",
+            "type": "collaborative-plan",
+            "type_description": "PLANO COLABORADOR",
+            "advantages": [
+                {
+                    "title": "5 GB de internet",
+                    "description": "de internet na maior rede 4G do país",
+                    "alias": "internet",
+                    "type": "advantage"
+                },
+                {
+                    "title": "Ligações ilimitadas",
+                    "description": "para fixo e celular de qualquer operadora",
+                    "alias": "voice",
+                    "type": "advantage"
+                },
+                {
+                    "title": "100 SMS",
+                    "description": "por mês",
+                    "alias": "sms",
+                    "type": "advantage"
+                }
+            ]
+        },
+        {
+            "plan_id": "1379A859-3513-4B10-BD30-AA8B224C2AD1",
+            "name": "Colaborador",
+            "value": "3999",
+            "validity": "30 dias",
+            "type": "collaborative-plan",
+            "type_description": "PLANO COLABORADOR",
+            "advantages": [
+                {
+                    "title": "9 GB de internet",
+                    "description": "de internet na maior rede 4G do país",
+                    "alias": "internet",
+                    "type": "advantage"
+                },
+                {
+                    "title": "Ligações ilimitadas",
+                    "description": "para fixo e celular de qualquer operadora",
+                    "alias": "voice",
+                    "type": "advantage"
+                },
+                {
+                    "title": "100 SMS",
+                    "description": "por mês",
+                    "alias": "sms",
+                    "type": "advantage"
+                }
+            ]
+        },
+        {
+            "plan_id": "592DD7ED-CFC0-4A64-B9C2-5BEB3DE7C42A",
+            "name": "Colaborador",
+            "value": "4999",
+            "validity": "30 dias",
+            "type": "collaborative-plan",
+            "type_description": "PLANO COLABORADOR",
+            "advantages": [
+                {
+                    "title": "15 GB de internet",
+                    "description": "de internet na maior rede 4G do país",
+                    "alias": "internet",
+                    "type": "advantage"
+                },
+                {
+                    "title": "Ligações ilimitadas",
+                    "description": "para fixo e celular de qualquer operadora",
+                    "alias": "voice",
+                    "type": "advantage"
+                },
+                {
+                    "title": "100 SMS",
+                    "description": "por mês",
+                    "alias": "sms",
+                    "type": "advantage"
+                }
+            ]
+        }
+    ],
+    "error": []
+}

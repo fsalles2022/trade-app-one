@@ -1,0 +1,7 @@
+{
+  "codigo": 30000,
+  "mensagem": "Falha ao cadastrar usuário",
+  "detalhes": [
+    "Cpf já cadastrado"
+  ]
+}

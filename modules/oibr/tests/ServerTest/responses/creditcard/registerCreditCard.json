@@ -1,0 +1,20 @@
+{
+  "card": {
+    "bin": "485485",
+    "brand": "Visa",
+    "expirationMonth": "3",
+    "expirationYear": "2019",
+    "key": "41E05A66-2677-44F7-AE97-A6D7E96FF03D",
+    "last": "4854",
+    "length": 16,
+    "panId": "1552072194925"
+  },
+  "result": {
+    "properties": {},
+    "resultCode": "0",
+    "resultDetailing": "0",
+    "resultHint": "00",
+    "resultMessage": "Sem detalhamento",
+    "resultSuccess": true
+  }
+}

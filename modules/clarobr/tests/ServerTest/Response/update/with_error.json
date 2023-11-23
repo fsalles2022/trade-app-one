@@ -1,0 +1,5 @@
+{
+  "type": "error",
+  "message": "O campo ICCID deve conter 20 caracteres e é iniciado por 8955",
+  "data": []
+}

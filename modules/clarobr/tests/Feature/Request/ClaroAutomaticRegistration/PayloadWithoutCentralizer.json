@@ -1,0 +1,53 @@
+{
+    "rede": {
+        "canal": "DISTRIBUICAO",
+        "nome": "LOG EXPRESS",
+        "cnpj": "13263506000305",
+        "servicos": [
+            "CONTROLE_FACIL",
+            "CONTROLE_BOLETO",
+            "PRE_PAGO",
+            "POS_PAGO"
+        ]
+    },
+    "pdv": {
+            "nome": "LOG EXPRESS SP1",
+            "codigo": "939V",
+            "idpdv": "88776655",
+            "cnpj": "13263506000305",
+            "endereco": {
+                "cep": "69903212",
+                "uf": "AC",
+                "cidade": "Rio Branco",
+                "bairro": "Placas",
+                "rua": "Rua tucano",
+                "numero": "58",
+                "complemento": ""
+            },
+            "servicos": [
+                "CONTROLE_FACIL",
+                "CONTROLE_BOLETO",
+                "PRE_PAGO",
+                "POS_PAGO"
+            ]
+    },
+    "usuario": {
+            "perfil": "VENDEDOR",
+            "nome": "Brenda 27 Haruko Rodrigues Caldeira",
+            "cpf": "68453622540",
+            "email": "cadastro@tradeupgroup.com",
+            "telefone": "11932211623",
+            "status": "ATIVO",
+            "data_nascimento": "30/10/1990",
+            "endereco": {
+                "cep": "69903212",
+                "uf": "AC",
+                "cidade": "Rio Branco",
+                "bairro": "Placas",
+                "rua": "Rua tucano",
+                "numero": "58",
+                "complemento": ""
+            },
+            "autenticacaoAlternativa": "357345342532"
+   }
+}

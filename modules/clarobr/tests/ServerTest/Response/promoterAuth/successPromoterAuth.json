@@ -1,0 +1,11 @@
+{
+  "type": "success",
+  "message": "",
+  "data": {
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEyMTE5MSwiaXNzIjoiaHR0cHM6Ly9hcGktaG1sLnRyYWRlYXBwLmNvbS5ici9jbGFyby9hdXRoL3Byb21vdGVyL3YyIiwiaWF0IjoxNTgwNDgyNzk5LCJleHAiOjE1ODA1MDQzOTksIm5iZiI6MTU4MDQ4Mjc5OSwianRpIjoiN1BxU1BtSzcybmlXdWRYdSJ9.mXItb-1Bw0k_pfulp6fljMHlu5-XBQJ4YGhA24C724E",
+    "cpf": "06033171543",
+    "username": "S12VC",
+    "promotor_id": 9800,
+    "pos": "OB3W"
+  }
+}

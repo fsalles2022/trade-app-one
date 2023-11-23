@@ -1,0 +1,14 @@
+{
+  "type": "success",
+  "message": "Por gentileza, escolha um telefone",
+  "data": {
+    "msisdns": [
+      "1199999999",
+      "1199888899",
+      "11989108238",
+      "11989153329",
+      "11989166722"
+    ]
+  },
+  "support": "choose_phone"
+}

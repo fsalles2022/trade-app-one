@@ -1,0 +1,11 @@
+{
+  "codigo": 0,
+  "mensagem": null,
+  "dados": {
+    "cliente": {
+      "status": false,
+      "nome": "SERGIO SERAFIM NASCIMENTO",
+      "result": "CLIENTE POSSUI SERVICO FIXA ATIVO"
+    }
+  }
+}

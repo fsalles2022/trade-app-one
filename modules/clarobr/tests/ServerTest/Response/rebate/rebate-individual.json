@@ -1,0 +1,12 @@
+{
+  "type": "success",
+  "message": "",
+  "data": {
+    "rebate": {
+      "valor_pre": "4599",
+      "valor_plano": "3349",
+      "plano": "Claro Pos 10GB 2018",
+      "multa": 1250
+    }
+  }
+}

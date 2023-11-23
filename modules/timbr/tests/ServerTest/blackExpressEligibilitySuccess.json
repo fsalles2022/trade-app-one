@@ -1,0 +1,95 @@
+{
+  "internalCode":"0",
+  "eligibilityToken":"d3182ce5-d74a-47a4-b6ec-1c62108afa67",
+  "customer":{
+    "crivoOff":"OFF",
+    "flgPaymentSlip":false
+  },
+  "approval":[
+    {
+      "reasonCode":"0",
+      "description":"CPF não validado no CRIVO"
+    }
+  ],
+  "internalValue":"f2Az0oCwL9Q=",
+  "products":[
+    {
+      "plan":{
+        "segment":"POS_EXPRESS",
+        "name":"TIM Black A Express 5.0",
+        "id":"1-2ETPAAX",
+        "description":"22GB, Ligações e SMS ilimitados, Aya Books, Bancah Premium Jornais, TIM Segurança Digital Light, TIM Music by Deezer e Apps de Redes Sociais.",
+        "requiresApproval":false,
+        "benefits":[
+          {
+            "benefitType":"minutes",
+            "description":"Locais e DDD com 41 para qualquer operadora",
+            "quantity":"Ilimitado"
+          },
+          {
+            "benefitType":"internet",
+            "description":"Franquia de Internet",
+            "quantity":"22GB"
+          }
+        ],
+        "price":{
+          "amount":"119.99",
+          "recurrence":"30"
+        },
+        "specialOffer":"N"
+      }
+    },
+    {
+      "plan":{
+        "segment":"POS_EXPRESS",
+        "name":"TIM Black B Express 5.0",
+        "id":"1-2ETPABM",
+        "description":"27GB, Ligações e SMS ilimitados, Aya Books, Bancah Premium Jornais, TIM Segurança Digital, TIM Music by Deezer e Apps de Redes Sociais.",
+        "requiresApproval":false,
+        "benefits":[
+          {
+            "benefitType":"minutes",
+            "description":"Locais e DDD com 41 para qualquer operadora",
+            "quantity":"Ilimitado"
+          },
+          {
+            "benefitType":"internet",
+            "description":"Franquia de Internet",
+            "quantity":"27GB"
+          }
+        ],
+        "price":{
+          "amount":"134.99",
+          "recurrence":"30"
+        },
+        "specialOffer":"N"
+      }
+    },
+    {
+      "plan":{
+        "segment":"POS_EXPRESS",
+        "name":"TIM Black C Express 5.0",
+        "id":"1-2ETPAC8",
+        "description":"32GB, Ligações e SMS ilimitados, Aya Books Premium, Bancah Premium Jornais, TIM Segurança Digital, TIM Music by Deezer e Apps de Redes Sociais.",
+        "requiresApproval":false,
+        "benefits":[
+          {
+            "benefitType":"minutes",
+            "description":"Locais e DDD com 41 para qualquer operadora",
+            "quantity":"Ilimitado"
+          },
+          {
+            "benefitType":"internet",
+            "description":"Franquia de Internet",
+            "quantity":"32GB"
+          }
+        ],
+        "price":{
+          "amount":"164.99",
+          "recurrence":"30"
+        },
+        "specialOffer":"N"
+      }
+    }
+  ]
+}

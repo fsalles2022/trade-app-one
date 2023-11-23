@@ -1,0 +1,8 @@
+{
+  "type": "BRScanCustomerCpfAnalysisNotFound",
+  "messageForHumans": "É necessário concluir o processo do autentica para prosseguir",
+  "reason": "O fluxo de autentica da BRScan não foi iniciado para o CPF de cliente informado. ",
+  "support": "Verifique se o fluxo de autentica foi iniciado ou se os os dados de cliente estao corretos.",
+  "httpCode": 404,
+  "data": []
+}

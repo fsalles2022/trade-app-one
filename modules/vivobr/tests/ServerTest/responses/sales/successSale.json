@@ -1,0 +1,17 @@
+{
+  "codigo": 0,
+  "idVenda": "SP-395569",
+  "servicos": [
+    {
+      "id": 405826
+    }
+  ],
+  "analiseCredito": {
+    "codigo": 0,
+    "statusAnalise": 1,
+    "descricaoAnalise360": "- Todos os planos disponíveis comercialmente ¿"
+  },
+  "segundaViaFatura": {
+    "Regulariza Fácil": "https://sun-beta.s3.amazonaws.com"
+  }
+}

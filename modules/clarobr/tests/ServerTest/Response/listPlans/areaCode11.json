@@ -1,0 +1,2150 @@
+{
+  "type": "success",
+  "message": "",
+  "data": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 8,
+        "nome": "PLANO_RESIDENCIAL",
+        "label": "Plano Residencial",
+        "codigo_operadora": " ",
+        "plano_tipo_id": 3,
+        "ativo": 1,
+        "descricao": "Residencial",
+        "created_at": "2017-04-20 20:38:54",
+        "updated_at": "2017-04-20 20:38:54",
+        "pontuacao": 0,
+        "faturas": {
+          "VIA_POSTAL": "Via Postal"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 3,
+          "label": "Produtos Residenciais",
+          "nome": "PRODUTO_RESIDENCIAL",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 7,
+            "ddd": 11,
+            "plano_id": 8,
+            "valor": "0.00",
+            "ativo": 1,
+            "created_at": null,
+            "updated_at": null,
+            "promotions": []
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "nome": "CLARO_CONTROLE_PLAY_3GB_+_MINUTOS_ILIMITADOS",
+        "label": "Claro Controle Play 3GB + Minutos Ilimitados",
+        "codigo_operadora": "17970-1",
+        "plano_tipo_id": 2,
+        "ativo": 1,
+        "descricao": "Claro Controle F\u00e1cil 3GB + Ilimitado",
+        "created_at": "2018-03-01 01:25:24",
+        "updated_at": "2018-07-24 10:15:38",
+        "pontuacao": 0,
+        "faturas": {
+          "CARTAO_CREDITO": "Cart\u00e3o de Cr\u00e9dito"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 2,
+          "label": "Controle F\u00e1cil",
+          "nome": "CONTROLE_FACIL",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 9108,
+            "ddd": 11,
+            "plano_id": 35,
+            "valor": "39.99",
+            "ativo": 1,
+            "created_at": "2018-07-24 10:15:38",
+            "updated_at": "2018-07-24 10:15:38",
+            "promotions": []
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "nome": "CLARO_CONTROLE_PLAY_4GB_+_MINUTOS_ILIMITADOS",
+        "label": "Claro Controle Play 4GB + Minutos Ilimitados",
+        "codigo_operadora": "17973-1",
+        "plano_tipo_id": 2,
+        "ativo": 1,
+        "descricao": "Claro Controle F\u00e1cil 4GB + Ilimitado",
+        "created_at": "2018-03-01 01:26:58",
+        "updated_at": "2018-07-24 10:15:06",
+        "pontuacao": 0,
+        "faturas": {
+          "CARTAO_CREDITO": "Cart\u00e3o de Cr\u00e9dito"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 2,
+          "label": "Controle F\u00e1cil",
+          "nome": "CONTROLE_FACIL",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 9041,
+            "ddd": 11,
+            "plano_id": 36,
+            "valor": "54.99",
+            "ativo": 1,
+            "created_at": "2018-07-24 10:15:06",
+            "updated_at": "2018-07-24 10:15:06",
+            "promotions": []
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "nome": "CLARO_CONTROLE_PLAY_5GB_+_MINUTOS_ILIMITADOS",
+        "label": "Claro Controle Play 5GB + Minutos Ilimitados",
+        "codigo_operadora": "17977-1",
+        "plano_tipo_id": 2,
+        "ativo": 1,
+        "descricao": "Claro Controle F\u00e1cil 5GB + Ilimitado",
+        "created_at": "2018-03-01 01:28:52",
+        "updated_at": "2018-07-24 10:12:36",
+        "pontuacao": 0,
+        "faturas": {
+          "CARTAO_CREDITO": "Cart\u00e3o de Cr\u00e9dito"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 2,
+          "label": "Controle F\u00e1cil",
+          "nome": "CONTROLE_FACIL",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 8974,
+            "ddd": 11,
+            "plano_id": 37,
+            "valor": "74.99",
+            "ativo": 1,
+            "created_at": "2018-07-24 10:12:36",
+            "updated_at": "2018-07-24 10:12:36",
+            "promotions": []
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "nome": "PRE_PAGO",
+        "label": "Pre Pago",
+        "codigo_operadora": "0",
+        "plano_tipo_id": 5,
+        "ativo": 1,
+        "descricao": "Plano Pre Pago",
+        "created_at": null,
+        "updated_at": "2018-10-09 10:52:48",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 5,
+          "label": "Pr\u00e9 Pago",
+          "nome": "PRE_PAGO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "-0001-11-30 00:00:00",
+          "updated_at": null
+        },
+        "plans_area_code": [
+          {
+            "id": 11279,
+            "ddd": 11,
+            "plano_id": 41,
+            "valor": "0.00",
+            "ativo": 1,
+            "created_at": "2018-10-09 10:52:48",
+            "updated_at": "2018-10-09 10:52:48",
+            "promotions": [
+              {
+                "id": 131,
+                "nome": "Sem Promo?",
+                "codigo_operadora": "0",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": null,
+                "updated_at": null,
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 5,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 11279,
+                  "promocao_id": 131
+                }
+              },
+              {
+                "id": 100,
+                "nome": "Muito Mais:Lig ilimitadas p\/ Claro, 100min p\/ outras operadoras e 1GB com a 1? semana gr?tis.",
+                "codigo_operadora": "505",
+                "ativo": 0,
+                "valor": "0.00",
+                "created_at": null,
+                "updated_at": null,
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 5,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 11279,
+                  "promocao_id": 100
+                }
+              },
+              {
+                "id": 101,
+                "nome": "Ilimitado: Lig. ilimitadas para qualquer operadora do Brasil + 2GB",
+                "codigo_operadora": "506",
+                "ativo": 0,
+                "valor": "0.00",
+                "created_at": null,
+                "updated_at": null,
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 5,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 11279,
+                  "promocao_id": 101
+                }
+              },
+              {
+                "id": 171,
+                "nome": "PREZ\u00c3O 34,99 POR M\u00caS: Liga\u00e7\u00f5es ilimitadas para Claro + 300 minutos para outras operadoras + 3GB + WhatsApp sem gastar internet.",
+                "codigo_operadora": "510",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": null,
+                "updated_at": null,
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 5,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 11279,
+                  "promocao_id": 171
+                }
+              },
+              {
+                "id": 172,
+                "nome": "PREZ\u00c3O 1,99 POR DIA: Liga\u00e7\u00f5es ilimitadas para Claro + 10 minutos para outras operadoras + 100MB + WhatsApp sem gastar internet. S\u00f3 paga no dia que usar.",
+                "codigo_operadora": "514",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": null,
+                "updated_at": null,
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 5,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 11279,
+                  "promocao_id": 172
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "nome": "DEPENDENTE_PLAY_COM_COMP._TOTAL",
+        "label": "Dependente play com comp. Total",
+        "codigo_operadora": "414384645",
+        "plano_tipo_id": 6,
+        "ativo": 1,
+        "descricao": "Dependente Comp Total - R$49,99 - Nova",
+        "created_at": "2018-09-29 21:00:17",
+        "updated_at": "2018-11-21 15:41:42",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 6,
+          "label": "Voz + Dados",
+          "nome": "VOZ_DADOS",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "-0001-11-30 00:00:00",
+          "updated_at": null
+        },
+        "plans_area_code": [
+          {
+            "id": 14441,
+            "ddd": 11,
+            "plano_id": 59,
+            "valor": "49.99",
+            "ativo": 1,
+            "created_at": "2018-11-21 15:41:42",
+            "updated_at": "2018-11-21 15:41:42",
+            "promotions": [
+              {
+                "id": 237,
+                "nome": "Dependente play com comp. Total - 79201",
+                "codigo_operadora": "79201",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-21 14:00:00",
+                "updated_at": "2018-11-21 14:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 6,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 14441,
+                  "promocao_id": 237
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "nome": "DEPENDENTE_PLAY_INT._COMPARTILHADA",
+        "label": "Dependente play Int. compartilhada",
+        "codigo_operadora": "414385550",
+        "plano_tipo_id": 7,
+        "ativo": 1,
+        "descricao": "Dependente play Int. compartilhada - 414385550",
+        "created_at": "2018-10-12 15:21:37",
+        "updated_at": "2019-01-24 09:39:48",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 7,
+          "label": "Dados",
+          "nome": "DADOS",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": null,
+          "updated_at": null
+        },
+        "plans_area_code": [
+          {
+            "id": 17666,
+            "ddd": 11,
+            "plano_id": 60,
+            "valor": "29.99",
+            "ativo": 1,
+            "created_at": "2019-01-24 09:39:48",
+            "updated_at": "2019-01-24 09:39:48",
+            "promotions": [
+              {
+                "id": 237,
+                "nome": "Dependente play com comp. Total - 79201",
+                "codigo_operadora": "79201",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-21 14:00:00",
+                "updated_at": "2018-11-21 14:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 6,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17666,
+                  "promocao_id": 237
+                }
+              },
+              {
+                "id": 243,
+                "nome": "Dependente play com int. compartilhada - 79200",
+                "codigo_operadora": "79200",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-21 14:00:00",
+                "updated_at": "2018-11-21 14:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 7,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17666,
+                  "promocao_id": 243
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "nome": "CLARO_POS_7GB_2018",
+        "label": "Claro P\u00f3s 7GB 2018",
+        "codigo_operadora": "19322",
+        "plano_tipo_id": 4,
+        "ativo": 1,
+        "descricao": "Claro P\u00f3s 7GB 2018 - 19322",
+        "created_at": "2018-10-23 17:27:54",
+        "updated_at": "2019-01-30 10:29:14",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": 1,
+        "plan_type": {
+          "id": 4,
+          "label": "P\u00f3s Pago",
+          "nome": "POS_PAGO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 17826,
+            "ddd": 11,
+            "plano_id": 61,
+            "valor": "119.99",
+            "ativo": 1,
+            "created_at": "2019-01-30 10:29:14",
+            "updated_at": "2019-01-30 10:29:14",
+            "promotions": [
+              {
+                "id": 194,
+                "nome": "CLARO POS PLAY_SEM PROMOCAO - 79166",
+                "codigo_operadora": "79166",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 1,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17826,
+                  "promocao_id": 194
+                }
+              },
+              {
+                "id": 195,
+                "nome": "CLARO POS PLAY_c\/Whats e s\/Apar - 79226",
+                "codigo_operadora": "79226",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17826,
+                  "promocao_id": 195
+                }
+              },
+              {
+                "id": 196,
+                "nome": "CLARO POS PLAY_c\/Whats e c\/Apar - 79226",
+                "codigo_operadora": "792261",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 1,
+                "fidelidade": 12,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17826,
+                  "promocao_id": 196
+                }
+              },
+              {
+                "id": 244,
+                "nome": "CLARO POS PLAY_SEM PROMOCAO - 79166",
+                "codigo_operadora": "79166",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "MIGRACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17826,
+                  "promocao_id": 244
+                }
+              },
+              {
+                "id": 245,
+                "nome": "CLARO POS PLAY_c\/Whats e s\/Apar - 79226",
+                "codigo_operadora": "79226",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "MIGRACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17826,
+                  "promocao_id": 245
+                }
+              },
+              {
+                "id": 246,
+                "nome": "CLARO POS PLAY_c\/Whats e c\/Apar - 79226",
+                "codigo_operadora": "79226",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "MIGRACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 1,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17826,
+                  "promocao_id": 246
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "nome": "CLARO_POS_10GB_2018",
+        "label": "Claro P\u00f3s 10GB 2018",
+        "codigo_operadora": "19326",
+        "plano_tipo_id": 4,
+        "ativo": 1,
+        "descricao": "Claro P\u00f3s 10GB 2018 - 19326",
+        "created_at": "2018-10-30 14:55:29",
+        "updated_at": "2018-11-30 12:59:36",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": 2,
+        "plan_type": {
+          "id": 4,
+          "label": "P\u00f3s Pago",
+          "nome": "POS_PAGO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 15446,
+            "ddd": 11,
+            "plano_id": 62,
+            "valor": "139.99",
+            "ativo": 1,
+            "created_at": "2018-11-30 12:59:36",
+            "updated_at": "2018-11-30 12:59:36",
+            "promotions": [
+              {
+                "id": 199,
+                "nome": "CLARO POS PLAY_SEM PROMOCAO - 79169",
+                "codigo_operadora": "79169",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 1,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 15446,
+                  "promocao_id": 199
+                }
+              },
+              {
+                "id": 200,
+                "nome": "CLARO POS PLAY_c\/Whats e s\/Apar - 79229",
+                "codigo_operadora": "79229",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 1,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 15446,
+                  "promocao_id": 200
+                }
+              },
+              {
+                "id": 201,
+                "nome": "CLARO POS PLAY_c\/Whats e c\/Apar - 79229",
+                "codigo_operadora": "79229",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 1,
+                "fidelidade": 12,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 15446,
+                  "promocao_id": 201
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "nome": "CLARO_POS_15GB_2018",
+        "label": "Claro P\u00f3s 15GB 2018",
+        "codigo_operadora": "19333",
+        "plano_tipo_id": 4,
+        "ativo": 1,
+        "descricao": "Claro P\u00f3s 15GB 2018 - 19333",
+        "created_at": "2018-11-01 17:52:23",
+        "updated_at": "2018-11-30 12:57:13",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": 3,
+        "plan_type": {
+          "id": 4,
+          "label": "P\u00f3s Pago",
+          "nome": "POS_PAGO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 15312,
+            "ddd": 11,
+            "plano_id": 63,
+            "valor": "179.99",
+            "ativo": 1,
+            "created_at": "2018-11-30 12:57:13",
+            "updated_at": "2018-11-30 12:57:13",
+            "promotions": [
+              {
+                "id": 204,
+                "nome": "CLARO POS PLAY_SEM PROMOCAO - 79172",
+                "codigo_operadora": "79172",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 1,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 15312,
+                  "promocao_id": 204
+                }
+              },
+              {
+                "id": 205,
+                "nome": "CLARO POS PLAY_c\/Whats e s\/Apar - 79232",
+                "codigo_operadora": "79232",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 1,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 15312,
+                  "promocao_id": 205
+                }
+              },
+              {
+                "id": 206,
+                "nome": "CLARO POS PLAY_c\/Whats e c\/Apar - 79232",
+                "codigo_operadora": "79232",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 1,
+                "fidelidade": 12,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 15312,
+                  "promocao_id": 206
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "nome": "CLARO_POS_30GB_2018",
+        "label": "Claro P\u00f3s 30GB 2018",
+        "codigo_operadora": "19338",
+        "plano_tipo_id": 4,
+        "ativo": 1,
+        "descricao": "Claro P\u00f3s 30GB 2018 - 19338",
+        "created_at": "2018-11-09 17:39:15",
+        "updated_at": "2018-11-30 12:55:16",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": 4,
+        "plan_type": {
+          "id": 4,
+          "label": "P\u00f3s Pago",
+          "nome": "POS_PAGO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 15245,
+            "ddd": 11,
+            "plano_id": 64,
+            "valor": "259.99",
+            "ativo": 1,
+            "created_at": "2018-11-30 12:55:16",
+            "updated_at": "2018-11-30 12:55:16",
+            "promotions": [
+              {
+                "id": 209,
+                "nome": "CLARO POS PLAY_SEM PROMOCAO - 79175",
+                "codigo_operadora": "79175",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 1,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 15245,
+                  "promocao_id": 209
+                }
+              },
+              {
+                "id": 210,
+                "nome": "CLARO POS PLAY_c\/Whats e s\/Apar - 79235",
+                "codigo_operadora": "79235",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 1,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 15245,
+                  "promocao_id": 210
+                }
+              },
+              {
+                "id": 211,
+                "nome": "CLARO POS PLAY_c\/Whats e c\/Apar - 79235",
+                "codigo_operadora": "79235",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 1,
+                "fidelidade": 12,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 15245,
+                  "promocao_id": 211
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "nome": "CLARO_POS_60GB_2018",
+        "label": "Claro P\u00f3s 60GB 2018",
+        "codigo_operadora": "19340",
+        "plano_tipo_id": 4,
+        "ativo": 1,
+        "descricao": "Claro P\u00f3s 60GB 2018 - 19340",
+        "created_at": "2018-11-14 09:52:16",
+        "updated_at": "2018-11-30 12:53:33",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": 5,
+        "plan_type": {
+          "id": 4,
+          "label": "P\u00f3s Pago",
+          "nome": "POS_PAGO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 15178,
+            "ddd": 11,
+            "plano_id": 66,
+            "valor": "399.99",
+            "ativo": 1,
+            "created_at": "2018-11-30 12:53:34",
+            "updated_at": "2018-11-30 12:53:34",
+            "promotions": [
+              {
+                "id": 214,
+                "nome": "CLARO POS PLAY_SEM PROMOCAO - 79178",
+                "codigo_operadora": "79178",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 1,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 15178,
+                  "promocao_id": 214
+                }
+              },
+              {
+                "id": 215,
+                "nome": "CLARO POS PLAY_c\/Whats e s\/Apar - 79238",
+                "codigo_operadora": "79238",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 15178,
+                  "promocao_id": 215
+                }
+              },
+              {
+                "id": 216,
+                "nome": "CONTROLE - SEM PROMO\u00c7\u00c3O - 79147",
+                "codigo_operadora": "79147",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 09:00:00",
+                "updated_at": "2018-11-19 09:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 1,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 15178,
+                  "promocao_id": 216
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "nome": "CLARO_CONTROLE_PLAY_3GB_+_MINUTOS_ILIMITADOS",
+        "label": "Claro Controle Play 3GB + Minutos Ilimitados",
+        "codigo_operadora": "19303",
+        "plano_tipo_id": 1,
+        "ativo": 1,
+        "descricao": "Liga\u00e7\u00f5es ilimitadas para qualquer operadora do Brasil, usando 21.",
+        "created_at": "2018-11-16 17:43:35",
+        "updated_at": "2018-11-19 19:51:28",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 1,
+          "label": "Controle Boleto",
+          "nome": "CONTROLE_BOLETO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 13497,
+            "ddd": 11,
+            "plano_id": 67,
+            "valor": "49.99",
+            "ativo": 1,
+            "created_at": "2018-11-19 19:51:28",
+            "updated_at": "2018-11-19 19:51:28",
+            "promotions": [
+              {
+                "id": 192,
+                "nome": "CONTROLE - SEM PROMO\u00c7\u00c3O - 79146",
+                "codigo_operadora": "79146",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 08:35:00",
+                "updated_at": "2018-11-19 08:35:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 1,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 13497,
+                  "promocao_id": 192
+                }
+              },
+              {
+                "id": 226,
+                "nome": "CONTROLE - SEM PROMO\u00c7\u00c3O - 79152",
+                "codigo_operadora": "79152",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 08:35:00",
+                "updated_at": "2018-11-19 08:35:00",
+                "categoria": "MIGRACAO",
+                "plano_tipo_id": 1,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 13497,
+                  "promocao_id": 226
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "nome": "CLARO_CONTROLE_PLAY_4GB_+_MINUTOS_ILIMITADOS",
+        "label": "Claro Controle Play 4GB + Minutos Ilimitados",
+        "codigo_operadora": "19305",
+        "plano_tipo_id": 1,
+        "ativo": 1,
+        "descricao": "Navegar \u00e0 vontade em aplicativos de mobilidade e liga\u00e7\u00f5es ilimitadas para qualquer operadora do Brasil, usando 21.",
+        "created_at": "2018-11-19 09:17:19",
+        "updated_at": "2018-11-30 11:49:04",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 1,
+          "label": "Controle Boleto",
+          "nome": "CONTROLE_BOLETO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 14709,
+            "ddd": 11,
+            "plano_id": 68,
+            "valor": "59.99",
+            "ativo": 1,
+            "created_at": "2018-11-30 11:49:04",
+            "updated_at": "2018-11-30 11:49:04",
+            "promotions": [
+              {
+                "id": 220,
+                "nome": "CONTROLE PLAY 4GB C\/ FIDELIDADE - 79433",
+                "codigo_operadora": "79433",
+                "ativo": 1,
+                "valor": "-10.00",
+                "created_at": "2018-11-19 08:35:00",
+                "updated_at": "2018-11-19 08:35:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 1,
+                "requer_aparelho": 0,
+                "fidelidade": 12,
+                "multa": "120.00",
+                "pivot": {
+                  "plano_ddd_id": 14709,
+                  "promocao_id": 220
+                }
+              },
+              {
+                "id": 221,
+                "nome": "CONTROLE - SEM PROMO\u00c7\u00c3O - 79147",
+                "codigo_operadora": "79147",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 08:35:00",
+                "updated_at": "2018-11-19 08:35:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 1,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 14709,
+                  "promocao_id": 221
+                }
+              },
+              {
+                "id": 226,
+                "nome": "CONTROLE - SEM PROMO\u00c7\u00c3O - 79152",
+                "codigo_operadora": "79152",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 08:35:00",
+                "updated_at": "2018-11-19 08:35:00",
+                "categoria": "MIGRACAO",
+                "plano_tipo_id": 1,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 14709,
+                  "promocao_id": 226
+                }
+              },
+              {
+                "id": 241,
+                "nome": "CONTROLE PLAY 4GB C\/ FIDELIDADE - 80308",
+                "codigo_operadora": "80308",
+                "ativo": 1,
+                "valor": "-10.00",
+                "created_at": "2018-11-27 00:00:00",
+                "updated_at": "2018-11-27 00:00:00",
+                "categoria": "MIGRACAO",
+                "plano_tipo_id": 1,
+                "requer_aparelho": 0,
+                "fidelidade": 12,
+                "multa": "120.00",
+                "pivot": {
+                  "plano_ddd_id": 14709,
+                  "promocao_id": 241
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "nome": "CLARO_CONTROLE_PLAY_5_GB_+_MINUTOS_ILIMITADOS",
+        "label": "Claro Controle Play 5 GB + Minutos Ilimitados",
+        "codigo_operadora": "19306",
+        "plano_tipo_id": 1,
+        "ativo": 1,
+        "descricao": "Navegar \u00e0 vontade em aplicativos de mobilidade e redes sociais e liga\u00e7\u00f5es ilimitadas para qualquer operadora do Brasil, usando 21.",
+        "created_at": "2018-11-19 09:22:44",
+        "updated_at": "2018-11-30 11:45:18",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 1,
+          "label": "Controle Boleto",
+          "nome": "CONTROLE_BOLETO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 14575,
+            "ddd": 11,
+            "plano_id": 69,
+            "valor": "79.99",
+            "ativo": 1,
+            "created_at": "2018-11-30 11:45:18",
+            "updated_at": "2018-11-30 11:45:18",
+            "promotions": [
+              {
+                "id": 224,
+                "nome": "CONTROLE PLAY 5GB C\/ FIDELIDADE - 79436",
+                "codigo_operadora": "79436",
+                "ativo": 1,
+                "valor": "-15.00",
+                "created_at": "2018-11-19 08:35:00",
+                "updated_at": "2018-11-19 08:35:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 1,
+                "requer_aparelho": 0,
+                "fidelidade": 12,
+                "multa": "180.00",
+                "pivot": {
+                  "plano_ddd_id": 14575,
+                  "promocao_id": 224
+                }
+              },
+              {
+                "id": 225,
+                "nome": "CONTROLE - SEM PROMO\u00c7\u00c3O - 79148",
+                "codigo_operadora": "79148",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 08:35:00",
+                "updated_at": "2018-11-19 08:35:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 1,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 14575,
+                  "promocao_id": 225
+                }
+              },
+              {
+                "id": 226,
+                "nome": "CONTROLE - SEM PROMO\u00c7\u00c3O - 79152",
+                "codigo_operadora": "79152",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 08:35:00",
+                "updated_at": "2018-11-19 08:35:00",
+                "categoria": "MIGRACAO",
+                "plano_tipo_id": 1,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 14575,
+                  "promocao_id": 226
+                }
+              },
+              {
+                "id": 240,
+                "nome": "CONTROLE PLAY 5GB C\/ FIDELIDADE - 80309",
+                "codigo_operadora": "80309",
+                "ativo": 1,
+                "valor": "-15.00",
+                "created_at": "2018-11-27 00:00:00",
+                "updated_at": "2018-11-27 00:00:00",
+                "categoria": "MIGRACAO",
+                "plano_tipo_id": 1,
+                "requer_aparelho": 0,
+                "fidelidade": 12,
+                "multa": "180.00",
+                "pivot": {
+                  "plano_ddd_id": 14575,
+                  "promocao_id": 240
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "nome": "CLARO_CONTROLE_PLAY_3GB_+_MINUTOS_ILIMITADOS",
+        "label": "Claro Controle Play 3GB + Minutos Ilimitados",
+        "codigo_operadora": "19303",
+        "plano_tipo_id": 8,
+        "ativo": 1,
+        "descricao": "Claro Controle Play 3GB + Minutos Ilimitados - 19303",
+        "created_at": "2018-11-19 09:50:06",
+        "updated_at": "2018-11-19 19:35:47",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 8,
+          "label": "Controle",
+          "nome": "CONTROLE",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": null,
+          "updated_at": null
+        },
+        "plans_area_code": [
+          {
+            "id": 13296,
+            "ddd": 11,
+            "plano_id": 70,
+            "valor": "49.99",
+            "ativo": 1,
+            "created_at": "2018-11-19 19:35:47",
+            "updated_at": "2018-11-19 19:35:47",
+            "promotions": [
+              {
+                "id": 231,
+                "nome": "Dependente_BL_CONTROLE_PLAY (3.0) - 79528",
+                "codigo_operadora": "79528",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 10:00:00",
+                "updated_at": "2018-11-19 10:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 8,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 13296,
+                  "promocao_id": 231
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "nome": "CLARO_CONTROLE_PLAY_4GB_+_MINUTOS_ILIMITADOS",
+        "label": "Claro Controle Play 4GB + Minutos Ilimitados",
+        "codigo_operadora": "19305",
+        "plano_tipo_id": 8,
+        "ativo": 1,
+        "descricao": "Claro Controle Play 4GB + Minutos Ilimitados - 19305",
+        "created_at": "2018-11-19 09:51:04",
+        "updated_at": "2018-11-19 19:33:49",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 8,
+          "label": "Controle",
+          "nome": "CONTROLE",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": null,
+          "updated_at": null
+        },
+        "plans_area_code": [
+          {
+            "id": 13229,
+            "ddd": 11,
+            "plano_id": 71,
+            "valor": "59.99",
+            "ativo": 1,
+            "created_at": "2018-11-19 19:33:49",
+            "updated_at": "2018-11-19 19:33:49",
+            "promotions": [
+              {
+                "id": 232,
+                "nome": "Dependente_BL_CONTROLE_PLAY (4.0) - 79532",
+                "codigo_operadora": "79532",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 10:00:00",
+                "updated_at": "2018-11-19 10:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 8,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 13229,
+                  "promocao_id": 232
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "nome": "CLARO_CONTROLE_PLAY_5_GB_+_MINUTOS_ILIMITADOS",
+        "label": "Claro Controle Play 5 GB + Minutos Ilimitados",
+        "codigo_operadora": "19306",
+        "plano_tipo_id": 8,
+        "ativo": 1,
+        "descricao": "Claro Controle Play 5 GB + Minutos Ilimitados - 19306",
+        "created_at": "2018-11-19 09:51:59",
+        "updated_at": "2018-11-19 19:32:01",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 8,
+          "label": "Controle",
+          "nome": "CONTROLE",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": null,
+          "updated_at": null
+        },
+        "plans_area_code": [
+          {
+            "id": 13162,
+            "ddd": 11,
+            "plano_id": 72,
+            "valor": "79.99",
+            "ativo": 1,
+            "created_at": "2018-11-19 19:32:01",
+            "updated_at": "2018-11-19 19:32:01",
+            "promotions": [
+              {
+                "id": 233,
+                "nome": "Dependente_BL_CONTROLE_PLAY (5.0) - 79536",
+                "codigo_operadora": "79536",
+                "ativo": 1,
+                "valor": "-15.00",
+                "created_at": "2018-11-19 10:00:00",
+                "updated_at": "2018-11-19 10:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 8,
+                "requer_aparelho": 0,
+                "fidelidade": 1,
+                "multa": "180.00",
+                "pivot": {
+                  "plano_ddd_id": 13162,
+                  "promocao_id": 233
+                }
+              },
+              {
+                "id": 234,
+                "nome": "CONTROLE - Sem Promo\u00e7\u00e3o",
+                "codigo_operadora": "79161",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-11-19 10:00:00",
+                "updated_at": "2018-11-19 10:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 8,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 13162,
+                  "promocao_id": 234
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "nome": "CLARO_INTERNET_MAIS_40GB_+_NOITES_EM_CLARO",
+        "label": "Claro Internet Mais 40GB + Noites em Claro",
+        "codigo_operadora": "19345",
+        "plano_tipo_id": 9,
+        "ativo": 1,
+        "descricao": "Claro Internet Mais 40GB + Noites em Claro - 19345",
+        "created_at": "2018-11-30 15:33:50",
+        "updated_at": "2018-12-06 10:51:23",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 9,
+          "label": "Banda Larga",
+          "nome": "BANDA_LARGA",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2018-11-27 12:00:00",
+          "updated_at": "2018-11-27 12:00:00"
+        },
+        "plans_area_code": [
+          {
+            "id": 17384,
+            "ddd": 11,
+            "plano_id": 75,
+            "valor": "109.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:51:23",
+            "updated_at": "2018-12-06 10:51:23",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17384,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "nome": "CLARO_INTERNET_MAIS_20GB_+_NOITES_EM_CLARO",
+        "label": "Claro Internet Mais 20GB + Noites em Claro",
+        "codigo_operadora": "19344",
+        "plano_tipo_id": 9,
+        "ativo": 1,
+        "descricao": "Claro Internet Mais 20GB + Noites em Claro - 19344",
+        "created_at": "2018-11-30 15:40:44",
+        "updated_at": "2018-12-06 10:29:51",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 9,
+          "label": "Banda Larga",
+          "nome": "BANDA_LARGA",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2018-11-27 12:00:00",
+          "updated_at": "2018-11-27 12:00:00"
+        },
+        "plans_area_code": [
+          {
+            "id": 17250,
+            "ddd": 11,
+            "plano_id": 76,
+            "valor": "89.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:29:51",
+            "updated_at": "2018-12-06 10:29:51",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17250,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "nome": "CLARO_INTERNET_MAIS_120GB_+_NOITES_EM_CLARO",
+        "label": "Claro Internet Mais 120GB + Noites em Claro",
+        "codigo_operadora": "19346",
+        "plano_tipo_id": 9,
+        "ativo": 1,
+        "descricao": "Claro Internet Mais 120GB + Noites em Claro - 19346",
+        "created_at": "2018-11-30 15:43:19",
+        "updated_at": "2018-12-06 10:28:59",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal",
+          "DEBITO_AUTOMATICO": "D\u00e9bito Autom\u00e1tico"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 9,
+          "label": "Banda Larga",
+          "nome": "BANDA_LARGA",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2018-11-27 12:00:00",
+          "updated_at": "2018-11-27 12:00:00"
+        },
+        "plans_area_code": [
+          {
+            "id": 17183,
+            "ddd": 11,
+            "plano_id": 77,
+            "valor": "129.98",
+            "ativo": 1,
+            "created_at": "2018-12-06 10:28:59",
+            "updated_at": "2018-12-06 10:28:59",
+            "promotions": [
+              {
+                "id": 242,
+                "nome": "Claro Internet Mais - 79726",
+                "codigo_operadora": "79726",
+                "ativo": 1,
+                "valor": "0.00",
+                "created_at": "2018-12-05 00:00:00",
+                "updated_at": "2018-12-05 00:00:00",
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 9,
+                "requer_aparelho": 0,
+                "fidelidade": 0,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17183,
+                  "promocao_id": 242
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 89,
+        "nome": "CLARO_CONTROLE_25GB1549391750604",
+        "label": "Claro Controle 25GB1549391750604",
+        "codigo_operadora": "1562",
+        "plano_tipo_id": 4,
+        "ativo": 1,
+        "descricao": "Teste",
+        "created_at": "2019-02-05 16:36:19",
+        "updated_at": "2019-02-05 16:36:19",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 4,
+          "label": "P\u00f3s Pago",
+          "nome": "POS_PAGO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 17943,
+            "ddd": 11,
+            "plano_id": 89,
+            "valor": "255.00",
+            "ativo": 1,
+            "created_at": "2019-02-05 16:36:19",
+            "updated_at": "2019-02-05 16:36:19",
+            "promotions": [
+              {
+                "id": 20,
+                "nome": "CLAROPOSMAIS c\/Whats e s\/Apar - 73796",
+                "codigo_operadora": "73796",
+                "ativo": 1,
+                "valor": "-10.00",
+                "created_at": null,
+                "updated_at": null,
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 12,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17943,
+                  "promocao_id": 20
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "nome": "CLARO_CONTROLE_25GB1549392311823",
+        "label": "Claro Controle 25GB1549392311823",
+        "codigo_operadora": "1562",
+        "plano_tipo_id": 3,
+        "ativo": 1,
+        "descricao": "Teste",
+        "created_at": "2019-02-05 16:45:40",
+        "updated_at": "2019-02-05 16:45:40",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 3,
+          "label": "Produtos Residenciais",
+          "nome": "PRODUTO_RESIDENCIAL",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 17955,
+            "ddd": 11,
+            "plano_id": 90,
+            "valor": "255.00",
+            "ativo": 1,
+            "created_at": "2019-02-05 16:45:40",
+            "updated_at": "2019-02-05 16:45:40",
+            "promotions": []
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "nome": "CLARO_CONTROLE_25GB1549392312341",
+        "label": "Claro Controle 25GB1549392312341",
+        "codigo_operadora": "1562",
+        "plano_tipo_id": 4,
+        "ativo": 1,
+        "descricao": "Teste",
+        "created_at": "2019-02-05 16:45:41",
+        "updated_at": "2019-02-05 16:45:41",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 4,
+          "label": "P\u00f3s Pago",
+          "nome": "POS_PAGO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 17968,
+            "ddd": 11,
+            "plano_id": 91,
+            "valor": "255.00",
+            "ativo": 1,
+            "created_at": "2019-02-05 16:45:41",
+            "updated_at": "2019-02-05 16:45:41",
+            "promotions": [
+              {
+                "id": 20,
+                "nome": "CLAROPOSMAIS c\/Whats e s\/Apar - 73796",
+                "codigo_operadora": "73796",
+                "ativo": 1,
+                "valor": "-10.00",
+                "created_at": null,
+                "updated_at": null,
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 12,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17968,
+                  "promocao_id": 20
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 92,
+        "nome": "CLARO_CONTROLE_25GB1549473611901",
+        "label": "Claro Controle 25GB1549473611901",
+        "codigo_operadora": "1562",
+        "plano_tipo_id": 3,
+        "ativo": 1,
+        "descricao": "Teste",
+        "created_at": "2019-02-06 15:20:39",
+        "updated_at": "2019-02-06 15:20:39",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 3,
+          "label": "Produtos Residenciais",
+          "nome": "PRODUTO_RESIDENCIAL",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 17980,
+            "ddd": 11,
+            "plano_id": 92,
+            "valor": "255.00",
+            "ativo": 1,
+            "created_at": "2019-02-06 15:20:39",
+            "updated_at": "2019-02-06 15:20:39",
+            "promotions": []
+          }
+        ]
+      },
+      {
+        "id": 93,
+        "nome": "CLARO_CONTROLE_25GB1549473612947",
+        "label": "Claro Controle 25GB1549473612947",
+        "codigo_operadora": "1562",
+        "plano_tipo_id": 4,
+        "ativo": 1,
+        "descricao": "Teste",
+        "created_at": "2019-02-06 15:20:41",
+        "updated_at": "2019-02-06 15:20:41",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 4,
+          "label": "P\u00f3s Pago",
+          "nome": "POS_PAGO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 17993,
+            "ddd": 11,
+            "plano_id": 93,
+            "valor": "255.00",
+            "ativo": 1,
+            "created_at": "2019-02-06 15:20:41",
+            "updated_at": "2019-02-06 15:20:41",
+            "promotions": [
+              {
+                "id": 20,
+                "nome": "CLAROPOSMAIS c\/Whats e s\/Apar - 73796",
+                "codigo_operadora": "73796",
+                "ativo": 1,
+                "valor": "-10.00",
+                "created_at": null,
+                "updated_at": null,
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 12,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 17993,
+                  "promocao_id": 20
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 94,
+        "nome": "CLARO_CONTROLE_25GB1551120799070",
+        "label": "Claro Controle 25GB1551120799070",
+        "codigo_operadora": "1562",
+        "plano_tipo_id": 3,
+        "ativo": 1,
+        "descricao": "Teste",
+        "created_at": "2019-02-25 15:53:46",
+        "updated_at": "2019-02-25 15:53:46",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 3,
+          "label": "Produtos Residenciais",
+          "nome": "PRODUTO_RESIDENCIAL",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 18005,
+            "ddd": 11,
+            "plano_id": 94,
+            "valor": "255.00",
+            "ativo": 1,
+            "created_at": "2019-02-25 15:53:46",
+            "updated_at": "2019-02-25 15:53:46",
+            "promotions": []
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "nome": "CLARO_CONTROLE_25GB1551120800056",
+        "label": "Claro Controle 25GB1551120800056",
+        "codigo_operadora": "1562",
+        "plano_tipo_id": 4,
+        "ativo": 1,
+        "descricao": "Teste",
+        "created_at": "2019-02-25 15:53:48",
+        "updated_at": "2019-02-25 15:53:48",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 4,
+          "label": "P\u00f3s Pago",
+          "nome": "POS_PAGO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 18018,
+            "ddd": 11,
+            "plano_id": 95,
+            "valor": "255.00",
+            "ativo": 1,
+            "created_at": "2019-02-25 15:53:48",
+            "updated_at": "2019-02-25 15:53:48",
+            "promotions": [
+              {
+                "id": 20,
+                "nome": "CLAROPOSMAIS c\/Whats e s\/Apar - 73796",
+                "codigo_operadora": "73796",
+                "ativo": 1,
+                "valor": "-10.00",
+                "created_at": null,
+                "updated_at": null,
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 12,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 18018,
+                  "promocao_id": 20
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "nome": "CLARO_CONTROLE_25GB1551359599862",
+        "label": "Claro Controle 25GB1551359599862",
+        "codigo_operadora": "1562",
+        "plano_tipo_id": 3,
+        "ativo": 1,
+        "descricao": "Teste",
+        "created_at": "2019-02-28 10:13:47",
+        "updated_at": "2019-02-28 10:13:47",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 3,
+          "label": "Produtos Residenciais",
+          "nome": "PRODUTO_RESIDENCIAL",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 18030,
+            "ddd": 11,
+            "plano_id": 96,
+            "valor": "255.00",
+            "ativo": 1,
+            "created_at": "2019-02-28 10:13:47",
+            "updated_at": "2019-02-28 10:13:47",
+            "promotions": []
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "nome": "CLARO_CONTROLE_25GB1551359599136",
+        "label": "Claro Controle 25GB1551359599136",
+        "codigo_operadora": "1562",
+        "plano_tipo_id": 4,
+        "ativo": 1,
+        "descricao": "Teste",
+        "created_at": "2019-02-28 10:13:48",
+        "updated_at": "2019-02-28 10:13:48",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 4,
+          "label": "P\u00f3s Pago",
+          "nome": "POS_PAGO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 18043,
+            "ddd": 11,
+            "plano_id": 97,
+            "valor": "255.00",
+            "ativo": 1,
+            "created_at": "2019-02-28 10:13:48",
+            "updated_at": "2019-02-28 10:13:48",
+            "promotions": [
+              {
+                "id": 20,
+                "nome": "CLAROPOSMAIS c\/Whats e s\/Apar - 73796",
+                "codigo_operadora": "73796",
+                "ativo": 1,
+                "valor": "-10.00",
+                "created_at": null,
+                "updated_at": null,
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 12,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 18043,
+                  "promocao_id": 20
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 98,
+        "nome": "CLARO_CONTROLE_25GB1551897489983",
+        "label": "Claro Controle 25GB1551897489983",
+        "codigo_operadora": "1562",
+        "plano_tipo_id": 3,
+        "ativo": 1,
+        "descricao": "Teste",
+        "created_at": "2019-03-06 15:38:37",
+        "updated_at": "2019-03-06 15:38:37",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 3,
+          "label": "Produtos Residenciais",
+          "nome": "PRODUTO_RESIDENCIAL",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 18055,
+            "ddd": 11,
+            "plano_id": 98,
+            "valor": "255.00",
+            "ativo": 1,
+            "created_at": "2019-03-06 15:38:37",
+            "updated_at": "2019-03-06 15:38:37",
+            "promotions": []
+          }
+        ]
+      },
+      {
+        "id": 99,
+        "nome": "CLARO_CONTROLE_25GB1551897491020",
+        "label": "Claro Controle 25GB1551897491020",
+        "codigo_operadora": "1562",
+        "plano_tipo_id": 4,
+        "ativo": 1,
+        "descricao": "Teste",
+        "created_at": "2019-03-06 15:38:39",
+        "updated_at": "2019-03-06 15:38:39",
+        "pontuacao": 0,
+        "faturas": {
+          "EMAIL": "Email",
+          "VIA_POSTAL": "Via Postal"
+        },
+        "numero_dependentes": null,
+        "plan_type": {
+          "id": 4,
+          "label": "P\u00f3s Pago",
+          "nome": "POS_PAGO",
+          "ativo": 1,
+          "operadora_id": 1,
+          "created_at": "2017-04-20 20:38:53",
+          "updated_at": "2017-04-20 20:38:53"
+        },
+        "plans_area_code": [
+          {
+            "id": 18068,
+            "ddd": 11,
+            "plano_id": 99,
+            "valor": "255.00",
+            "ativo": 1,
+            "created_at": "2019-03-06 15:38:39",
+            "updated_at": "2019-03-06 15:38:39",
+            "promotions": [
+              {
+                "id": 20,
+                "nome": "CLAROPOSMAIS c\/Whats e s\/Apar - 73796",
+                "codigo_operadora": "73796",
+                "ativo": 1,
+                "valor": "-10.00",
+                "created_at": null,
+                "updated_at": null,
+                "categoria": "ATIVACAO",
+                "plano_tipo_id": 4,
+                "requer_aparelho": 0,
+                "fidelidade": 12,
+                "multa": "0.00",
+                "pivot": {
+                  "plano_ddd_id": 18068,
+                  "promocao_id": 20
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "from": 1,
+    "last_page": 1,
+    "next_page_url": null,
+    "path": "https:\/\/api-hml.tradeapp.com.br\/plano",
+    "per_page": "10000000000",
+    "prev_page_url": null,
+    "to": 32,
+    "total": 32
+  }
+}

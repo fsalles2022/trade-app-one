@@ -1,0 +1,17 @@
+{
+  "percentage": 0.07,
+  "liquid": 89.23,
+  "iof": 6.59,
+  "total": 95.82,
+  "price": 95.82,
+  "validity": {
+    "start": "2020-11-02",
+    "end": "2022-11-02"
+  },
+  "representative": {
+    "remuneration": 52.65,
+    "percentage": 59,
+    "panoramic_remuneration": 0.89,
+    "panoramic_percentage": 1
+  }
+}

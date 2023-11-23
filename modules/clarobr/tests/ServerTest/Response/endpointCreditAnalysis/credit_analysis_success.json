@@ -1,0 +1,69 @@
+{
+  "type": "success",
+  "message": "Analise de Cr\u00e9dito realizado com sucesso",
+  "data": {
+    "credit": 3000,
+    "products": [{
+      "phone": "21966070361",
+      "type": "POS_PAGO",
+      "status": "ATIVO"
+    }, {
+      "phone": "12991859439",
+      "type": "CONTROLE",
+      "status": "ATIVO"
+    }, {
+      "phone": "31982955631",
+      "type": "PRE_PAGO",
+      "status": "ATIVO"
+    }, {
+      "phone": "82993574583",
+      "type": "PRE_PAGO",
+      "status": "ATIVO"
+    }, {
+      "phone": "12991098193",
+      "type": "PRE_PAGO",
+      "status": "ATIVO"
+    }, {
+      "phone": "32984964136",
+      "type": "PRE_PAGO",
+      "status": "ATIVO"
+    }, {
+      "phone": "62991811902",
+      "type": "PRE_PAGO",
+      "status": "ATIVO"
+    }, {
+      "phone": "32984549661",
+      "type": "PRE_PAGO",
+      "status": "ATIVO"
+    }, {
+      "phone": "85991912368",
+      "type": "PRE_PAGO",
+      "status": "ATIVO"
+    }, {
+      "phone": "62993677169",
+      "type": "PRE_PAGO",
+      "status": "ATIVO"
+    }, {
+      "phone": "32984521945",
+      "type": "PRE_PAGO",
+      "status": "ATIVO"
+    }, {
+      "phone": "51993239911",
+      "type": "PRE_PAGO",
+      "status": "ATIVO"
+    }],
+    "customer": {
+      "cidade_ibge": "5002704",
+      "cidade_ddd": "11",
+      "uf_ibge": "SP",
+      "cpf": "00000001082",
+      "data_nascimento": "1998-02-01",
+      "nome": "Pedro Paulo",
+      "cep": "06160180",
+      "marital_status": null,
+      "occupation": null,
+      "salary_range": null
+    },
+    "anti_fraud": []
+  }
+}

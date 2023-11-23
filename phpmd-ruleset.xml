@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<ruleset name="teranex PMD ruleset" xmlns="http://pmd.sf.net/ruleset/1.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://pmd.sf.net/ruleset/1.0.0 http://pmd.sf.net/ruleset_xml_schema.xsd"
+         xsi:noNamespaceSchemaLocation=" http://pmd.sf.net/ruleset_xml_schema.xsd">
+    <description>PMD ruleset</description>
+
+    <!-- ************************************************************************** -->
+    <!-- =============================  Clean Code Rules ========================== -->
+    <!-- =================== https://phpmd.org/rules/cleancode.html =============== -->
+    <!-- ************************************************************************** -->
+
+    <rule ref="rulesets/cleancode.xml">
+        <exclude name="StaticAccess"/>
+        <exclude name="ElseExpression"/>
+        <exclude name="BooleanArgumentFlag"/>
+    </rule>
+
+    <!-- ************************************************************************** -->
+    <!-- =============================  Code Size Rules =========================== -->
+    <!-- ==================== https://phpmd.org/rules/codesize.html =============== -->
+    <!-- ************************************************************************** -->
+
+    <rule ref="rulesets/codesize.xml/TooManyPublicMethods">
+        <properties>
+            <property name="maxmethods" value="14"/>
+        </properties>
+    </rule>
+
+    <rule ref="rulesets/codesize.xml/ExcessiveMethodLength">
+        <properties>
+            <property name="minimum" value="61"/>
+        </properties>
+    </rule>
+
+    <rule ref="rulesets/codesize.xml">
+        <exclude name="TooManyPublicMethods"/>
+        <exclude name="ExcessiveMethodLength"/>
+    </rule>
+
+    <!-- ************************************************************************** -->
+    <!-- =============================  Design Rules  ============================= -->
+    <!-- ==================== https://phpmd.org/rules/design.html ================= -->
+    <!-- ************************************************************************** -->
+
+    <rule ref="rulesets/design.xml"/>
+
+    <!-- ************************************************************************** -->
+    <!-- =============================  Naming Rules  ============================= -->
+    <!-- ================= https://phpmd.org/rules/naming.html ==================== -->
+    <!-- ************************************************************************** -->
+
+    <rule ref="rulesets/naming.xml/LongVariable">
+        <properties>
+            <property name="maximum" value="35"/>
+        </properties>
+    </rule>
+
+    <rule ref="rulesets/naming.xml">
+        <exclude name="LongVariable"/>
+        <exclude name="ShortVariable"/>
+    </rule>
+
+    <!-- ************************************************************************** -->
+    <!-- ========================  Unused Code Rules  ============================= -->
+    <!-- ================== https://phpmd.org/rules/unusedcode.html =============== -->
+    <!-- ************************************************************************** -->
+
+    <rule ref="rulesets/unusedcode.xml/UnusedLocalVariable">
+        <properties>
+            <property name="allow-unused-foreach-variables" value="true"/>
+        </properties>
+    </rule>
+
+    <rule ref="rulesets/unusedcode.xml">
+        <exclude name="UnusedLocalVariable"/>
+        <exclude name="UnusedFormalParameter"/>
+    </rule>
+
+    <!-- ************************************************************************** -->
+    <!-- ==========================  Exclude Pattern  ============================= -->
+    <!-- ************************************************************************** -->
+
+    <exclude-pattern>/app/Exceptions/BusinessExceptions/BusinessRuleExceptions.php</exclude-pattern>
+    <exclude-pattern>app/Http/Controllers/Controller.php</exclude-pattern>
+    <exclude-pattern>app/Http/Controllers/SaleController.php</exclude-pattern>
+    <exclude-pattern>modules/reports/Connection/ElasticsearchQueryBuilder.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Rules/CnpjValidationRule.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Components/Elasticsearch/ElasticsearchAggregationStructure.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Components/Helpers/Blowfish/DefaultKey.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Factories/ServicesFactory.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Services/UserService.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Logging/Heimdall/HeimdallConcret.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Importables/ImportableFactory.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Repositories/Filters/SalesFilter.php</exclude-pattern>
+    <exclude-pattern>app/Http/Requests/FormRequestAbstract.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Enumerators/Permissions/BasePermission.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Services/SaleService.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Importables/ValidateProviderToImport.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Models/Tables/BaseModel.php</exclude-pattern>
+    <exclude-pattern>app/Policies/NetworkPolicy.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Models/Tables/User.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Services/AuthService.php</exclude-pattern>
+    <exclude-pattern>app/Console/Kernel.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Models/Tables/Network.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Repositories/Collections/BaseRepository.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Repositories/Collections/SaleRepository.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Services/ServiceService.php</exclude-pattern>
+    <exclude-pattern>modules/buyback/Services/WaybillService.php</exclude-pattern>
+    <exclude-pattern>modules/clarobr/Http/Controllers/SIVController.php</exclude-pattern>
+    <exclude-pattern>modules/clarobr/tests/Unit/Domain/Services/SaleServiceTest.php</exclude-pattern>
+    <exclude-pattern>modules/buyback/Exportables/Sales/BuybackExport.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Repositories/Filters/SaleRepositoryFilter.php</exclude-pattern>
+    <exclude-pattern>app/Http/Controllers/UserController.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Importables/AutomaticRegistrationImportable.php</exclude-pattern>
+    <exclude-pattern>app/Domain/Models/Tables/PointOfSale.php</exclude-pattern>
+    <exclude-pattern>app/Utils/Mailing/BaseMailer.php</exclude-pattern>
+    <exclude-pattern>modules/timbr/tests/ServerTest/TimServerMocked.php</exclude-pattern>
+</ruleset>

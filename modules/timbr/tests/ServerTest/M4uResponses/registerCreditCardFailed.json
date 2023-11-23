@@ -1,0 +1,10 @@
+{
+  "result": {
+    "properties": {},
+    "resultCode": "030",
+    "resultDetailing": "030",
+    "resultHint": "00",
+    "resultMessage": "Cartão inválido",
+    "resultSuccess": false
+  }
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "produto_parceiro_id": "130",
+    "parceiro_id": "32",
+    "produto_id": "34",
+    "nome_prod_parc": "ROUBO E FURTO + QUEBRA - TRADE-UP",
+    "slug": "equipamento",
+    "nome": "ROUBO E FURTO",
+    "parceiro_nome": "GENERALI BRASIL SEGUROS S/A",
+    "parceiro_nome_fantasia": "GENERALI SEGUROS",
+    "venda_carrinho_compras": "1",
+    "venda_multiplo_cartao": "0",
+    "slug_produto": "rf_qa_tradeup",
+    "plans": [
+      {
+        "produto_parceiro_plano_id": "202",
+        "produto_parceiro_id": "130",
+        "nome": "ROUBO E FURTO + QUEBRA - TRADE-UP",
+        "slug_plano": "rf_qa_tradeup",
+        "descricao": "ROUBO E FURTO + QUEBRA - TRADE-UP",
+        "codigo_operadora": "71749",
+        "limite_vigencia": "12",
+        "possui_limite_tempo": "1",
+        "limite_tempo": "1",
+        "unidade_limite_tempo": "MES",
+        "limite_vigencia_unidade": "MES",
+        "valor_premio_bruto": 203
+      }
+    ]
+  },
+  {
+    "produto_parceiro_id": "131",
+    "parceiro_id": "32",
+    "produto_id": "34",
+    "nome_prod_parc": "ROUBO E FURTO - TRADE-UP",
+    "slug": "equipamento",
+    "nome": "ROUBO E FURTO",
+    "parceiro_nome": "GENERALI BRASIL SEGUROS S/A",
+    "parceiro_nome_fantasia": "GENERALI SEGUROS",
+    "venda_carrinho_compras": "1",
+    "venda_multiplo_cartao": "0",
+    "slug_produto": "rf_tradeup",
+    "plans": [
+      {
+        "produto_parceiro_plano_id": "203",
+        "produto_parceiro_id": "131",
+        "nome": "ROUBO E FURTO - TRADE-UP",
+        "slug_plano": "rf_tradeup",
+        "descricao": "ROUBO E FURTO - TRADE-UP",
+        "codigo_operadora": "71748",
+        "limite_vigencia": "12",
+        "possui_limite_tempo": "1",
+        "limite_tempo": "1",
+        "unidade_limite_tempo": "MES",
+        "limite_vigencia_unidade": "MES",
+        "valor_premio_bruto": 150.5
+      }
+    ]
+  },
+  {
+    "produto_parceiro_id": "132",
+    "parceiro_id": "32",
+    "produto_id": "35",
+    "nome_prod_parc": "GARANTIA ESTENDIDA ORIGINAL",
+    "slug": "equipamento",
+    "nome": "GARANTIA ESTENDIDA ORIGINAL",
+    "parceiro_nome": "GENERALI BRASIL SEGUROS S/A",
+    "parceiro_nome_fantasia": "GENERALI SEGUROS",
+    "venda_carrinho_compras": "1",
+    "venda_multiplo_cartao": "0",
+    "slug_produto": "ge_tradeup",
+    "plans": [
+      {
+        "produto_parceiro_plano_id": "204",
+        "produto_parceiro_id": "132",
+        "nome": "GARANTIA ESTENDIDA ORIGINAL",
+        "slug_plano": "ge_tradeup",
+        "descricao": "GARANTIA ESTENDIDA ORIGINAL",
+        "codigo_operadora": "95110",
+        "limite_vigencia": "24",
+        "possui_limite_tempo": "0",
+        "limite_tempo": "0",
+        "unidade_limite_tempo": "",
+        "limite_vigencia_unidade": "MES"
+      },
+      {
+        "produto_parceiro_plano_id": "205",
+        "produto_parceiro_id": "132",
+        "nome": "GARANTIA ESTENDIDA ORIGINAL",
+        "slug_plano": "ge_tradeup",
+        "descricao": "GARANTIA ESTENDIDA ORIGINAL",
+        "codigo_operadora": "95110",
+        "limite_vigencia": "12",
+        "possui_limite_tempo": "0",
+        "limite_tempo": "0",
+        "unidade_limite_tempo": "",
+        "limite_vigencia_unidade": "MES"
+      }
+    ]
+  }
+]

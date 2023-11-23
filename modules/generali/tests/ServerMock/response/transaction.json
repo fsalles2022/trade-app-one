@@ -1,0 +1,80 @@
+{
+  "data": {
+    "payment": {
+      "times": 6,
+      "status": "APPROVED"
+    },
+    "service": {
+      "reference": "202012011358500689-0",
+      "operator": "GENERALI",
+      "operation": "ge_tradeup",
+      "status": "APPROVED",
+      "device": {
+        "imei": "000000000000110",
+        "model": "Gear S2 Classic",
+        "price": 1200
+      },
+      "product": {
+        "id": 132,
+        "label": "GARANTIA ESTENDIDA"
+      },
+      "license": {
+        "customerId": "41390076",
+        "policyId": "71953000000005",
+        "premium": {
+          "total": 95.82,
+          "price": 95.82,
+          "validity": {
+            "start": "2021-01-02",
+            "end": "2023-01-02"
+          }
+        },
+        "date": "2020-12-01T13:58:50-02:00"
+      },
+      "sequence": 5
+    },
+    "customer": {
+      "firstName": "Allie",
+      "lastName": "Koss",
+      "birthday": "1995-06-19",
+      "mainPhone": "+5768256516964",
+      "gender": "M",
+      "document": {
+        "type": "CPF",
+        "number": "94459965933"
+      },
+      "email": "baylee98@example.org",
+      "address": {
+        "number": "462",
+        "zipCode": "69871410",
+        "state": "SP",
+        "city": "New Vincechester",
+        "local": "hy_AM",
+        "neighborhood": "631 Jacynthe Harbors\nColumbusstad, MA 51405"
+      }
+    },
+    "client": {
+      "_id": {
+        "$oid": "5fbfcc1ecf83faa270d4d87f"
+      },
+      "name": "generali",
+      "description": "Shaniya Hahn MD",
+      "xapikey": "12345",
+      "address": {
+        "mode": "ALL"
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1605727397000"
+        }
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1605727397000"
+        }
+      }
+    },
+    "updatedAt": "2020-12-01 13:58:50",
+    "createdAt": "2020-12-01 13:58:50"
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "code": "P00",
+    "msg": "Sucesso",
+    "valueList" : [
+        {
+            "value": "3000",
+            "note" : "Plano 30 Coins"
+        },
+        {
+            "value": "4000",
+            "note" : "Plano 40 Coins"
+        },
+        {
+            "value": "2990",
+            "note" : "Plano 29,90 Coins"
+        },
+        {
+            "value": "3999",
+            "note" : "Plano 39,99 Coins"
+        }
+    ]
+}

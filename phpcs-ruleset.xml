@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset name="phpcs-ruleset">
+
+    <!-- ******************************************************************* -->
+    <!-- ==========================  Generic Sniffs ======================== -->
+    <!-- ******************************************************************* -->
+
+    <!-- ControlStructure -->
+    <rule ref="Generic.ControlStructures.InlineControlStructure"/>
+
+    <!-- Files  -->
+    <rule ref="Generic.Files.LineEndings"/>
+    <rule ref="Generic.Files.LineLength">
+        <properties>
+            <property name="lineLimit" value="100"/>
+            <property name="absoluteLineLimit" value="120"/>
+        </properties>
+    </rule>
+
+    <!-- Formatting -->
+    <rule ref="Generic.Formatting.MultipleStatementAlignment"/>
+    <rule ref="Generic.Formatting.SpaceAfterCast"/>
+    <rule ref="Generic.Formatting.SpaceAfterNot"/>
+
+
+    <rule ref="Generic.Classes.DuplicateClassName"/>
+    <rule ref="Generic.CodeAnalysis.EmptyStatement"/>
+    <rule ref="Generic.CodeAnalysis.ForLoopShouldBeWhileLoop"/>
+    <rule ref="Generic.CodeAnalysis.JumbledIncrementer"/>
+    <rule ref="Generic.CodeAnalysis.UnconditionalIfStatement"/>
+    <rule ref="Generic.CodeAnalysis.UnnecessaryFinalModifier"/>
+    <rule ref="Generic.CodeAnalysis.UnusedFunctionParameter"/>
+    <rule ref="Generic.CodeAnalysis.UselessOverridingMethod"/>
+    <rule ref="Generic.Formatting.DisallowMultipleStatements"/>
+    <rule ref="Generic.Functions.CallTimePassByReference"/>
+    <rule ref="Generic.Metrics.CyclomaticComplexity">
+        <exclude-pattern>modules/timbr/tests/ServerTest/TimServerMocked.php</exclude-pattern>
+    </rule>
+    <rule ref="Generic.Metrics.NestingLevel"/>
+    <rule ref="Generic.NamingConventions.ConstructorName"/>
+    <rule ref="Generic.NamingConventions.UpperCaseConstantName"/>
+    <rule ref="Generic.PHP.DeprecatedFunctions"/>
+    <rule ref="Generic.PHP.DisallowShortOpenTag"/>
+    <rule ref="Generic.PHP.ForbiddenFunctions"/>
+    <rule ref="Generic.PHP.LowerCaseConstant"/>
+    <rule ref="Generic.PHP.NoSilencedErrors"/>
+    <rule ref="Generic.Strings.UnnecessaryStringConcat"/>
+    <rule ref="Generic.WhiteSpace.DisallowTabIndent"/>
+    <rule ref="Generic.WhiteSpace.ScopeIndent"/>
+    <rule ref="Generic.Functions.OpeningFunctionBraceBsdAllman.BraceOnSameLine">
+        <severity>0</severity>
+    </rule>
+
+    <!-- ******************************************************************* -->
+    <!-- ===========================  MySource ============================= -->
+    <!-- ******************************************************************* -->
+
+    <rule ref="MySource.PHP.EvalObjectFactory"/>
+    <rule ref="MySource.PHP.GetRequestData"/>
+
+    <!-- ******************************************************************* -->
+    <!-- =============================  PEAR =============================== -->
+    <!-- ******************************************************************* -->
+
+    <rule ref="PEAR.Functions.FunctionDeclaration"/>
+
+    <!-- ******************************************************************* -->
+    <!-- =============================  PSR1   ============================= -->
+    <!-- ******************************************************************* -->
+
+    <rule ref="PSR1.Classes.ClassDeclaration"/>
+    <rule ref="PSR1.Files.SideEffects"/>
+
+    <!-- ******************************************************************* -->
+    <!-- =============================  PSR2   ============================= -->
+    <!-- ******************************************************************* -->
+
+    <rule ref="PSR2.Classes.ClassDeclaration"/>
+    <rule ref="PSR2.Classes.PropertyDeclaration"/>
+    <rule ref="PSR2.ControlStructures.ControlStructureSpacing"/>
+    <rule ref="PSR2.ControlStructures.ElseIfDeclaration"/>
+    <rule ref="PSR2.ControlStructures.SwitchDeclaration"/>
+    <rule ref="PSR2.Files.EndFileNewline"/>
+    <rule ref="PSR2.Methods.MethodDeclaration"/>
+    <rule ref="PSR2.Namespaces.NamespaceDeclaration"/>
+    <rule ref="PSR2.Namespaces.UseDeclaration"/>
+    <rule ref="PSR2">
+        <exclude name="PSR1.Methods.CamelCapsMethodName"/>
+    </rule>
+    <rule ref="PSR2">
+        <exclude name="PSR1.Classes.ClassDeclaration.MissingNamespace">
+            <exclude-pattern>*/database/*</exclude-pattern>
+            <exclude-pattern>modules/timbr/tests/ServerTest/TimServerMocked.php</exclude-pattern>
+        </exclude>
+    </rule>
+
+    <!-- ******************************************************************* -->
+    <!-- =============================  PSR2   ============================= -->
+    <!-- ******************************************************************* -->
+    <config name="installed_paths" value="../../slevomat/coding-standard"/>
+</ruleset>

@@ -1,0 +1,93 @@
+{
+  "message": "Success",
+  "data": {
+      "payment": {
+          "times": 6,
+          "status": "APPROVED"
+      },
+      "service": {
+          "reference": "202012092157593380-0",
+          "operator": "GENERALI",
+          "operation": "ge_tradeup",
+          "status": "APPROVED",
+          "device": {
+              "imei": "000000000000110",
+              "model": "Gear S2 Classic",
+              "brand": "Samsung",
+              "price": 1200,
+              "date": "2019-11-01T00:00:00-03:00",
+              "warrantyManufacturer": 12
+          },
+          "product": {
+              "id": 132,
+              "slug": "ge_tradeup",
+              "label": "GARANTIA ESTENDIDA ORIGINAL",
+              "plan": {
+                  "id": 204,
+                  "slug": "ge_tradeup",
+                  "label": "GARANTIA ESTENDIDA ORIGINAL",
+                  "validity": 24,
+                  "code": 20501008
+              }
+          },
+          "license": {
+              "customerId": "33541225",
+              "policyId": "71950300200000014",
+              "premium": {
+                  "percentage": 0.07,
+                  "liquid": 89.23,
+                  "iof": 6.59,
+                  "total": 95.82,
+                  "price": 95.82,
+                  "validity": {
+                      "start": "2020-11-02",
+                      "end": "2022-11-02"
+                  },
+                  "representative": {
+                      "remuneration": 52.65,
+                      "percentage": 59,
+                      "panoramic_remuneration": 0.89,
+                      "panoramic_percentage": 1
+                  }
+              },
+              "date": "2020-12-16T15:58:07-02:00"
+          },
+          "sequence": 14
+      },
+      "customer": {
+          "firstName": "Pecheche",
+          "lastName": "Lima",
+          "birthday": "1996-12-17",
+          "mainPhone": "+5511992394324",
+          "gender": "M",
+          "document": {
+              "type": "CPF",
+              "number": "04595002106"
+          },
+          "email": "pecheche@mail.com",
+          "address": {
+              "number": "34",
+              "zipCode": "06465134",
+              "state": "SP",
+              "city": "Barueri",
+              "local": "Rua Bonnard",
+              "neighborhood": "Alphaville Empresarial"
+          }
+      },
+      "client": {
+          "name": "generali",
+          "description": "Shaniya Hahn MD",
+          "updatedAt": "2020-11-18 17:23:17",
+          "createdAt": "2020-11-18 17:23:17"
+      },
+      "pointOfSale": {
+          "slug": "loja-011",
+          "cnpj": "933784510001480",
+          "network": {
+              "slug": "generali"
+          }
+      },
+      "updatedAt": "2020-12-16 15:58:07",
+      "createdAt": "2020-12-16 15:58:07"
+  }
+}

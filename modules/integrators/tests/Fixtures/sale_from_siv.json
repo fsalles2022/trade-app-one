@@ -1,0 +1,98 @@
+{
+  "id": 2735093,
+  "source": "SIV",
+  "total": "0.00",
+  "user": {
+    "id": 18,
+    "role": "role",
+    "nome": "Rafael Algo Sandim",
+    "cpf": "01296802140",
+    "email": "rjsandim@gmail.com"
+  },
+  "services": [
+    {
+      "id": 2664502,
+      "plano_id": 67,
+      "plano_tipo": "PRE_PAGO",
+      "operadora": "CLARO",
+      "tipo_servico": "MIGRACAO",
+      "vencimento": 1,
+      "tipo_fatura": "EMAIL",
+      "setor": "TELECOMMUNICATION",
+      "status": "AGUARDANDO",
+      "valor": "54.99",
+      "plano": "claro_controle_app_3gb_minutos_ilimitados",
+      "contractNumber": "",
+      "ibgeCode": "3505708",
+      "installationDate": "2021-10-13 00:00:00",
+      "customer": {
+        "cpf": "00000001597",
+        "nome": "Flavio Vieira",
+        "data_nascimento": "1970-10-19",
+        "email": "flavio@vieira.com.br",
+        "telefone_principal": "+5511992144884",
+        "telefone_secundario": "+551132144884",
+        "genero": "M",
+        "filiacao": "Darci Lima Sile",
+        "cep": "06454-000",
+        "uf": "SP",
+        "logradouro": "RUA",
+        "cidade": "Barueri",
+        "bairro": "Alphaville Industrial",
+        "numero": "205",
+        "complemento": "teste"
+      }
+    },
+    {
+      "id": 2664502,
+      "plano_id": 67,
+      "plano_tipo": "PRE_PAGO",
+      "operadora": "CLARO",
+      "tipo_servico": "MIGRACAO",
+      "vencimento": 1,
+      "tipo_fatura": "EMAIL",
+      "setor": "TELECOMMUNICATION",
+      "status": "AGUARDANDO",
+      "valor": "54.99",
+      "plano": "claro_controle_app_3gb_minutos_ilimitados",
+      "customer": {
+        "cpf": "00000001597",
+        "nome": "Flavio Vieira",
+        "data_nascimento": "1970-10-19",
+        "email": "flavio@vieira.com.br",
+        "telefone_principal": "+5511992144884",
+        "telefone_secundario": "+551132144884",
+        "genero": "M",
+        "filiacao": "Darci Lima Sile",
+        "cep": "06454-000",
+        "uf": "SP",
+        "logradouro": "RUA",
+        "cidade": "Barueri",
+        "bairro": "Alphaville Industrial",
+        "numero": "205",
+        "complemento": "teste"
+      }
+    }
+  ],
+  "pos": {
+    "id": 2,
+    "slug": "teste",
+    "nome_fantasia": "Teste",
+    "cnpj": "94224991000130",
+    "razao_social": "Teste",
+    "uf": "SP",
+    "cidade": "Barueri",
+    "ddd": 12,
+    "codigo": "15F0",
+    "network": {
+      "id": 491,
+      "nome": "REDE_TESTE",
+      "slug": "rede-teste",
+      "label": "REDE_TESTE"
+    },
+    "hierarchy": {
+      "nome": "SP1",
+      "slug": "sp1"
+    }
+  }
+}

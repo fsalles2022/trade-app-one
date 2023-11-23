@@ -1,0 +1,8 @@
+{
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiJ0cmFkZXVwX2FwcCIsInNjb3BlIjpbInJlYWQiLCJ3cml0ZSJdLCJub21lIjoiVFJBREVVUCIsImV4cCI6MTYxNjQ2NDY2OCwiYXV0aG9yaXRpZXMiOlsiUk9MRV9OT1RJRklDQVJfVkVOREFfVFJBREVVUCJdLCJqdGkiOiJkMzA2YmRiNS05NWU1LTQ3NGQtYTYwOS1mOTk0MzA1YjJlZTciLCJjbGllbnRfaWQiOiJ0cmFkZXVwX2FwcCJ9.Kvh43ScTQnggXU6q-I5WKhNx90KE9MzJCtnu07-zVpM",
+  "token_type": "bearer",
+  "expires_in": 299,
+  "scope": "read write",
+  "nome": "TRADEUP",
+  "jti": "d306bdb5-95e5-474d-a609-f994305b2ee7"
+}

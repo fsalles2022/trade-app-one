@@ -1,0 +1,160 @@
+table {
+    border-spacing: 0pt;
+    margin: 0;
+    padding: 0;
+    letter-spacing: .4pt;
+    width: 100%;
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, .8);
+    text-align: center;
+    font-size: 12px;
+}
+
+table th {
+    page-break-inside: avoid !important;
+    page-break-after: auto !important;
+}
+
+table tr:nth-of-type(even) > th {
+    background-color: rgba(0, 0, 0, .05);
+}
+
+table .tr-header > th {
+    background: rgba(0, 0, 0, .8);
+}
+
+th {
+    font-weight: 500;
+}
+
+.tr-header {
+    color: white;
+}
+
+.tr-header th {
+    border-top: 1pt solid white;
+    border-left: 1pt solid white;
+    padding: 4pt 0;
+}
+
+.separator th {
+    border-top: 1pt solid lightgray;
+    background: white;
+    color: white;
+}
+
+.tr-list th {
+    border-top: 1pt solid lightgray;
+    border-left: 1pt solid lightgray;
+    padding: 3pt 0;
+}
+
+.tr-list th:last-of-type {
+    border-right: 1pt solid lightgray;
+}
+
+.tr-list:last-child th {
+    border-bottom: 1pt solid lightgray;
+}
+
+.tr-list th:first-child {
+    font-weight: 60;
+}
+
+.text-center {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.network {
+    margin-top: -20pt;
+    text-transform: uppercase;
+    width: 100%;
+    display: inline-block;
+    color: rgba(0, 0, 0, .7);
+}
+
+.title {
+    color: rgba(0, 0, 0, .54);
+    margin-bottom: 32pt;
+    margin-top: 0pt;
+    text-align: left;
+}
+
+.first.tr-list th {
+    background-color: rgba(255, 0, 0, .05);
+    border-bottom: 1pt solid red;
+}
+
+.logo {
+    max-height: 80px;
+    max-width: 360px;
+    width: auto;
+    float: right;
+    margin-top: -8pt;
+}
+
+.separator2 {
+    opacity: 0;
+    border-top: lightgray !important;
+    border-bottom: white !important;
+    background: white !important;
+    color: white !important;
+    min-width: 10px !important;
+    width: 10px !important;
+}
+
+.advisor-wrapper {
+    page-break-inside: avoid !important;
+    font-family: sans-serif;
+    display: table;
+    width: 100%;
+    margin: 2rem 0 0;
+}
+
+.advisor {
+    display: table-cell;
+    text-align: center;
+    margin:0 1rem;
+}
+
+.advisor h2 {
+    margin: .5rem 0 0;
+    padding: 0;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.advisor-line {
+    margin-top: 2rem;
+}
+
+.block {
+    display: block;
+    margin: .75rem 0 0;
+    width: 100%;
+    height: 16px;
+}
+
+.block:empty {
+    margin-top: 0;
+    margin-bottom: .25rem;
+    height: 0;
+}
+
+.block p {
+    display: inline-block;
+    margin-right: 1rem;
+    line-height: 0;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 12px;
+    margin: 0;
+    color: gray;
+}
+
+p strong {
+    font-size: 13px;
+    color: black;
+}

@@ -1,0 +1,20 @@
+<?php
+
+declare(strict_types=1);
+
+namespace TimBR\Tests\ServerTest\TimCommissioningResponses;
+
+use GuzzleHttp\Psr7\Request;
+use GuzzleHttp\Psr7\Response;
+
+interface TimCommissioningResponseInterface
+{
+    /** @return mixed */
+    public static function make();
+
+    /**
+     * @param Request $request
+     * @return Response
+     */
+    public function getMock(Request $request): Response;
+}

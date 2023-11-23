@@ -1,0 +1,337 @@
+{
+  "planos": [
+    {
+      "idPlano": "2250|1540384990152",
+      "idOferta": "2250|4332|1540384990152",
+      "descricao": "Controle Ilimitado 2GB + 1GB Bonus GV",
+      "nomePlano": "CTR 2GB+ilimitado 194/POS/SMP",
+      "tabelas": [
+        {
+          "idTabela": "4332",
+          "nomeTabela": "Controle Ilimitado 2GB + 1GB Bonus GV",
+          "valorTotal": 5900,
+          "valorComDesconto": 4999,
+          "periodoFidelizacao": 12,
+          "periodoDescontoPlano": 12,
+          "periodoDescontoBonus": 12,
+          "bonusInternet": "1GB",
+          "franquiaDeVoz": "ILIMITADO",
+          "franquiaDeDados": "2GB",
+          "formasDePagamento": [
+            "CARTAO_DE_CREDITO"
+          ],
+          "portabilidade": false,
+          "fidelizacao": true,
+          "valorThab": 2500
+        }
+      ]
+    },
+    {
+      "idPlano": "2250|1540384990152",
+      "idOferta": "2250|4335|1540384990152",
+      "descricao": "Controle Ilimitado 2GB + 1GB Bonus GV (R$59,99)",
+      "nomePlano": "CTR 2GB+ilimitado 194/POS/SMP",
+      "tabelas": [
+        {
+          "idTabela": "4335",
+          "nomeTabela": "Controle Ilimitado 2GB + 1GB Bonus GV (R$59,99)",
+          "valorTotal": 5900,
+          "valorComDesconto": 5999,
+          "periodoFidelizacao": 12,
+          "periodoDescontoPlano": 12,
+          "periodoDescontoBonus": 12,
+          "bonusInternet": "1GB",
+          "franquiaDeVoz": "ILIMITADO",
+          "franquiaDeDados": "2GB",
+          "formasDePagamento": [
+            "CARTAO_DE_CREDITO",
+            "BOLETO"
+          ],
+          "portabilidade": false,
+          "fidelizacao": true,
+          "valorThab": 2500
+        }
+      ]
+    },
+    {
+      "idPlano": "2250|1540384990152",
+      "idOferta": "2250|4334|1540384990152",
+      "descricao": "Controle Ilimitado 2GB + 1GB GV",
+      "nomePlano": "CTR 2GB+ilimitado 194/POS/SMP",
+      "tabelas": [
+        {
+          "idTabela": "4334",
+          "nomeTabela": "Controle Ilimitado 2GB + 1GB GV",
+          "valorTotal": 5900,
+          "valorComDesconto": 5999,
+          "periodoFidelizacao": 12,
+          "periodoDescontoPlano": 12,
+          "periodoDescontoBonus": 12,
+          "bonusInternet": "1GB",
+          "franquiaDeVoz": "ILIMITADO",
+          "franquiaDeDados": "2GB",
+          "formasDePagamento": [
+            "CARTAO_DE_CREDITO",
+            "DEBITO_AUTOMATICO"
+          ],
+          "portabilidade": true,
+          "fidelizacao": true,
+          "valorThab": 2500
+        }
+      ]
+    },
+    {
+      "idPlano": "2250|1532440925230",
+      "idOferta": "2250|4331|1532440925230",
+      "descricao": "Controle Ilimitado 2GB + 500MB Bonus GV",
+      "nomePlano": "CTR 2GB+ilimitado 194/PoS/SMP",
+      "tabelas": [
+        {
+          "idTabela": "4331",
+          "nomeTabela": "Controle Ilimitado 2GB + 500MB Bonus GV",
+          "valorTotal": 5900,
+          "valorComDesconto": 3999,
+          "periodoFidelizacao": 12,
+          "periodoDescontoPlano": 12,
+          "periodoDescontoBonus": 12,
+          "bonusInternet": "500MB",
+          "franquiaDeVoz": "ILIMITADO",
+          "franquiaDeDados": "2GB",
+          "formasDePagamento": [
+            "DEBITO_AUTOMATICO",
+            "BOLETO"
+          ],
+          "portabilidade": false,
+          "fidelizacao": true,
+          "valorThab": 2500
+        }
+      ]
+    },
+    {
+      "idPlano": "2299|1532440573452",
+      "idOferta": "2299|4908|1532440573452",
+      "descricao": "G CTR (10GB) + ILIMITADO (GV)",
+      "nomePlano": "CTR10GB+Ilimitado196/Pos/SMP",
+      "tabelas": [
+        {
+          "idTabela": "4908",
+          "nomeTabela": "G CTR (10GB) + ILIMITADO (GV)",
+          "valorTotal": 16999,
+          "valorComDesconto": 9999,
+          "periodoFidelizacao": 12,
+          "periodoDescontoPlano": 13,
+          "periodoDescontoBonus": 0,
+          "bonusInternet": "0",
+          "franquiaDeVoz": "ILIMITADO",
+          "franquiaDeDados": "10GB",
+          "formasDePagamento": [
+            "DEBITO_AUTOMATICO",
+            "BOLETO",
+            "CARTAO_DE_CREDITO"
+          ],
+          "portabilidade": false,
+          "fidelizacao": true,
+          "valorThab": 9500,
+          "flatFee": true,
+          "periodoFlatFee": 7
+        }
+      ]
+    },
+    {
+      "idPlano": "2299|1532440573452",
+      "idOferta": "2299|4909|1532440573452",
+      "descricao": "G CTR (10GB) + ILIMITADO (GV) - Port",
+      "nomePlano": "CTR10GB+Ilimitado196/Pos/SMP",
+      "tabelas": [
+        {
+          "idTabela": "4909",
+          "nomeTabela": "G CTR (10GB) + ILIMITADO (GV) - Port",
+          "valorTotal": 16999,
+          "valorComDesconto": 8999,
+          "periodoFidelizacao": 12,
+          "periodoDescontoPlano": 13,
+          "periodoDescontoBonus": 0,
+          "bonusInternet": "0",
+          "franquiaDeVoz": "ILIMITADO",
+          "franquiaDeDados": "10GB",
+          "formasDePagamento": [
+            "DEBITO_AUTOMATICO",
+            "BOLETO",
+            "CARTAO_DE_CREDITO"
+          ],
+          "portabilidade": true,
+          "fidelizacao": true,
+          "valorThab": 9500
+        }
+      ]
+    },
+    {
+      "idPlano": "2298|1532440573452",
+      "idOferta": "2298|4769|1532440573452",
+      "descricao": "M CTR (5GB) + ILIMITADO",
+      "nomePlano": "CTR5GB+Ilimitado196/Pos/SMP",
+      "tabelas": [
+        {
+          "idTabela": "4769",
+          "nomeTabela": "M CTR (5GB) + ILIMITADO",
+          "valorTotal": 12999,
+          "valorComDesconto": 6999,
+          "periodoFidelizacao": 12,
+          "periodoDescontoPlano": 13,
+          "periodoDescontoBonus": 0,
+          "bonusInternet": "0",
+          "franquiaDeVoz": "ILIMITADO",
+          "franquiaDeDados": "5GB",
+          "formasDePagamento": [
+            "DEBITO_AUTOMATICO",
+            "BOLETO",
+            "CARTAO_DE_CREDITO"
+          ],
+          "portabilidade": false,
+          "fidelizacao": true,
+          "valorThab": 4000
+        }
+      ]
+    },
+    {
+      "idPlano": "2298|1532440573452",
+      "idOferta": "2298|4907|1532440573452",
+      "descricao": "M CTR (5GB) + ILIMITADO (GV) - Port",
+      "nomePlano": "CTR5GB+Ilimitado196/Pos/SMP",
+      "tabelas": [
+        {
+          "idTabela": "4907",
+          "nomeTabela": "M CTR (5GB) + ILIMITADO (GV) - Port",
+          "valorTotal": 12999,
+          "valorComDesconto": 5499,
+          "periodoFidelizacao": 12,
+          "periodoDescontoPlano": 13,
+          "periodoDescontoBonus": 0,
+          "bonusInternet": "0",
+          "franquiaDeVoz": "ILIMITADO",
+          "franquiaDeDados": "5GB",
+          "formasDePagamento": [
+            "DEBITO_AUTOMATICO",
+            "BOLETO",
+            "CARTAO_DE_CREDITO"
+          ],
+          "portabilidade": true,
+          "fidelizacao": true,
+          "valorThab": 4000
+        }
+      ]
+    },
+    {
+      "idPlano": "2295|1532440573452",
+      "idOferta": "2295|4906|1532440573452",
+      "descricao": "P CTR (3GB) + ILIMITADO (GV) - Port",
+      "nomePlano": "CTR3GB+Ilimitado196/Pos/SMP",
+      "tabelas": [
+        {
+          "idTabela": "4906",
+          "nomeTabela": "P CTR (3GB) + ILIMITADO (GV) - Port",
+          "valorTotal": 8999,
+          "valorComDesconto": 3999,
+          "periodoFidelizacao": 0,
+          "periodoDescontoPlano": 13,
+          "periodoDescontoBonus": 0,
+          "bonusInternet": "0",
+          "franquiaDeVoz": "ILIMITADO",
+          "franquiaDeDados": "3GB",
+          "formasDePagamento": [
+            "DEBITO_AUTOMATICO",
+            "BOLETO",
+            "CARTAO_DE_CREDITO"
+          ],
+          "portabilidade": true,
+          "fidelizacao": false,
+          "valorThab": 3000
+        }
+      ]
+    },
+    {
+      "idPlano": "2250|1532440573452",
+      "idOferta": "2250|4740|1532440573452",
+      "descricao": "PF - NEXTEL UP 2GB",
+      "nomePlano": "CTR 2GB+ilimitado 194/POS/SMP",
+      "tabelas": [
+        {
+          "idTabela": "4740",
+          "nomeTabela": "PF - NEXTEL UP 2GB",
+          "valorTotal": 7999,
+          "valorComDesconto": 3999,
+          "periodoFidelizacao": 0,
+          "periodoDescontoPlano": 13,
+          "periodoDescontoBonus": 0,
+          "bonusInternet": "0",
+          "franquiaDeVoz": "ILIMITADO",
+          "franquiaDeDados": "2GB",
+          "formasDePagamento": [
+            "DEBITO_AUTOMATICO",
+            "BOLETO",
+            "CARTAO_DE_CREDITO"
+          ],
+          "portabilidade": false,
+          "fidelizacao": false,
+          "valorThab": 2500
+        }
+      ]
+    },
+    {
+      "idPlano": "2295|1532440573452",
+      "idOferta": "2295|4741|1532440573452",
+      "descricao": "PF - P 3GB + ILIMITADO - Ctr",
+      "nomePlano": "CTR3GB+Ilimitado196/Pos/SMP",
+      "tabelas": [
+        {
+          "idTabela": "4741",
+          "nomeTabela": "PF - P 3GB + ILIMITADO - Ctr",
+          "valorTotal": 8999,
+          "valorComDesconto": 4999,
+          "periodoFidelizacao": 12,
+          "periodoDescontoPlano": 13,
+          "periodoDescontoBonus": 0,
+          "bonusInternet": "0",
+          "franquiaDeVoz": "ILIMITADO",
+          "franquiaDeDados": "3GB",
+          "formasDePagamento": [
+            "DEBITO_AUTOMATICO",
+            "BOLETO",
+            "CARTAO_DE_CREDITO"
+          ],
+          "portabilidade": false,
+          "fidelizacao": true,
+          "valorThab": 3000
+        }
+      ]
+    },
+    {
+      "idPlano": "2294|1532440573452",
+      "idOferta": "2294|4772|1532440573452",
+      "descricao": "Port - P CTR (4GB) + ILIMITADO",
+      "nomePlano": "CTR4GB+Ilimitado196/Pos/SMP",
+      "tabelas": [
+        {
+          "idTabela": "4772",
+          "nomeTabela": "Port - P CTR (4GB) + ILIMITADO",
+          "valorTotal": 10999,
+          "valorComDesconto": 4999,
+          "periodoFidelizacao": 12,
+          "periodoDescontoPlano": 13,
+          "periodoDescontoBonus": 0,
+          "bonusInternet": "0",
+          "franquiaDeVoz": "ILIMITADO",
+          "franquiaDeDados": "4GB",
+          "formasDePagamento": [
+            "DEBITO_AUTOMATICO",
+            "BOLETO",
+            "CARTAO_DE_CREDITO"
+          ],
+          "portabilidade": true,
+          "fidelizacao": true,
+          "valorThab": 3000
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "codigo": 0,
+  "idVenda": "SP-941610",
+  "servicos": [
+    {
+      "id": 964271
+    }
+  ],
+  "statusAtivacao": "REPROVADO",
+  "codigoErro": 50007,
+  "motivo": "Não foi possível validar o estado do ICCID, pois o ICCID informado não foi encontrado no sistema GSIM."
+}

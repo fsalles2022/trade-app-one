@@ -1,0 +1,97 @@
+{
+  "type": "success",
+  "message": "",
+  "data": {
+    "rebate": [{
+      "_id": "5bc013cadedf2e5bb718de43",
+      "model": "iPhone 6s 32GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_6s_32gb"
+    }, {
+      "_id": "5bc013cadedf2e5bb718de51",
+      "model": "Iphone SE 16GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_se_16gb"
+    }, {
+      "_id": "5bc013cadedf2e5bb718de5f",
+      "model": "Iphone SE 64GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_se_64gb"
+    }, {
+      "_id": "5bc013cadedf2e5bb718de6d",
+      "model": "iPhone 7 32GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_7_32gb"
+    }, {
+      "_id": "5bc013cadedf2e5bb718de7b",
+      "model": "iPhone 7 128GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_7_128gb"
+    }, {
+      "_id": "5bc013cadedf2e5bb718de89",
+      "model": "iPhone 7 256GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_7_256gb"
+    }, {
+      "_id": "5bc013cadedf2e5bb718de97",
+      "model": "iPhone 7 PLUS 32GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_7_plus_32gb"
+    }, {
+      "_id": "5bc013cadedf2e5bb718dea5",
+      "model": "iPhone 7 PLUS 128GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_7_plus_128gb"
+    }, {
+      "_id": "5bc013cadedf2e5bb718deb3",
+      "model": "iPhone 7 PLUS 256GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_7_plus_256gb"
+    }, {
+      "_id": "5bc013cadedf2e5bb718dec1",
+      "model": "iPhone 7 128GB RED",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_7_128gb_red"
+    }, {
+      "_id": "5bc013cadedf2e5bb718decf",
+      "model": "iPhone 7 256GB RED",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_7_256gb_red"
+    }, {
+      "_id": "5bc013cadedf2e5bb718dedd",
+      "model": "iPhone 7 PLUS 128GB RED",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_7_plus_128gb_red"
+    }, {
+      "_id": "5bc013cadedf2e5bb718deeb",
+      "model": "IPHONE 8 64GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_8_64gb"
+    }, {
+      "_id": "5bc013cadedf2e5bb718def9",
+      "model": "IPHONE 8 256GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_8_256gb"
+    }, {
+      "_id": "5bc013cadedf2e5bb718df07",
+      "model": "IPHONE 8 PL 64GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_8_pl_64gb"
+    }, {
+      "_id": "5bc013cadedf2e5bb718df15",
+      "model": "IPHONE 8 PL 256GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_8_pl_256gb"
+    }, {
+      "_id": "5bc013cadedf2e5bb718df5b",
+      "model": "iPhone X 64GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_x_64gb"
+    }, {
+      "_id": "5bc013cadedf2e5bb718df69",
+      "model": "iPhone X 256GB",
+      "manufacturer": "Apple",
+      "sanitized": "iphone_x_256gb"
+    }]
+  }
+}
